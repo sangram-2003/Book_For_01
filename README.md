@@ -97,7 +97,7 @@ REFERENCES
 93. Thomas J. Hopkins. “ISKCON’s Future in India.” In Bryant & Ekstrand (2004): pp. 301–323. 
 94. Steven J. Gelberg. “Remembering Prabhupada: The Founder’s Charisma in Memory.” ISKCON Studies Journal 2 (1991): pp. 21–47. 
 95. Guy Beck. Hinduism and Music. New Delhi: DK Printworld, 2018. 220 pp. 
-96. Ranchor Prime. Hinduism and Ecology: Seeds of Truth. Delhi: Motilal Banarsidass, 1994. 214 pp. 
+96. Ranchor Prime. Hinduism and Ecology: Seeds of Truth. Delhi: Motilal Banarsidass, 1994.pp 214. 
 97. E. Burke Rochford Jr. Cults and New Religious Movements in America. Westport: Greenwood Press, 1985. 340 pp. 
 98. Kim Knott. “ISKCON as a Global Hindu Movement.” Journal of Contemporary Religion 15, no. 3 (2000): pp. 361–378. 
 99. John Grimes. A Concise Dictionary of Indian Philosophy. Albany: SUNY Press, 1996. 420 pp. 
@@ -764,6 +764,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
