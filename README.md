@@ -7,24 +7,24 @@ REFERENCES
 4. A. C. Bhaktivedanta Swami Prabhupada. The Nectar of Devotion. Mumbai: Bhaktivedanta Book Trust, 1970. pp 396.
 5. A. C. Bhaktivedanta Swami Prabhupada. The Science of Self-Realization. Mumbai: Bhaktivedanta Book Trust, 1977. pp 384.
 6. A. C. Bhaktivedanta Swami Prabhupada. Teachings of Lord Caitanya. Mumbai: Bhaktivedanta Book Trust, 1968. pp 358.
-7. Bhaktivinoda Ṭhākura. Jaiva-Dharma. Various eds., Kolkata: Gaudiya Math. ~500 pp.
+7. Bhaktivinoda Ṭhākura. Jaiva-Dharma. Various eds., Kolkata: Gaudiya Math. pp ~500.
 8. Bhaktisiddhānta Sarasvatī Ṭhākura. Collected Works. Kolkata: Gaudiya Math. (multi-vol. set; thousands of pp.)
-9. Burke E. Rochford Jr. Hare Krishna in America. New Brunswick: Rutgers University Press, 1985. 304 pp.
-10. Burke E. Rochford Jr. Hare Krishna Transformed. New York: NYU Press, 2007. 352 pp.
-11. Larry D. Shinn. The Hare Krishna in the West. Philadelphia: Westminster Press, 1985. 240 pp.
-12. J. Stillson Judah. Hare Krishna and the Counterculture. New York: John Wiley & Sons, 1974. 286 pp.
-13. Kim Knott. My Sweet Lord: The Hare Krishna Movement. London: Routledge, 1986. 224 pp.
-14. Charles R. Brooks. The Hare Krishnas in India. Princeton: Princeton University Press, 1989. 320 pp.
-15. Edwin F. Bryant and Maria L. Ekstrand, eds. The Hare Krishna Movement: The Postcharismatic Fate of a Religious Transplant. New York: Columbia University Press, 2004. 496 pp.
-16. Graham Dwyer and Richard J. Cole, eds. The Hare Krishna Movement: Forty Years of Chant and Change. London: I.B. Tauris, 2007. 320 pp.
-17. Kimmo Ketola. The Hare Krishna Movement: The Post-Charismatic Fate of a Religious Transplant. Helsinki: Finnish Society for the Study of Religion, 2008. 328 pp.
-18. David G. Bromley and Larry D. Shinn, eds. Krishna Consciousness in the West. Lewisburg: Bucknell University Press, 1989. 272 pp.
-19. Guy L. Beck. Sonic Liturgy: Ritual and Music in Hindu Tradition and Beyond. Columbia: University of South Carolina Press, 2012. 240 pp.
-20. John Stratton Hawley. A Storm of Songs: India and the Idea of the Bhakti Movement. Cambridge, MA: Harvard University Press, 2015. 384 pp
-21. John Carman and Vasudha Narayanan, eds. The Vernacular Veda: Revelation, Recitation, and Ritual. Columbia: University of South Carolina Press, 1994. 272 pp.
-22. Julius Lipner. Hindus: Their Religious Beliefs and Practices. 2nd ed. London: Routledge, 2010. 344 pp.
-23. Karen Pechilis. The Embodiment of Bhakti. New York: Oxford University Press, 1999. 272 pp.
-24. Swami Tapasyānanda. Bhakti Schools of Vedanta. Chennai: Sri Ramakrishna Math, 1990. 320 pp
+9. Burke E. Rochford Jr. Hare Krishna in America. New Brunswick: Rutgers University Press, 1985. pp 304.
+10. Burke E. Rochford Jr. Hare Krishna Transformed. New York: NYU Press, 2007. pp 352.
+11. Larry D. Shinn. The Hare Krishna in the West. Philadelphia: Westminster Press, 1985. pp 240.
+12. J. Stillson Judah. Hare Krishna and the Counterculture. New York: John Wiley & Sons, 1974. pp 286.
+13. Kim Knott. My Sweet Lord: The Hare Krishna Movement. London: Routledge, 1986. pp 224.
+14. Charles R. Brooks. The Hare Krishnas in India. Princeton: Princeton University Press, 1989. pp 320.
+15. Edwin F. Bryant and Maria L. Ekstrand, eds. The Hare Krishna Movement: The Postcharismatic Fate of a Religious Transplant. New York: Columbia University Press, 2004. pp 496.
+16. Graham Dwyer and Richard J. Cole, eds. The Hare Krishna Movement: Forty Years of Chant and Change. London: I.B. Tauris, 2007. pp 320.
+17. Kimmo Ketola. The Hare Krishna Movement: The Post-Charismatic Fate of a Religious Transplant. Helsinki: Finnish Society for the Study of Religion, 2008. pp 328.
+18. David G. Bromley and Larry D. Shinn, eds. Krishna Consciousness in the West. Lewisburg: Bucknell University Press, 1989. pp 272.
+19. Guy L. Beck. Sonic Liturgy: Ritual and Music in Hindu Tradition and Beyond. Columbia: University of South Carolina Press, 2012. pp 240.
+20. John Stratton Hawley. A Storm of Songs: India and the Idea of the Bhakti Movement. Cambridge, MA: Harvard University Press, 2015. pp 384.
+21. John Carman and Vasudha Narayanan, eds. The Vernacular Veda: Revelation, Recitation, and Ritual. Columbia: University of South Carolina Press, 1994. pp 272.
+22. Julius Lipner. Hindus: Their Religious Beliefs and Practices. 2nd ed. London: Routledge, 2010. pp 344.
+23. Karen Pechilis. The Embodiment of Bhakti. New York: Oxford University Press, 1999. pp 272.
+24. Swami Tapasyānanda. Bhakti Schools of Vedanta. Chennai: Sri Ramakrishna Math, 1990. pp 320.
 25. Steven J. Gelberg (Subhananda Dasa). “The Future of the Hare Krishna Movement: Problems and Prospects.” ISKCON Studies Journal 1 (1990): pp. 35–58.
 26. Burke E. Rochford Jr. “Family Formation, Culture, and Change in the Hare Krishna Movement.” Sociology of Religion 58, no. 1 (1997): pp. 23–40.
 27. Larry D. Shinn. “The Transformation of Charisma in the Hare Krishna Movement.” Sociological Analysis 38, no. 2 (1977): pp. 141–154.
@@ -764,5 +764,6 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
