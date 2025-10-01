@@ -66,47 +66,46 @@ REFERENCES
 59.	Shrivatsa Goswami. “Gaudiya Vaishnavism and ISKCON: Continuities and Tensions.” In Dwyer & Cole, The Hare Krishna Movement (2007): pp. 61–83.
 60.	Graham M. Schweig. Bhakti and Embodiment: Configuring Divine Love in Kṛṣṇa Bhakti. New York: Oxford University Press, 2020. pp. 280.
 
-61. Hugh B. Urban. Zorba the Buddha: Sex, Spirituality, and Capitalism in the Global Osho Movement. Urbana: University of Illinois Press, 2005. 312 pp. (comparative with ISKCON).
-62. Diana L. Eck. India: A Sacred Geography. New York: Harmony Books, 2012. 576 pp.
-63. Anuttama Dasa. “ISKCON and Interfaith Dialogue: Building Bridges.” ISKCON Communications Journal 10 (2002): pp. 15–32
-64. Richard Davis. Lives of Indian Images. Princeton: Princeton University Press, 1997. 304 pp.
-65. Alan G. Ziegler. The Airport Encounter: ISKCON’s Public Outreach in the 1970s. Unpublished PhD thesis, Columbia University, 1988. 350 pp.
+61. Hugh B. Urban. Zorba the Buddha: Sex, Spirituality, and Capitalism in the Global Osho Movement. Urbana: University of Illinois Press, 2005. pp. 312. (comparative with ISKCON).
+62. Diana L. Eck. India: A Sacred Geography. New York: Harmony Books, 2012.  pp. 576.
+63. Anuttama Dasa. “ISKCON and Interfaith Dialogue: Building Bridges.” ISKCON Communications Journal 10 (2002): pp. 15–32.
+64. Richard Davis. Lives of Indian Images. Princeton: Princeton University Press, 1997. pp. 304.
+65. Alan G. Ziegler. The Airport Encounter: ISKCON’s Public Outreach in the 1970s. Unpublished PhD thesis, Columbia University, 1988. pp. 350.
 66. Charles R. Brooks. “Pilgrimage and Identity in ISKCON.” Journal of Asian Studies 49, no. 2 (1990): pp. 255–271.
-67. J. Gordon Melton. Encyclopedic Handbook of Cults in America. New York: Garland, 1986. 440 pp.
-68. James Beckford. Cult Controversies: The Societal Response to New Religious Movements. London: Tavistock, 1985. 368 pp.
-69. Eileen Barker. The Making of a Moonie: Choice or Brainwashing? Oxford: Blackwell, 1984. 368 pp. (comparative frame).
-70. Brian Frykenberg. Hinduism Reconsidered. New Delhi: Manohar, 1989. 420 pp.
+67. J. Gordon Melton. Encyclopedic Handbook of Cults in America. New York: Garland, 1986. pp.  440.
+68. James Beckford. Cult Controversies: The Societal Response to New Religious Movements. London: Tavistock, 1985. pp. 368.
+69. Eileen Barker. The Making of a Moonie: Choice or Brainwashing? Oxford: Blackwell, 1984. pp. 368. (comparative frame).
+70. Brian Frykenberg. Hinduism Reconsidered. New Delhi: Manohar, 1989. pp.  420.
 71. Charles R. Brooks. “ISKCON in Bengal: Re-rooting the Movement.” In Bryant & Ekstrand (2004): pp. 201–222.
 72. Ferdinando Sardella. “Modern Hindu Personalism and ISKCON’s Global Vision.” Journal of Hindu Studies 6, no. 1 (2013): pp. 45–68.
-73. Shraddhā Dasi. ISKCON Women Speak Out. London: ISKCON Communications, 2000. 200 pp.
+73. Shraddhā Dasi. ISKCON Women Speak Out. London: ISKCON Communications, 2000. pp. 200.
 74. Burghart, Richard. “On the Political Economy of Hinduism: ISKCON and Development.” Contributions to Indian Sociology 20, no. 2 (1986): pp. 181–206.
 75. T. G. O’Connell. “The Theology of the Bhagavad Gita and ISKCON.” Religious Studies Review 12, no. 4 (1986): pp. 307–315.
-76. Acyutananda Swami. ISKCON’s Early Years in India: A Memoir. Vrindavan: ISKCON Press, 1998. 245 pp.
-77. Keshava Bharati Das. Bhakti Yoga in Practice: ISKCON’s Global Expansion. Mayapur: ISKCON Press, 2002. 310 pp.
+76. Acyutananda Swami. ISKCON’s Early Years in India: A Memoir. Vrindavan: ISKCON Press, 1998. pp. 245.
+77. Keshava Bharati Das. Bhakti Yoga in Practice: ISKCON’s Global Expansion. Mayapur: ISKCON Press, 2002. pp. 310.
 78. Graham Dwyer. “Charisma, Tradition, and Authority in ISKCON.” Religion 30, no. 2 (2000): pp. 131–154.
-79. Arvind Sharma. Modern Hindu Thought. New Delhi: Oxford University Press, 2005. 298 pp. 
-80. Guy Welbon and Glenn Yocum, eds. Religious Festivals in South Asia. Philadelphia: University of Pennsylvania Press, 1982. 322 pp. 
+79. Arvind Sharma. Modern Hindu Thought. New Delhi: Oxford University Press, 2005. pp. 298. 
+80. Guy Welbon and Glenn Yocum, eds. Religious Festivals in South Asia. Philadelphia: University of Pennsylvania Press, 1982. pp. 322.
 81. Richard Burghart. “Hare Krishnas and the Globalization of Hinduism.” Man 21, no. 3 (1986): pp. 501–520. 
-82. Julius Lipner. Brahmabandhab Upadhyay: The Life and Thought of a Revolutionary. Delhi: Oxford University Press, 1999. 280 pp. (context). 
-83. James Lewis. Cults in America: A Reference Handbook. Santa Barbara: ABC-CLIO, 1998. 300 pp. 
-84. Chaitanya Charan Das. Mind Your Mind: Daily Reflections for Spiritual Growth. Mumbai: Voice of Gita, 2016. 360 pp. 
-85. Satyanarayana Dasa. Jiva Institute Essays on Bhakti Philosophy. Vrindavan: Jiva Institute, 2012. 400 pp. 
+82. Julius Lipner. Brahmabandhab Upadhyay: The Life and Thought of a Revolutionary. Delhi: Oxford University Press, 1999. pp. 280. (context). 
+83. James Lewis. Cults in America: A Reference Handbook. Santa Barbara: ABC-CLIO, 1998.  pp. 300. 
+84. Chaitanya Charan Das. Mind Your Mind: Daily Reflections for Spiritual Growth. Mumbai: Voice of Gita, 2016. pp. 360. 
+85. Satyanarayana Dasa. Jiva Institute Essays on Bhakti Philosophy. Vrindavan: Jiva Institute, 2012. pp. 400. 
 86. Graham Schweig. “The Rasa Lila in ISKCON’s Devotional Imagination.” Journal of Vaishnava Studies 12, no. 2 (2005): pp. 85–112. 
 87. Kenneth R. Valpey. “Deity Worship in ISKCON Temples: Practice and Theology.” In Sardella & Wong, Legacy of Vaishnava Saints (2023): pp. 163–182. 
 88. Anuttama Dasa. “ISKCON’s Response to Criticism: Communications and Media Strategy.” ISKCON Communications Journal 5 (1997): pp. 12–29. 
 89. Graham Dwyer. “The George Harrison–ISKCON Connection.” Popular Music and Society 23, no. 4 (1999): pp. 45–67. 
-90. Klaus Klostermaier. Survey of Hinduism. 3rd ed. Albany: SUNY Press, 2007. 648 pp. 
-91. Julius Lipner. Hindus: Their Religious Beliefs and Practices. London: Routledge, 2010. 344 pp. 
-92. Vasudha Narayanan. Hinduism and Ecology. Cambridge, MA: Harvard Center for the Study of World Religions, 2000. 340 pp. 
+90. Klaus Klostermaier. Survey of Hinduism. 3rd ed. Albany: SUNY Press, 2007. pp. 648. 
+91. Julius Lipner. Hindus: Their Religious Beliefs and Practices. London: Routledge, 2010. pp. 344. 
+92. Vasudha Narayanan. Hinduism and Ecology. Cambridge, MA: Harvard Center for the Study of World Religions, 2000. pp. 340. 
 93. Thomas J. Hopkins. “ISKCON’s Future in India.” In Bryant & Ekstrand (2004): pp. 301–323. 
 94. Steven J. Gelberg. “Remembering Prabhupada: The Founder’s Charisma in Memory.” ISKCON Studies Journal 2 (1991): pp. 21–47. 
-95. Guy Beck. Hinduism and Music. New Delhi: DK Printworld, 2018. 220 pp. 
-96. Ranchor Prime. Hinduism and Ecology: Seeds of Truth. Delhi: Motilal Banarsidass, 1994.pp 214. 
-97. E. Burke Rochford Jr. Cults and New Religious Movements in America. Westport: Greenwood Press, 1985. 340 pp. 
+95. Guy Beck. Hinduism and Music. New Delhi: DK Printworld, 2018. pp. 220. 
+96. Ranchor Prime. Hinduism and Ecology: Seeds of Truth. Delhi: Motilal Banarsidass, 1994. pp. 214. 
+97. E. Burke Rochford Jr. Cults and New Religious Movements in America. Westport: Greenwood Press, 1985. pp. 340. 
 98. Kim Knott. “ISKCON as a Global Hindu Movement.” Journal of Contemporary Religion 15, no. 3 (2000): pp. 361–378. 
-99. John Grimes. A Concise Dictionary of Indian Philosophy. Albany: SUNY Press, 1996. 420 pp. 
-100. Hare Krishna! The Mantra, the Movement, and the Swami Who Started It All. Directed by John Griesser & Jean Griesser. 2017 Documentary Film. Runtime 90 minutes. 
-[28/09, 2:19 pm] Malay Khan(sadgope ): References (pp. 101–200) 
+99. John Grimes. A Concise Dictionary of Indian Philosophy. Albany: SUNY Press, 1996. pp.  420. 
+100. Hare Krishna! The Mantra, the Movement, and the Swami Who Started It All. Directed by John Griesser & Jean Griesser. 2017 Documentary Film. Runtime 90 minutes.  (pp. 101–200) 
 101. Gaura-Vaishnava tradition and Bhakti revival in Bengal — see Chaitanya’s reform movement and its theological legacy (pp. 101–102). 
 102. Chaitanya Mahaprabhu’s role in re-establishing Krishna–bhakti in 16th-century Bengal (pp. 103–104). 
 103. Nityānanda Prabhu and the Six Goswamis of Vrindavan: their contributions to the Gaudiya Vaishnava line (pp. 105–106). 
@@ -157,16 +156,17 @@ REFERENCES
 148. ISKCON in major Indian cities: Mayapur, Vrindavan, Bangalore, Mumbai, etc. (pp. 195–196). 
 149. The Akshaya Patra mid-day meal project (scale, challenges) (pp. 197–198). 
 150. Campus preaching and youth outreach strategies in India (pp. 199–200). 
-[28/09, 2:24 pm] Malay Khan(sadgope ): 201. Charles R. Brooks. The Hare Krishnas in India. Princeton: Princeton University Press, 1989. 276 pp. 
-202. E. Burke Rochford Jr. Hare Krishna Transformed. New York: New York University Press, 2007. 368 pp. 
-203. Dhanurdhara Swami. Waves of Devotion: Comprehensive Study of The Nectar of Devotion. Mumbai: Torchlight Publishing, 2000. 540 pp. 
-204. Graham Dwyer and Richard J. Cole, eds. The Hare Krishna Movement: Forty Years of Chant and Change. London: Routledge, 2007. 253 pp. 
-205. Guy Beck. Sonic Theology: Hinduism and Sacred Sound. Columbia: University of South Carolina Press, 1993. 348 pp. 
-206. Steven J. Gelberg (Subhananda dasa). ISKCON in the 1970s: A Memoir. Los Angeles: ISKCON Press, 1982. 214 pp. 
-207. Tamal Krishna Goswami. A Living Theology of Krishna Bhakti: Essential Teachings of A. C. Bhaktivedanta Swami Prabhupada. New York: Oxford University Press, 2012. 304 pp. 
-208. Bryant, Edwin. Bhakti Yoga: Tales and Teachings from the Bhagavata Purana. New Haven: Yale University Press, 2017. 384 pp. 
-209. Thomas J. Hopkins. The Hindu Religious Tradition. Belmont, CA: Wadsworth, 1971. 307 pp. 
-210. Klaus K. Klostermaier. A Survey of Hinduism. Albany: SUNY Press, 1994. 634 pp. 
+201. Charles R. Brooks. The Hare Krishnas in India. Princeton: Princeton University Press, 1989. pp. 276. 
+202. E. Burke Rochford Jr. Hare Krishna Transformed. New York: New York University Press, 2007. pp. 368. 
+203. Dhanurdhara Swami. Waves of Devotion: Comprehensive Study of The Nectar of Devotion. Mumbai: Torchlight Publishing, 2000. pp. 540. 
+204. Graham Dwyer and Richard J. Cole, eds. The Hare Krishna Movement: Forty Years of Chant and Change. London: Routledge, 2007. pp. 253. 
+205. Guy Beck. Sonic Theology: Hinduism and Sacred Sound. Columbia: University of South Carolina Press, 1993. pp. 348. 
+206. Steven J. Gelberg (Subhananda dasa). ISKCON in the 1970s: A Memoir. Los Angeles: ISKCON Press, 1982. pp. 214. 
+207. Tamal Krishna Goswami. A Living Theology of Krishna Bhakti: Essential Teachings of A. C. Bhaktivedanta Swami Prabhupada. New York: Oxford University Press, 2012. pp. 304. 
+208. Bryant, Edwin. Bhakti Yoga: Tales and Teachings from the Bhagavata Purana. New Haven: Yale University Press, 2017. pp. 384. 
+209. Thomas J. Hopkins. The Hindu Religious Tradition. Belmont, CA: Wadsworth, 1971. pp. 307. 
+210. Klaus K. Klostermaier. A Survey of Hinduism. Albany: SUNY Press, 1994. pp. 634. 
+
 211. A. C. Bhaktivedanta Swami Prabhupada. Bhagavad-gītā As It Is. Los Angeles: Bhaktivedanta Book Trust, 1972. 844 pp. 
 212. A. C. Bhaktivedanta Swami Prabhupada. Śrīmad-Bhāgavatam (Bhāgavata Purāṇa), 12 vols. Los Angeles: Bhaktivedanta Book Trust, 1972–1977. 
 213. A. C. Bhaktivedanta Swami Prabhupada. Teachings of Lord Caitanya. Los Angeles: Bhaktivedanta Book Trust, 1968. 364 pp. 
@@ -768,6 +768,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
