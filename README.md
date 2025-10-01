@@ -167,111 +167,112 @@ REFERENCES
 209. Thomas J. Hopkins. The Hindu Religious Tradition. Belmont, CA: Wadsworth, 1971. pp. 307. 
 210. Klaus K. Klostermaier. A Survey of Hinduism. Albany: SUNY Press, 1994. pp. 634. 
 
-211. A. C. Bhaktivedanta Swami Prabhupada. Bhagavad-gītā As It Is. Los Angeles: Bhaktivedanta Book Trust, 1972. 844 pp. 
+211. A. C. Bhaktivedanta Swami Prabhupada. Bhagavad-gītā As It Is. Los Angeles: Bhaktivedanta Book Trust, 1972. pp. 844. 
 212. A. C. Bhaktivedanta Swami Prabhupada. Śrīmad-Bhāgavatam (Bhāgavata Purāṇa), 12 vols. Los Angeles: Bhaktivedanta Book Trust, 1972–1977. 
-213. A. C. Bhaktivedanta Swami Prabhupada. Teachings of Lord Caitanya. Los Angeles: Bhaktivedanta Book Trust, 1968. 364 pp. 
-214. A. C. Bhaktivedanta Swami Prabhupada. The Nectar of Devotion. Los Angeles: Bhaktivedanta Book Trust, 1970. 396 pp. 
-215. Charles Selengut. Sacred Fury: Understanding Religious Violence. Walnut Creek: AltaMira Press, 2003. 272 pp. 
-216. Edwin F. Bryant and Maria Ekstrand, eds. The Hare Krishna Movement: The Postcharismatic Fate of a Religious Transplant. New York: Columbia University Press, 2004. 454 pp. 
-217. Burke Rochford. “Recruitment Strategies, Ideology, and Organization in the Hare Krishna Movement.” Social Problems 29, no. 4 (1982): 399–410. 
-218. Larry D. Shinn. The Dark Lord: Cult Images and the Hare Krishnas in America. Philadelphia: Westminster Press, 1987. 239 pp. 
-219. Benjamin E. Zeller. Prophets and Protons: New Religious Movements and Science in Late Twentieth-Century America. New York: New York University Press, 2010. 278 pp. 
-220. Jan Bremmer and Andrew Erskine, eds. The Gods of Ancient Greece: Identities and Transformations. Edinburgh: Edinburgh University Press, 2010. 374 pp. 
-221. John Eade and Michael J. Sallnow, eds. Contesting the Sacred: The Anthropology of Christian Pilgrimage. London: Routledge, 1991. 208 pp. 
-222. Hugh B. Urban. Zorba the Buddha: Sex, Spirituality, and Capitalism in the Global Osho Movement. Berkeley: University of California Press, 2015. 318 pp. 
-223. Thomas Cushman and Stjepan Mestrovic, eds. This Time We Knew: Western Responses to Genocide in Bosnia. New York: NYU Press, 1996. 318 pp. 
-224. James Beckford. Cult Controversies: The Societal Response to New Religious Movements. London: Tavistock, 1985. 350 pp. 
-225. Eileen Barker. The Making of a Moonie: Choice or Brainwashing? Oxford: Basil Blackwell, 1984. 552 pp. 
-226. Roy Wallis. The Elementary Forms of the New Religious Life. London: Routledge & Kegan Paul, 1984. 278 pp. 
-227. Kees W. Bolle. The Persistence of Religion: Comparative Essays on Judaism, Christianity, and Islam. Leiden: Brill, 1989. 204 pp. 
-228. Arvind Sharma. Hinduism for Our Times. Delhi: Oxford University Press, 1995. 178 pp. 
-229. Julius Lipner. Hindus: Their Religious Beliefs and Practices. London: Routledge, 2010. 350 pp. 
-230. David G. Bromley, ed. Falling from the Faith: Causes and Consequences of Religious Apostasy. Newbury Park: Sage Publications, 1988. 320 pp. 
-231. David G. Bromley and Anson Shupe, eds. New Christian Churches. Beverly Hills: Sage, 1979. 256 pp. 
-232. Peter Clarke. Japanese New Religions: In Global Perspective. Richmond: Curzon Press, 2000. 240 pp. 
-233. James A. Beckford and Thomas Robbins, eds. Religion and the Social Order: New Religious Movements and Religious Liberty in America. Greenwich: JAI Press, 1986. 360 pp. 
-234. George D. Chryssides. Exploring New Religions. London: Cassell, 1999. 448 pp. 
-235. George D. Chryssides and Margaret Z. Wilkins, eds. A Reader in New Religious Movements. London: Continuum, 2006. 440 pp. 
-236. Jean Holm and John Bowker, eds. Sacred Writings: Hinduism. London: Pinter, 1994. 192 pp. 
-237. Alan W. Watts. The Way of Zen. New York: Vintage Books, 1957. 256 pp. 
-238. Thomas Tweed. Crossing and Dwelling: A Theory of Religion. Cambridge, MA: Harvard University Press, 2006. 288 pp. 
-239. Olav Hammer. Claiming Knowledge: Strategies of Epistemology from Theosophy to the New Age. Leiden: Brill, 2001. 584 pp. 
-240. Mikael Rothstein. Belief Transformations: Some Aspects of the Relation between Science and Religion in Transcendental Meditation (TM) and the International Society for Krishna Consciousness (ISKCON). Aarhus: Aarhus University Press, 1996. 228 pp. 
-241. Steven Heine and Charles Prebish, eds. Buddhism in the Modern World: Adaptations of an Ancient Tradition. New York: Oxford University Press, 2003. 288 pp. 
-242. Diana Eck. India: A Sacred Geography. New York: Harmony, 2012. 576 pp. 
-243. Karen Pechilis. The Embodiment of Bhakti. New York: Oxford University Press, 1999. 280 pp. 
-244. Ainslie T. Embree. Sources of Indian Tradition, Vol. 2. New York: Columbia University Press, 1988. 481 pp. 
-245. Surendranath Dasgupta. A History of Indian Philosophy, Vol. 1. Cambridge: Cambridge University Press, 1922. 579 pp. 
-246. R. C. Zaehner. Hinduism. Oxford: Oxford University Press, 1966. 204 pp. 
-247. Gavin Flood. An Introduction to Hinduism. Cambridge: Cambridge University Press, 1996. 348 pp. 
-248. Julius Lipner, ed. The Fruits of Our Desiring: An Enquiry into the Ethics of the Bhagavadgītā for Our Times. Calgary: Bayeux Arts, 1997. 280 pp. 
-249. Andrew Rawlinson. The Book of Enlightened Masters: Western Teachers in Eastern Traditions. Chicago: Open Court, 1997. 582 pp. 
-250. June McDaniel. Offering Flowers, Feeding Skulls: Popular Goddess Worship in West Bengal. New York: Oxford University Press, 2004. 404 pp. 
-[28/09, 2:25 pm] Malay Khan(sadgope ): 251. John Stratton Hawley. Krishna, the Butter Thief. Princeton: Princeton University Press, 1981. 296 pp. 
-252. John Stratton Hawley and Vasudha Narayanan, eds. The Life of Hinduism. Berkeley: University of California Press, 2006. 356 pp. 
-253. David Haberman. Acting as a Way of Salvation: A Study of Rāgānugā Bhakti Sādhana. New York: Oxford University Press, 1988. 272 pp. 
-254. David Haberman. Journey through the Twelve Forests: An Encounter with Krishna. New York: Oxford University Press, 1994. 286 pp. 
-255. Joseph T. O’Connell, Milton Singer, and Steven Tambiah, eds. Charisma and Commitment in South Asian Religious Movements. Delhi: Motilal Banarsidass, 1979. 372 pp. 
-256. Joseph T. O’Connell. “The Word Caitanya in Bengali Vaisnava Texts.” Journal of the American Oriental Society 93, no. 3 (1973): 358–362. 
-257. Tony K. Stewart. The Final Word: The Caitanya Caritamṛta and the Grammar of Religious Tradition. New York: Oxford University Press, 2010. 416 pp. 
-258. Tony K. Stewart, ed. God of Bengali Literature: Essays on the Caitanya Tradition. Delhi: Manohar, 1999. 310 pp. 
-259. Sanjukta Gupta, Knut A. Jacobsen, Helene Basu, and Angelika Malinar, eds. South Asian Religions on Display: Religious Processions in South Asia and in the Diaspora. London: Routledge, 2007. 304 pp. 
-260. Edward C. Dimock Jr. The Place of the Hidden Moon: Erotic Mysticism in the Vaiṣṇava-Sahajiyā Cult of Bengal. Chicago: University of Chicago Press, 1966. 388 pp. 
-261. Edward C. Dimock Jr. and Denise Levertov. In Praise of Krishna: Songs from the Bengali. Chicago: University of Chicago Press, 1967. 228 pp. 
-262. Shashibhushan Dasgupta. Obscure Religious Cults. Calcutta: Firma K. L. Mukhopadhyay, 1969. 420 pp. 
-263. A. K. Majumdar. Caitanya: His Life and Doctrine. Calcutta: University of Calcutta Press, 1969. 382 pp. 
-264. Sushil Kumar De. Early History of the Vaisnava Faith and Movement in Bengal. Calcutta: Firma K. L. Mukhopadhyay, 1961. 568 pp. 
-265. Radhakamal Mukerjee. The Culture and Art of India. London: George Allen & Unwin, 1948. 340 pp. 
-266. J. N. Farquhar. Modern Religious Movements in India. New Delhi: Munshiram Manoharlal, 1967 [1915]. 500 pp. 
-267. Hitesranjan Sanyal. Social Mobility in Bengal. Calcutta: Papyrus, 1981. 278 pp. 
-268. Milton Singer. When a Great Tradition Modernizes: An Anthropological Approach to Indian Civilization. Chicago: University of Chicago Press, 1972. 408 pp. 
-269. Agehananda Bharati. The Ochre Robe: An Autobiography. London: George Allen & Unwin, 1961. 278 pp. 
-270. Philip Lutgendorf. The Life of a Text: Performing the Rāmcaritmānas of Tulsidas. Berkeley: University of California Press, 1991. 460 pp. 
-271. A. K. Ramanujan. Poems of Love and War: From the Eight Anthologies and the Ten Long Poems of Classical Tamil. New York: Columbia University Press, 1985. 366 pp. 
-272. Sheldon Pollock. The Language of the Gods in the World of Men. Berkeley: University of California Press, 2006. 684 pp. 
-273. Jack Hawley and Mark Juergensmeyer, eds. Songs of the Saints of India. New York: Oxford University Press, 1988. 210 pp. 
-274. Kenneth E. Bryant. Poetry of the Spirit: Studies in Rajastani Bhakti. Delhi: Motilal Banarsidass, 1990. 292 pp. 
-275. Norbert Peabody. Hindu Kingship and Polity in Precolonial India. Cambridge: Cambridge University Press, 2003. 320 pp. 
-276. Charlotte Vaudeville. Kabir. Oxford: Clarendon Press, 1974. 328 pp. 
-277. Charlotte Vaudeville. A Weaver Named Kabir. New Delhi: Oxford University Press, 1993. 340 pp. 
-278. John S. Hawley. Three Bhakti Voices: Mirabai, Surdas, and Kabir in Their Time and Ours. Delhi: Oxford University Press, 2005. 350 pp. 
-279. David N. Lorenzen. Kabir Legends and Ananta-das’s Kabir Parachai. Albany: SUNY Press, 1991. 312 pp. 
-280. David N. Lorenzen. Religious Movements in South Asia, 600–1800. Delhi: Oxford University Press, 2004. 348 pp. 
-281. Heinrich von Stietencron. Krishna: Myths, Rites, and Attitudes. Delhi: Manohar, 1986. 272 pp. 
-282. Alf Hiltebeitel. The Cult of Draupadi, Vol. 1. Chicago: University of Chicago Press, 1988. 542 pp. 
-283. Alf Hiltebeitel. The Cult of Draupadi, Vol. 2. Chicago: University of Chicago Press, 1991. 528 pp. 
-284. Wendy Doniger. The Hindus: An Alternative History. New York: Penguin, 2009. 779 pp. 
-285. Wendy Doniger. Siva: The Erotic Ascetic. New York: Oxford University Press, 1981. 382 pp. 
-286. Wendy Doniger and Brian K. Smith. Hindu Myths. London: Penguin Classics, 1991. 348 pp. 
-287. Julius J. Lipner, ed. Brahmabandhab Upadhyay: The Life and Thought of a Revolutionary. Delhi: Oxford University Press, 1999. 400 pp. 
-288. Dermot Killingley. Rammohun Roy in Hindu and Christian Tradition. Newcastle: Grevatt & Grevatt, 1993. 280 pp. 
-289. Amiya P. Sen. Hindu Revivalism in Bengal 1872–1905: Some Essays in Interpretation. Delhi: Oxford University Press, 1993. 298 pp. 
-290. Amiya P. Sen. Swami Vivekananda. New Delhi: Oxford University Press, 2000. 210 pp. 
-291. Swami Nikhilananda. Swami Vivekananda: A Biography. Calcutta: Advaita Ashrama, 1964. 422 pp. 
-292. Sankar. The Monk as Man: The Unknown Life of Swami Vivekananda. New Delhi: Penguin, 2010. 224 pp. 
+213. A. C. Bhaktivedanta Swami Prabhupada. Teachings of Lord Caitanya. Los Angeles: Bhaktivedanta Book Trust, 1968. pp. 364. 
+214. A. C. Bhaktivedanta Swami Prabhupada. The Nectar of Devotion. Los Angeles: Bhaktivedanta Book Trust, 1970. pp. 396. 
+215. Charles Selengut. Sacred Fury: Understanding Religious Violence. Walnut Creek: AltaMira Press, 2003. pp. 272. 
+216. Edwin F. Bryant and Maria Ekstrand, eds. The Hare Krishna Movement: The Postcharismatic Fate of a Religious Transplant. New York: Columbia University Press, 2004. pp. 454. 
+217. Burke Rochford. “Recruitment Strategies, Ideology, and Organization in the Hare Krishna Movement.” Social Problems 29, no. 4 (1982): pp. 399–410. 
+218. Larry D. Shinn. The Dark Lord: Cult Images and the Hare Krishnas in America. Philadelphia: Westminster Press, 1987. pp. 239. 
+219. Benjamin E. Zeller. Prophets and Protons: New Religious Movements and Science in Late Twentieth-Century America. New York: New York University Press, 2010. pp. 278. 
+220. Jan Bremmer and Andrew Erskine, eds. The Gods of Ancient Greece: Identities and Transformations. Edinburgh: Edinburgh University Press, 2010. pp. 374. 
+221. John Eade and Michael J. Sallnow, eds. Contesting the Sacred: The Anthropology of Christian Pilgrimage. London: Routledge, 1991. pp. 208. 
+222. Hugh B. Urban. Zorba the Buddha: Sex, Spirituality, and Capitalism in the Global Osho Movement. Berkeley: University of California Press, 2015. pp. 318. 
+223. Thomas Cushman and Stjepan Mestrovic, eds. This Time We Knew: Western Responses to Genocide in Bosnia. New York: NYU Press, 1996. pp. 318. 
+224. James Beckford. Cult Controversies: The Societal Response to New Religious Movements. London: Tavistock, 1985. pp. 350. 
+225. Eileen Barker. The Making of a Moonie: Choice or Brainwashing? Oxford: Basil Blackwell, 1984. pp. 552. 
+226. Roy Wallis. The Elementary Forms of the New Religious Life. London: Routledge & Kegan Paul, 1984. pp. 278. 
+227. Kees W. Bolle. The Persistence of Religion: Comparative Essays on Judaism, Christianity, and Islam. Leiden: Brill, 1989. pp. 204. 
+228. Arvind Sharma. Hinduism for Our Times. Delhi: Oxford University Press, 1995. pp. 178. 
+229. Julius Lipner. Hindus: Their Religious Beliefs and Practices. London: Routledge, 2010. pp. 350. 
+230. David G. Bromley, ed. Falling from the Faith: Causes and Consequences of Religious Apostasy. Newbury Park: Sage Publications, 1988. pp. 320. 
+231. David G. Bromley and Anson Shupe, eds. New Christian Churches. Beverly Hills: Sage, 1979. pp. 256. 
+232. Peter Clarke. Japanese New Religions: In Global Perspective. Richmond: Curzon Press, 2000. pp. 240. 
+233. James A. Beckford and Thomas Robbins, eds. Religion and the Social Order: New Religious Movements and Religious Liberty in America. Greenwich: JAI Press, 1986. pp. 360. 
+234. George D. Chryssides. Exploring New Religions. London: Cassell, 1999. pp. 448. 
+235. George D. Chryssides and Margaret Z. Wilkins, eds. A Reader in New Religious Movements. London: Continuum, 2006. pp. 440. 
+236. Jean Holm and John Bowker, eds. Sacred Writings: Hinduism. London: Pinter, 1994. pp.  192. 
+237. Alan W. Watts. The Way of Zen. New York: Vintage Books, 1957. pp. 256. 
+238. Thomas Tweed. Crossing and Dwelling: A Theory of Religion. Cambridge, MA: Harvard University Press, 2006. pp. 288. 
+239. Olav Hammer. Claiming Knowledge: Strategies of Epistemology from Theosophy to the New Age. Leiden: Brill, 2001. pp. 584. 
+240. Mikael Rothstein. Belief Transformations: Some Aspects of the Relation between Science and Religion in Transcendental Meditation (TM) and the International Society for Krishna Consciousness (ISKCON). Aarhus: Aarhus University Press, 1996. pp. 228. 
+241. Steven Heine and Charles Prebish, eds. Buddhism in the Modern World: Adaptations of an Ancient Tradition. New York: Oxford University Press, 2003. pp. 288. 
+242. Diana Eck. India: A Sacred Geography. New York: Harmony, 2012. pp. 576. 
+243. Karen Pechilis. The Embodiment of Bhakti. New York: Oxford University Press, 1999. pp. 280. 
+244. Ainslie T. Embree. Sources of Indian Tradition, Vol. 2. New York: Columbia University Press, 1988. pp. 481. 
+245. Surendranath Dasgupta. A History of Indian Philosophy, Vol. 1. Cambridge: Cambridge University Press, 1922. pp. 579. 
+246. R. C. Zaehner. Hinduism. Oxford: Oxford University Press, 1966. pp. 204. 
+247. Gavin Flood. An Introduction to Hinduism. Cambridge: Cambridge University Press, 1996. pp. 348. 
+248. Julius Lipner, ed. The Fruits of Our Desiring: An Enquiry into the Ethics of the Bhagavadgītā for Our Times. Calgary: Bayeux Arts, 1997. pp. 280. 
+249. Andrew Rawlinson. The Book of Enlightened Masters: Western Teachers in Eastern Traditions. Chicago: Open Court, 1997. pp. 582. 
+250. June McDaniel. Offering Flowers, Feeding Skulls: Popular Goddess Worship in West Bengal. New York: Oxford University Press, 2004. pp. 404. 
+[28/09, 2:25 pm] Malay Khan(sadgope ): 251. John Stratton Hawley. Krishna, the Butter Thief. Princeton: Princeton University Press, 1981. pp. 296. 
+252. John Stratton Hawley and Vasudha Narayanan, eds. The Life of Hinduism. Berkeley: University of California Press, 2006. pp. 356. 
+253. David Haberman. Acting as a Way of Salvation: A Study of Rāgānugā Bhakti Sādhana. New York: Oxford University Press, 1988. pp. 272. 
+254. David Haberman. Journey through the Twelve Forests: An Encounter with Krishna. New York: Oxford University Press, 1994. pp. 286. 
+255. Joseph T. O’Connell, Milton Singer, and Steven Tambiah, eds. Charisma and Commitment in South Asian Religious Movements. Delhi: Motilal Banarsidass, 1979. pp. 372. 
+256. Joseph T. O’Connell. “The Word Caitanya in Bengali Vaisnava Texts.” Journal of the American Oriental Society 93, no. 3 (1973): pp. 358–362. 
+257. Tony K. Stewart. The Final Word: The Caitanya Caritamṛta and the Grammar of Religious Tradition. New York: Oxford University Press, 2010. pp. 416. 
+258. Tony K. Stewart, ed. God of Bengali Literature: Essays on the Caitanya Tradition. Delhi: Manohar, 1999. pp. 310. 
+259. Sanjukta Gupta, Knut A. Jacobsen, Helene Basu, and Angelika Malinar, eds. South Asian Religions on Display: Religious Processions in South Asia and in the Diaspora. London: Routledge, 2007. pp. 304. 
+260. Edward C. Dimock Jr. The Place of the Hidden Moon: Erotic Mysticism in the Vaiṣṇava-Sahajiyā Cult of Bengal. Chicago: University of Chicago Press, 1966. pp. 388. 
+261. Edward C. Dimock Jr. and Denise Levertov. In Praise of Krishna: Songs from the Bengali. Chicago: University of Chicago Press, 1967. pp. 228. 
+262. Shashibhushan Dasgupta. Obscure Religious Cults. Calcutta: Firma K. L. Mukhopadhyay, 1969. pp. 420. 
+263. A. K. Majumdar. Caitanya: His Life and Doctrine. Calcutta: University of Calcutta Press, 1969. pp. 382. 
+264. Sushil Kumar De. Early History of the Vaisnava Faith and Movement in Bengal. Calcutta: Firma K. L. Mukhopadhyay, 1961. pp. 568. 
+265. Radhakamal Mukerjee. The Culture and Art of India. London: George Allen & Unwin, 1948. pp. 340. 
+266. J. N. Farquhar. Modern Religious Movements in India. New Delhi: Munshiram Manoharlal, 1967 [1915]. pp. 500. 
+267. Hitesranjan Sanyal. Social Mobility in Bengal. Calcutta: Papyrus, 1981. pp. 278. 
+268. Milton Singer. When a Great Tradition Modernizes: An Anthropological Approach to Indian Civilization. Chicago: University of Chicago Press, 1972. pp. 408. 
+269. Agehananda Bharati. The Ochre Robe: An Autobiography. London: George Allen & Unwin, 1961. pp. 278. 
+270. Philip Lutgendorf. The Life of a Text: Performing the Rāmcaritmānas of Tulsidas. Berkeley: University of California Press, 1991. pp. 460. 
+271. A. K. Ramanujan. Poems of Love and War: From the Eight Anthologies and the Ten Long Poems of Classical Tamil. New York: Columbia University Press, 1985. pp. 366. 
+272. Sheldon Pollock. The Language of the Gods in the World of Men. Berkeley: University of California Press, 2006. pp. 684. 
+273. Jack Hawley and Mark Juergensmeyer, eds. Songs of the Saints of India. New York: Oxford University Press, 1988. pp. 210. 
+274. Kenneth E. Bryant. Poetry of the Spirit: Studies in Rajastani Bhakti. Delhi: Motilal Banarsidass, 1990. pp. 292. 
+275. Norbert Peabody. Hindu Kingship and Polity in Precolonial India. Cambridge: Cambridge University Press, 2003. pp. 320. 
+276. Charlotte Vaudeville. Kabir. Oxford: Clarendon Press, 1974. pp. 328. 
+277. Charlotte Vaudeville. A Weaver Named Kabir. New Delhi: Oxford University Press, 1993. pp. 340. 
+278. John S. Hawley. Three Bhakti Voices: Mirabai, Surdas, and Kabir in Their Time and Ours. Delhi: Oxford University Press, 2005. pp. 350. 
+279. David N. Lorenzen. Kabir Legends and Ananta-das’s Kabir Parachai. Albany: SUNY Press, 1991. pp. 312. 
+280. David N. Lorenzen. Religious Movements in South Asia, 600–1800. Delhi: Oxford University Press, 2004. pp. 348. 
+281. Heinrich von Stietencron. Krishna: Myths, Rites, and Attitudes. Delhi: Manohar, 1986. pp. 272. 
+282. Alf Hiltebeitel. The Cult of Draupadi, Vol. 1. Chicago: University of Chicago Press, 1988. pp. 542. 
+283. Alf Hiltebeitel. The Cult of Draupadi, Vol. 2. Chicago: University of Chicago Press, 1991. pp. 528. 
+284. Wendy Doniger. The Hindus: An Alternative History. New York: Penguin, 2009. pp. 779. 
+285. Wendy Doniger. Siva: The Erotic Ascetic. New York: Oxford University Press, 1981. pp. 382. 
+286. Wendy Doniger and Brian K. Smith. Hindu Myths. London: Penguin Classics, 1991. pp. 348. 
+287. Julius J. Lipner, ed. Brahmabandhab Upadhyay: The Life and Thought of a Revolutionary. Delhi: Oxford University Press, 1999. pp. 400. 
+288. Dermot Killingley. Rammohun Roy in Hindu and Christian Tradition. Newcastle: Grevatt & Grevatt, 1993. pp. 280. 
+289. Amiya P. Sen. Hindu Revivalism in Bengal 1872–1905: Some Essays in Interpretation. Delhi: Oxford University Press, 1993. pp. 298. 
+290. Amiya P. Sen. Swami Vivekananda. New Delhi: Oxford University Press, 2000. pp. 210. 
+291. Swami Nikhilananda. Swami Vivekananda: A Biography. Calcutta: Advaita Ashrama, 1964. pp. 422. 
+292. Sankar. The Monk as Man: The Unknown Life of Swami Vivekananda. New Delhi: Penguin, 2010. pp. 224. 
 293. Swami Vivekananda. The Complete Works of Swami Vivekananda, 8 vols. Calcutta: Advaita Ashrama, 1962–1964. 
-294. Romain Rolland. The Life of Vivekananda and the Universal Gospel. Calcutta: Advaita Ashrama, 1953. 320 pp. 
-295. Swami Tapasyananda. Swami Vivekananda: His Life and Legacy. Madras: Sri Ramakrishna Math, 1989. 382 pp. 
+294. Romain Rolland. The Life of Vivekananda and the Universal Gospel. Calcutta: Advaita Ashrama, 1953. pp. 320. 
+295. Swami Tapasyananda. Swami Vivekananda: His Life and Legacy. Madras: Sri Ramakrishna Math, 1989. pp. 382. 
 296. Marie Louise Burke. Swami Vivekananda in the West: New Discoveries, 6 vols. Calcutta: Advaita Ashrama, 1957–1997. 
-297. Christopher Isherwood. Ramakrishna and His Disciples. New York: Simon & Schuster, 1965. 344 pp. 
-298. Swami Nikhilananda, trans. The Gospel of Sri Ramakrishna. New York: Ramakrishna-Vivekananda Center, 1942. 1062 pp. 
+297. Christopher Isherwood. Ramakrishna and His Disciples. New York: Simon & Schuster, 1965. pp. 344. 
+298. Swami Nikhilananda, trans. The Gospel of Sri Ramakrishna. New York: Ramakrishna-Vivekananda Center, 1942. pp. 1062. 
 299. Swami Gambhirananda, trans. The Upanishads, 4 vols. Calcutta: Advaita Ashrama, 1957–1982. 
-300. Swami Prabhavananda and Christopher Isherwood, trans. Bhagavad-Gita: The Song of God. Hollywood: Vedanta Press, 1944. 224 pp. 
-[28/09, 2:27 pm] Malay Khan(sadgope ): 301. Swami Tapasyananda, trans. Bhakti Schools of Vedanta. Madras: Sri Ramakrishna Math, 1990. 430 pp. 
-302. Swami Tapasyananda, trans. Mundaka Upanishad with Commentary of Shankaracharya. Madras: Sri Ramakrishna Math, 1995. 198 pp. 
-303. Swami Gambhirananda, trans. Brahma Sutra with Shankaracharya’s Commentary. Calcutta: Advaita Ashrama, 1965. 739 pp. 
-304. Swami Gambhirananda, trans. Eight Upanishads with Shankaracharya’s Commentary, 2 vols. Calcutta: Advaita Ashrama, 1957. Vol. 1: 420 pp; Vol. 2: 468 pp. 
-305. Swami Prabhavananda, trans. The Upanishads: Breath of the Eternal. Hollywood: Vedanta Press, 1947. 152 pp. 
-306. Swami Nikhilananda, trans. The Principal Upanishads. New York: Dover Publications, 1992. 426 pp. 
-307. S. Radhakrishnan, trans. The Principal Upanishads. London: Allen & Unwin, 1953. 958 pp. 
-308. S. Radhakrishnan. Indian Philosophy, 2 vols. London: George Allen & Unwin, 1923–1927. Vol. 1: 739 pp; Vol. 2: 847 pp. 
+300. Swami Prabhavananda and Christopher Isherwood, trans. Bhagavad-Gita: The Song of God. Hollywood: Vedanta Press, 1944. pp. 224. 
+301. Swami Tapasyananda, trans. Bhakti Schools of Vedanta. Madras: Sri Ramakrishna Math, 1990. pp. 430. 
+302. Swami Tapasyananda, trans. Mundaka Upanishad with Commentary of Shankaracharya. Madras: Sri Ramakrishna Math, 1995. pp. 198. 
+303. Swami Gambhirananda, trans. Brahma Sutra with Shankaracharya’s Commentary. Calcutta: Advaita Ashrama, 1965. pp. 739. 
+304. Swami Gambhirananda, trans. Eight Upanishads with Shankaracharya’s Commentary, 2 vols. Calcutta: Advaita Ashrama, 1957. Vol. 1: pp. 420 ; Vol. 2: pp. 468. 
+305. Swami Prabhavananda, trans. The Upanishads: Breath of the Eternal. Hollywood: Vedanta Press, 1947. pp. 152. 
+306. Swami Nikhilananda, trans. The Principal Upanishads. New York: Dover Publications, 1992. pp. 426. 
+307. S. Radhakrishnan, trans. The Principal Upanishads. London: Allen & Unwin, 1953. pp. 958. 
+308. S. Radhakrishnan. Indian Philosophy, 2 vols. London: George Allen & Unwin, 1923–1927. Vol. 1: 739 pp; Vol. 2: pp. 847. 
 309. Surendranath Dasgupta. A History of Indian Philosophy, 5 vols. Cambridge: Cambridge University Press, 1922–1955. 
-310. Anantanand Rambachan. Accomplishing the Accomplished: The Vedas as a Source of Valid Knowledge in Śaṅkara. Honolulu: University of Hawaii Press, 1991. 184 pp. 
-311. Anantanand Rambachan. The Advaita Worldview: God, World, and Humanity. Albany: SUNY Press, 2006. 203 pp. 
-312. Wilhelm Halbfass. India and Europe: An Essay in Understanding. Albany: SUNY Press, 1988. 632 pp. 
-313. Wilhelm Halbfass. Tradition and Reflection: Explorations in Indian Thought. Albany: SUNY Press, 1991. 416 pp. 
-314. B. K. Matilal. The Logical Illumination of Indian Philosophy. New Delhi: Oxford University Press, 1998. 392 pp. 
-315. J. N. Mohanty. Reason and Tradition in Indian Thought. Oxford: Clarendon Press, 1992. 280 pp. 
+310. Anantanand Rambachan. Accomplishing the Accomplished: The Vedas as a Source of Valid Knowledge in Śaṅkara. Honolulu: University of Hawaii Press, 1991. pp. 184. 
+311. Anantanand Rambachan. The Advaita Worldview: God, World, and Humanity. Albany: SUNY Press, 2006. pp. 203. 
+312. Wilhelm Halbfass. India and Europe: An Essay in Understanding. Albany: SUNY Press, 1988. pp. 632. 
+313. Wilhelm Halbfass. Tradition and Reflection: Explorations in Indian Thought. Albany: SUNY Press, 1991. pp. 416. 
+314. B. K. Matilal. The Logical Illumination of Indian Philosophy. New Delhi: Oxford University Press, 1998. pp. 392. 
+315. J. N. Mohanty. Reason and Tradition in Indian Thought. Oxford: Clarendon Press, 1992. pp. 280.
+
 316. Arvind Sharma. The Philosophy of Religion and Advaita Vedanta. University Park: Pennsylvania State University Press, 1995. 260 pp. 
 317. Eliot Deutsch. Advaita Vedanta: A Philosophical Reconstruction. Honolulu: University of Hawaii Press, 1969. 132 pp. 
 318. Paul Hacker. Philology and Confrontation: Paul Hacker on Traditional and Modern Vedanta. Albany: SUNY Press, 1995. 370 pp. 
@@ -768,6 +769,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
