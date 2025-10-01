@@ -328,37 +328,43 @@ REFERENCES
 368. Louis Fischer. The Life of Mahatma Gandhi. New York: Harper & Row, 1950. pp. 672. 
 369. B. R. Nanda. Mahatma Gandhi: A Biography. New Delhi: Oxford University Press, 1958. pp. 520. 
 370. B. R. Nanda. Gokhale: The Indian Moderates and the British Raj. Delhi: Oxford University Press, 1977. pp. 464. 
-371. C. F. Andrews. Mahatma Gandhi’s Ideas. London: George Allen & Unwin, 1929. 220 pp. 
-372. Pyarelal. Mahatma Gandhi: The Last Phase, 2 vols. Ahmedabad: Navajivan, 1956. Vol. 1: 600 pp; Vol. 2: 620 pp. 
-373. Rajendra Prasad. India Divided. Bombay: Hind Kitabs, 1946. 380 pp. 
-374. Maulana Abul Kalam Azad. India Wins Freedom. Calcutta: Orient Longman, 1959. 248 pp. 
-375. Jawaharlal Nehru. The Discovery of India. London: John Day, 1946. 595 pp. 
-376. Jawaharlal Nehru. An Autobiography: Toward Freedom. London: John Lane, 1936. 637 pp. 
-377. Jawaharlal Nehru. Selected Works of Jawaharlal Nehru, multiple vols. New Delhi: Jawaharlal Nehru Memorial Fund, 1972–. 
-378. Sarvepalli Gopal. Jawaharlal Nehru: A Biography, 3 vols. Cambridge: Harvard University Press, 1975. Vol. 1: 402 pp; Vol. 2: 440 pp; Vol. 3: 420 pp. 
-379. M. J. Akbar. Nehru: The Making of India. New Delhi: Viking, 1988. 624 pp. 
-380. S. Gopal, ed. Selected Works of Jawaharlal Nehru, Second Series. New Delhi: Orient Longman, 1984–. 
-381. Frank Moraes. Jawaharlal Nehru: A Biography. New York: Macmillan, 1956. 610 pp. 
-382. Shashi Tharoor. Nehru: The Invention of India. New Delhi: Penguin, 2003. 295 pp. 
-383. Indira Gandhi. My Truth. New Delhi: Vision Books, 1980. 240 pp. 
-384. Katherine Frank. Indira: The Life of Indira Nehru Gandhi. Boston: Houghton Mifflin, 2001. 696 pp. 
-385. Pupul Jayakar. Indira Gandhi: A Biography. New Delhi: Penguin, 1992. 696 pp. 
-386. Inder Malhotra. Indira Gandhi: A Personal and Political Biography. London: Hodder & Stoughton, 1989. 496 pp. 
-387. Ramachandra Guha. India after Gandhi: The History of the World’s Largest Democracy. New Delhi: Macmillan, 2007. 900 pp. 
-388. Ramachandra Guha. Democrats and Dissenters. New Delhi: Penguin, 2016. 340 pp. 
-389. Ramachandra Guha. Makers of Modern India. New Delhi: Penguin, 2010. 452 pp. 
-390. Sunil Khilnani. The Idea of India. London: Hamish Hamilton, 1997. 263 pp. 
-391. Sunil Khilnani. Incarnations: A History of India in Fifty Lives. New Delhi: Penguin, 2016. 624 pp. 
-392. Amartya Sen. The Argumentative Indian. London: Penguin, 2005. 409 pp. 
-393. Amartya Sen. Development as Freedom. New York: Alfred A. Knopf, 1999. 366 pp. 
-394. Amartya Sen and Jean Drèze. India: Economic Development and Social Opportunity. Delhi: Oxford University Press, 1995. 360 pp. 
-395. Jean Drèze and Amartya Sen. An Uncertain Glory: India and Its Contradictions. London: Allen Lane, 2013. 434 pp. 
-396. Meghnad Desai. India’s Economic Reforms: 1991–2001. Delhi: Oxford University Press, 2001. 276 pp. 
-397. Kaushik Basu and Annemie Maertens, eds. The New Oxford Companion to Economics in India. New Delhi: Oxford University Press, 2012. 948 pp. 
-398. T. N. Srinivasan and Jagdish Bhagwati, eds. Foreign Trade Regimes and Economic Development: India. New York: NBER, 1975. 320 pp. 
-399. Jagdish Bhagwati and Arvind Panagariya. India: The Emerging Giant. New York: Oxford University Press, 2008. 648 pp. 
-400. Montek S. Ahluwalia. “Economic Reforms in India since 1991: Has Gradualism Worked?” Journal of Economic Perspectives 16, no. 3 (2002): 67–88. 
-- 
+
+
+
+
+371. C. F. Andrews. Mahatma Gandhi’s Ideas. London: George Allen & Unwin, 1929. pp. 220. 
+372. Pyarelal. Mahatma Gandhi: The Last Phase, 2 vols. Ahmedabad: Navajivan, 1956. Vol. 1: pp. 600; Vol. 2: pp. 620. 
+373. Rajendra Prasad. India Divided. Bombay: Hind Kitabs, 1946. pp. 380. 
+374. Maulana Abul Kalam Azad. India Wins Freedom. Calcutta: Orient Longman, 1959. pp. 248. 
+375. Jawaharlal Nehru. The Discovery of India. London: John Day, 1946. pp. 595. 
+376. Jawaharlal Nehru. An Autobiography: Toward Freedom. London: John Lane, 1936. pp. 637. 
+377. Jawaharlal Nehru. Selected Works of Jawaharlal Nehru, multiple vols. New Delhi: Jawaharlal Nehru Memorial Fund, 1972– . 
+378. Sarvepalli Gopal. Jawaharlal Nehru: A Biography, 3 vols. Cambridge: Harvard University Press, 1975. Vol. 1: pp. 402; Vol. 2: pp. 440; Vol. 3: pp.  420. 
+379. M. J. Akbar. Nehru: The Making of India. New Delhi: Viking, 1988. pp. 624. 
+380. S. Gopal, ed. Selected Works of Jawaharlal Nehru, Second Series. New Delhi: Orient Longman, 1984– . 
+381. Frank Moraes. Jawaharlal Nehru: A Biography. New York: Macmillan, 1956. pp. 610. 
+382. Shashi Tharoor. Nehru: The Invention of India. New Delhi: Penguin, 2003. pp. 295. 
+383. Indira Gandhi. My Truth. New Delhi: Vision Books, 1980. pp. 240. 
+384. Katherine Frank. Indira: The Life of Indira Nehru Gandhi. Boston: Houghton Mifflin, 2001. pp. 696. 
+385. Pupul Jayakar. Indira Gandhi: A Biography. New Delhi: Penguin, 1992. pp. 696. 
+386. Inder Malhotra. Indira Gandhi: A Personal and Political Biography. London: Hodder & Stoughton, 1989. pp. 496. 
+387. Ramachandra Guha. India after Gandhi: The History of the World’s Largest Democracy. New Delhi: Macmillan, 2007. pp. 900. 
+388. Ramachandra Guha. Democrats and Dissenters. New Delhi: Penguin, 2016. pp. 340. 
+389. Ramachandra Guha. Makers of Modern India. New Delhi: Penguin, 2010. pp. 452. 
+390. Sunil Khilnani. The Idea of India. London: Hamish Hamilton, 1997. pp. 263. 
+391. Sunil Khilnani. Incarnations: A History of India in Fifty Lives. New Delhi: Penguin, 2016. pp. 624. 
+392. Amartya Sen. The Argumentative Indian. London: Penguin, 2005. pp. 409. 
+393. Amartya Sen. Development as Freedom. New York: Alfred A. Knopf, 1999. pp. 366. 
+394. Amartya Sen and Jean Drèze. India: Economic Development and Social Opportunity. Delhi: Oxford University Press, 1995. pp. 360. 
+395. Jean Drèze and Amartya Sen. An Uncertain Glory: India and Its Contradictions. London: Allen Lane, 2013. pp. 434. 
+396. Meghnad Desai. India’s Economic Reforms: 1991–2001. Delhi: Oxford University Press, 2001. pp. 276. 
+397. Kaushik Basu and Annemie Maertens, eds. The New Oxford Companion to Economics in India. New Delhi: Oxford University Press, 2012. pp. 948. 
+398. T. N. Srinivasan and Jagdish Bhagwati, eds. Foreign Trade Regimes and Economic Development: India. New York: NBER, 1975. pp. 320. 
+399. Jagdish Bhagwati and Arvind Panagariya. India: The Emerging Giant. New York: Oxford University Press, 2008. pp. 648. 
+400. Montek S. Ahluwalia. “Economic Reforms in India since 1991: Has Gradualism Worked?” Journal of Economic Perspectives 16, no. 3 (2002): pp. 67–88. 
+
+
+
 [28/09, 2:29 pm] Malay Khan(sadgope ): 401–450 
 401. Deepak Lal. The Hindu Equilibrium: Cultural Stability and Economic Stagnation, India c.1500 B.C.–A.D. 1980. Oxford: Clarendon Press, 1988. 582 pp. 
 402. Tirthankar Roy. The Economic History of India 1857–1947. New Delhi: Oxford University Press, 2000. 324 pp. 
@@ -769,6 +775,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
