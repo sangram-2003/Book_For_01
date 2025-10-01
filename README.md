@@ -273,53 +273,53 @@ REFERENCES
 314. B. K. Matilal. The Logical Illumination of Indian Philosophy. New Delhi: Oxford University Press, 1998. pp. 392. 
 315. J. N. Mohanty. Reason and Tradition in Indian Thought. Oxford: Clarendon Press, 1992. pp. 280.
 
-316. Arvind Sharma. The Philosophy of Religion and Advaita Vedanta. University Park: Pennsylvania State University Press, 1995. 260 pp. 
-317. Eliot Deutsch. Advaita Vedanta: A Philosophical Reconstruction. Honolulu: University of Hawaii Press, 1969. 132 pp. 
-318. Paul Hacker. Philology and Confrontation: Paul Hacker on Traditional and Modern Vedanta. Albany: SUNY Press, 1995. 370 pp. 
+316. Arvind Sharma. The Philosophy of Religion and Advaita Vedanta. University Park: Pennsylvania State University Press, 1995. pp. 260. 
+317. Eliot Deutsch. Advaita Vedanta: A Philosophical Reconstruction. Honolulu: University of Hawaii Press, 1969. pp. 132. 
+318. Paul Hacker. Philology and Confrontation: Paul Hacker on Traditional and Modern Vedanta. Albany: SUNY Press, 1995. pp. 370. 
 319. Karl H. Potter. Encyclopedia of Indian Philosophies, multiple vols. Delhi: Motilal Banarsidass, 1970–2000. 
-320. Govind Chandra Pande. Studies in the Origins of Buddhism. Delhi: Motilal Banarsidass, 1957. 364 pp. 
-321. Hajime Nakamura. Indian Buddhism: A Survey with Bibliographical Notes. Delhi: Motilal Banarsidass, 1987. 490 pp. 
-322. Richard Gombrich. Theravāda Buddhism: A Social History from Ancient Benares to Modern Colombo. London: Routledge, 1988. 320 pp. 
-323. Richard Gombrich. What the Buddha Thought. London: Equinox, 2009. 286 pp. 
-324. Étienne Lamotte. History of Indian Buddhism: From the Origins to the Śaka Era. Louvain: Université Catholique de Louvain, 1958. 850 pp. 
-325. A. K. Warder. Indian Buddhism. Delhi: Motilal Banarsidass, 2000. 571 pp. 
-326. Louis Renou. Religions of Ancient India. London: Routledge, 1953. 320 pp. 
-327. T. W. Rhys Davids. Buddhism: Its History and Literature. New York: Putnam, 1896. 398 pp. 
-328. Edward J. Thomas. The Life of Buddha as Legend and History. London: Routledge, 1927. 268 pp. 
-329. R. K. Narain, ed. Studies in Buddhist Art of South Asia. Delhi: Kanak Publications, 1985. 244 pp. 
-330. Lokesh Chandra. Buddhist Iconography. New Delhi: Aditya Prakashan, 1991. 536 pp. 
-331. Benoytosh Bhattacharya. The Indian Buddhist Iconography. Calcutta: Firma K. L. Mukhopadhyay, 1958. 304 pp. 
-332. Chattopadhyaya, Debiprasad. Lokayata: A Study in Ancient Indian Materialism. New Delhi: People’s Publishing House, 1959. 328 pp. 
-333. D. D. Kosambi. The Culture and Civilization of Ancient India in Historical Outline. London: Routledge, 1965. 380 pp. 
-334. Romila Thapar. A History of India, Vol. 1. London: Penguin, 1966. 384 pp. 
-335. Romila Thapar. Cultural Pasts: Essays in Early Indian History. New Delhi: Oxford University Press, 2000. 1072 pp. 
-336. Romila Thapar. The Past as Present: Forging Contemporary Identities through History. New Delhi: Aleph, 2014. 432 pp. 
-337. Irfan Habib. The Agrarian System of Mughal India, 1556–1707. Delhi: Oxford University Press, 1963. 450 pp. 
-338. Irfan Habib. Medieval India: The Study of a Civilization. Delhi: National Book Trust, 2007. 288 pp. 
+320. Govind Chandra Pande. Studies in the Origins of Buddhism. Delhi: Motilal Banarsidass, 1957. pp. 364. 
+321. Hajime Nakamura. Indian Buddhism: A Survey with Bibliographical Notes. Delhi: Motilal Banarsidass, 1987. pp. 490. 
+322. Richard Gombrich. Theravāda Buddhism: A Social History from Ancient Benares to Modern Colombo. London: Routledge, 1988. pp. 320. 
+323. Richard Gombrich. What the Buddha Thought. London: Equinox, 2009. pp. 286. 
+324. Étienne Lamotte. History of Indian Buddhism: From the Origins to the Śaka Era. Louvain: Université Catholique de Louvain, 1958. pp. 850. 
+325. A. K. Warder. Indian Buddhism. Delhi: Motilal Banarsidass, 2000. pp. 571. 
+326. Louis Renou. Religions of Ancient India. London: Routledge, 1953. pp. 320. 
+327. T. W. Rhys Davids. Buddhism: Its History and Literature. New York: Putnam, 1896. pp. 398. 
+328. Edward J. Thomas. The Life of Buddha as Legend and History. London: Routledge, 1927. pp. 268. 
+329. R. K. Narain, ed. Studies in Buddhist Art of South Asia. Delhi: Kanak Publications, 1985. pp. 244. 
+330. Lokesh Chandra. Buddhist Iconography. New Delhi: Aditya Prakashan, 1991. pp. 536. 
+331. Benoytosh Bhattacharya. The Indian Buddhist Iconography. Calcutta: Firma K. L. Mukhopadhyay, 1958. pp. 304. 
+332. Chattopadhyaya, Debiprasad. Lokayata: A Study in Ancient Indian Materialism. New Delhi: People’s Publishing House, 1959. pp. 328. 
+333. D. D. Kosambi. The Culture and Civilization of Ancient India in Historical Outline. London: Routledge, 1965. pp. 380. 
+334. Romila Thapar. A History of India, Vol. 1. London: Penguin, 1966. pp. 384. 
+335. Romila Thapar. Cultural Pasts: Essays in Early Indian History. New Delhi: Oxford University Press, 2000. pp. 1072. 
+336. Romila Thapar. The Past as Present: Forging Contemporary Identities through History. New Delhi: Aleph, 2014. pp. 432. 
+337. Irfan Habib. The Agrarian System of Mughal India, 1556–1707. Delhi: Oxford University Press, 1963. pp. 450. 
+338. Irfan Habib. Medieval India: The Study of a Civilization. Delhi: National Book Trust, 2007. pp. 288. 
 339. Irfan Habib, ed. A People’s History of India Series. Delhi: Tulika Books, 2001–. Multiple vols. 
-340. Satish Chandra. Medieval India: From Sultanat to the Mughals, 2 vols. Delhi: Har-Anand, 1997. Vol. 1: 400 pp; Vol. 2: 420 pp. 
-341. Satish Chandra. History of Medieval India. Hyderabad: Orient BlackSwan, 2007. 376 pp. 
-342. K. M. Ashraf. Life and Conditions of the People of Hindustan (1200–1550). Delhi: Munshiram Manoharlal, 1959. 320 pp. 
-343. Tapan Raychaudhuri and Irfan Habib, eds. The Cambridge Economic History of India, Vol. 1. Cambridge: Cambridge University Press, 1982. 568 pp. 
-344. Dharma Kumar and Meghnad Desai, eds. The Cambridge Economic History of India, Vol. 2. Cambridge: Cambridge University Press, 1983. 1112 pp. 
-345. Bipan Chandra. India’s Struggle for Independence, 1857–1947. New Delhi: Penguin, 1989. 600 pp. 
-346. Bipan Chandra, Mridula Mukherjee, and Aditya Mukherjee. India after Independence, 1947–2000. New Delhi: Penguin, 2000. 600 pp. 
-347. Sumit Sarkar. Modern India, 1885–1947. New Delhi: Macmillan, 1983. 400 pp. 
-348. Sumit Sarkar. Beyond Nationalist Frames: Postmodernism, Hindu Fundamentalism, History. Delhi: Permanent Black, 2002. 312 pp. 
-349. Sekhar Bandyopadhyay. From Plassey to Partition: A History of Modern India. New Delhi: Orient Longman, 2004. 602 pp. 
-350. Sekhar Bandyopadhyay. Decolonization in South Asia: Meanings of Freedom in Post-independence West Bengal, 1947–52. London: Routledge, 2009. 312 pp. 
-351. C. A. Bayly. Indian Society and the Making of the British Empire. Cambridge: Cambridge University Press, 1988. 246 pp. 
-352. C. A. Bayly. Empire and Information: Intelligence Gathering and Social Communication in India, 1780–1870. Cambridge: Cambridge University Press, 1996. 428 pp. 
-353. Ranajit Guha, ed. Subaltern Studies I: Writings on South Asian History and Society. Delhi: Oxford University Press, 1982. 288 pp. 
-354. Ranajit Guha, ed. Subaltern Studies II. Delhi: Oxford University Press, 1983. 308 pp. 
-355. Ranajit Guha, ed. Subaltern Studies III. Delhi: Oxford University Press, 1984. 310 pp. 
-356. Ranajit Guha and Gayatri Chakravorty Spivak, eds. Selected Subaltern Studies. New York: Oxford University Press, 1988. 420 pp. 
-357. Dipesh Chakrabarty. Provincializing Europe: Postcolonial Thought and Historical Difference. Princeton: Princeton University Press, 2000. 336 pp. 
-358. Partha Chatterjee. The Nation and Its Fragments: Colonial and Postcolonial Histories. Princeton: Princeton University Press, 1993. 288 pp. 
-359. Partha Chatterjee. Nationalist Thought and the Colonial World: A Derivative Discourse? London: Zed Books, 1986. 200 pp. 
+340. Satish Chandra. Medieval India: From Sultanat to the Mughals, 2 vols. Delhi: Har-Anand, 1997. Vol. 1: 400 pp; Vol. 2: pp. 420. 
+341. Satish Chandra. History of Medieval India. Hyderabad: Orient BlackSwan, 2007. pp. 376. 
+342. K. M. Ashraf. Life and Conditions of the People of Hindustan (1200–1550). Delhi: Munshiram Manoharlal, 1959. pp. 320. 
+343. Tapan Raychaudhuri and Irfan Habib, eds. The Cambridge Economic History of India, Vol. 1. Cambridge: Cambridge University Press, 1982. pp. 568. 
+344. Dharma Kumar and Meghnad Desai, eds. The Cambridge Economic History of India, Vol. 2. Cambridge: Cambridge University Press, 1983. pp. 1112. 
+345. Bipan Chandra. India’s Struggle for Independence, 1857–1947. New Delhi: Penguin, 1989. pp. 600. 
+346. Bipan Chandra, Mridula Mukherjee, and Aditya Mukherjee. India after Independence, 1947–2000. New Delhi: Penguin, 2000. pp. 600. 
+347. Sumit Sarkar. Modern India, 1885–1947. New Delhi: Macmillan, 1983. pp. 400. 
+348. Sumit Sarkar. Beyond Nationalist Frames: Postmodernism, Hindu Fundamentalism, History. Delhi: Permanent Black, 2002. pp. 312. 
+349. Sekhar Bandyopadhyay. From Plassey to Partition: A History of Modern India. New Delhi: Orient Longman, 2004. pp. 602. 
+350. Sekhar Bandyopadhyay. Decolonization in South Asia: Meanings of Freedom in Post-independence West Bengal, 1947–52. London: Routledge, 2009. pp. 312. 
+351. C. A. Bayly. Indian Society and the Making of the British Empire. Cambridge: Cambridge University Press, 1988. pp. 246. 
+352. C. A. Bayly. Empire and Information: Intelligence Gathering and Social Communication in India, 1780–1870. Cambridge: Cambridge University Press, 1996. pp. 428. 
+353. Ranajit Guha, ed. Subaltern Studies I: Writings on South Asian History and Society. Delhi: Oxford University Press, 1982. pp. 288. 
+354. Ranajit Guha, ed. Subaltern Studies II. Delhi: Oxford University Press, 1983. pp. 308. 
+355. Ranajit Guha, ed. Subaltern Studies III. Delhi: Oxford University Press, 1984. pp. 310. 
+356. Ranajit Guha and Gayatri Chakravorty Spivak, eds. Selected Subaltern Studies. New York: Oxford University Press, 1988. pp. 420. 
+357. Dipesh Chakrabarty. Provincializing Europe: Postcolonial Thought and Historical Difference. Princeton: Princeton University Press, 2000. pp. 336. 
+358. Partha Chatterjee. The Nation and Its Fragments: Colonial and Postcolonial Histories. Princeton: Princeton University Press, 1993. pp. 288. 
+359. Partha Chatterjee. Nationalist Thought and the Colonial World: A Derivative Discourse? London: Zed Books, 1986. pp. 200. 
 360. Gyanendra Pandey. The Construction of Communalism in Colonial North India. Delhi: Oxford University Press, 1990. 320 pp. 
-361. Shahid Amin. Event, Metaphor, Memory: Chauri Chaura, 1922–1992. Berkeley: University of California Press, 1995. 280 pp. 
-362. David Hardiman. The Coming of the Devi: Adivasi Assertion in Western India. Delhi: Oxford University Press, 1987. 352 pp. 
+361. Shahid Amin. Event, Metaphor, Memory: Chauri Chaura, 1922–1992. Berkeley: University of California Press, 1995. pp. 280. 
+362. David Hardiman. The Coming of the Devi: Adivasi Assertion in Western India. Delhi: Oxford University Press, 1987. pp. 352. 
 363. David Hardiman. Gandhi in His Time and Ours: The Global Legacy of His Ideas. New York: Columbia University Press, 2003. 320 pp. 
 364. Judith Brown. Gandhi: Prisoner of Hope. New Haven: Yale University Press, 1989. 462 pp. 
 365. Judith Brown. Gandhi’s Rise to Power: Indian Politics 1915–1922. Cambridge: Cambridge University Press, 1972. 380 pp. 
@@ -769,6 +769,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
