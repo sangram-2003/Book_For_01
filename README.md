@@ -320,14 +320,14 @@ REFERENCES
 360. Gyanendra Pandey. The Construction of Communalism in Colonial North India. Delhi: Oxford University Press, 1990. 320 pp. 
 361. Shahid Amin. Event, Metaphor, Memory: Chauri Chaura, 1922–1992. Berkeley: University of California Press, 1995. pp. 280. 
 362. David Hardiman. The Coming of the Devi: Adivasi Assertion in Western India. Delhi: Oxford University Press, 1987. pp. 352. 
-363. David Hardiman. Gandhi in His Time and Ours: The Global Legacy of His Ideas. New York: Columbia University Press, 2003. 320 pp. 
-364. Judith Brown. Gandhi: Prisoner of Hope. New Haven: Yale University Press, 1989. 462 pp. 
-365. Judith Brown. Gandhi’s Rise to Power: Indian Politics 1915–1922. Cambridge: Cambridge University Press, 1972. 380 pp. 
-366. Dennis Dalton. Mahatma Gandhi: Nonviolent Power in Action. New York: Columbia University Press, 1993. 296 pp. 
-367. Rajmohan Gandhi. Gandhi: The Man, His People, and the Empire. Berkeley: University of California Press, 2007. 760 pp. 
-368. Louis Fischer. The Life of Mahatma Gandhi. New York: Harper & Row, 1950. 672 pp. 
-369. B. R. Nanda. Mahatma Gandhi: A Biography. New Delhi: Oxford University Press, 1958. 520 pp. 
-370. B. R. Nanda. Gokhale: The Indian Moderates and the British Raj. Delhi: Oxford University Press, 1977. 464 pp. 
+363. David Hardiman. Gandhi in His Time and Ours: The Global Legacy of His Ideas. New York: Columbia University Press, 2003. pp. 320. 
+364. Judith Brown. Gandhi: Prisoner of Hope. New Haven: Yale University Press, 1989. pp. 462. 
+365. Judith Brown. Gandhi’s Rise to Power: Indian Politics 1915–1922. Cambridge: Cambridge University Press, 1972. pp. 380. 
+366. Dennis Dalton. Mahatma Gandhi: Nonviolent Power in Action. New York: Columbia University Press, 1993. pp. 296. 
+367. Rajmohan Gandhi. Gandhi: The Man, His People, and the Empire. Berkeley: University of California Press, 2007. pp. 760. 
+368. Louis Fischer. The Life of Mahatma Gandhi. New York: Harper & Row, 1950. pp. 672. 
+369. B. R. Nanda. Mahatma Gandhi: A Biography. New Delhi: Oxford University Press, 1958. pp. 520. 
+370. B. R. Nanda. Gokhale: The Indian Moderates and the British Raj. Delhi: Oxford University Press, 1977. pp. 464. 
 371. C. F. Andrews. Mahatma Gandhi’s Ideas. London: George Allen & Unwin, 1929. 220 pp. 
 372. Pyarelal. Mahatma Gandhi: The Last Phase, 2 vols. Ahmedabad: Navajivan, 1956. Vol. 1: 600 pp; Vol. 2: 620 pp. 
 373. Rajendra Prasad. India Divided. Bombay: Hind Kitabs, 1946. 380 pp. 
@@ -769,6 +769,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
