@@ -1,67 +1,71 @@
 ﻿# Book_For_01
 REFERENCES 
 
-1. A. C. Bhaktivedanta Swami Prabhupada. Bhagavad-gītā As It Is. Mumbai: Bhaktivedanta Book Trust, 1983 (rev. ed.). pp 946 
-2. A. C. Bhaktivedanta Swami Prabhupada. Śrīmad-Bhāgavatam (Bhāgavata Purāṇa). 30 vols. Mumbai: Bhaktivedanta Book Trust, 1972–1977. pp ~12,000+. (set total).
-3. A. C. Bhaktivedanta Swami Prabhupada. Śrī Caitanya-caritāmṛta. Mumbai: Bhaktivedanta Book Trust, 1974–1975. pp ~9,000+. (set total)
-4. A. C. Bhaktivedanta Swami Prabhupada. The Nectar of Devotion. Mumbai: Bhaktivedanta Book Trust, 1970. pp 396.
-5. A. C. Bhaktivedanta Swami Prabhupada. The Science of Self-Realization. Mumbai: Bhaktivedanta Book Trust, 1977. pp 384.
-6. A. C. Bhaktivedanta Swami Prabhupada. Teachings of Lord Caitanya. Mumbai: Bhaktivedanta Book Trust, 1968. pp 358.
-7. Bhaktivinoda Ṭhākura. Jaiva-Dharma. Various eds., Kolkata: Gaudiya Math. pp ~500.
-8. Bhaktisiddhānta Sarasvatī Ṭhākura. Collected Works. Kolkata: Gaudiya Math. (multi-vol. set; thousands of pp.)
-9. Burke E. Rochford Jr. Hare Krishna in America. New Brunswick: Rutgers University Press, 1985. pp 304.
-10. Burke E. Rochford Jr. Hare Krishna Transformed. New York: NYU Press, 2007. pp 352.
-11. Larry D. Shinn. The Hare Krishna in the West. Philadelphia: Westminster Press, 1985. pp 240.
-12. J. Stillson Judah. Hare Krishna and the Counterculture. New York: John Wiley & Sons, 1974. pp 286.
-13. Kim Knott. My Sweet Lord: The Hare Krishna Movement. London: Routledge, 1986. pp 224.
-14. Charles R. Brooks. The Hare Krishnas in India. Princeton: Princeton University Press, 1989. pp 320.
-15. Edwin F. Bryant and Maria L. Ekstrand, eds. The Hare Krishna Movement: The Postcharismatic Fate of a Religious Transplant. New York: Columbia University Press, 2004. pp 496.
-16. Graham Dwyer and Richard J. Cole, eds. The Hare Krishna Movement: Forty Years of Chant and Change. London: I.B. Tauris, 2007. pp 320.
-17. Kimmo Ketola. The Hare Krishna Movement: The Post-Charismatic Fate of a Religious Transplant. Helsinki: Finnish Society for the Study of Religion, 2008. pp 328.
-18. David G. Bromley and Larry D. Shinn, eds. Krishna Consciousness in the West. Lewisburg: Bucknell University Press, 1989. pp 272.
-19. Guy L. Beck. Sonic Liturgy: Ritual and Music in Hindu Tradition and Beyond. Columbia: University of South Carolina Press, 2012. pp 240.
-20. John Stratton Hawley. A Storm of Songs: India and the Idea of the Bhakti Movement. Cambridge, MA: Harvard University Press, 2015. pp 384.
-21. John Carman and Vasudha Narayanan, eds. The Vernacular Veda: Revelation, Recitation, and Ritual. Columbia: University of South Carolina Press, 1994. pp 272.
-22. Julius Lipner. Hindus: Their Religious Beliefs and Practices. 2nd ed. London: Routledge, 2010. pp 344.
-23. Karen Pechilis. The Embodiment of Bhakti. New York: Oxford University Press, 1999. pp 272.
-24. Swami Tapasyānanda. Bhakti Schools of Vedanta. Chennai: Sri Ramakrishna Math, 1990. pp 320.
-25. Steven J. Gelberg (Subhananda Dasa). “The Future of the Hare Krishna Movement: Problems and Prospects.” ISKCON Studies Journal 1 (1990): pp. 35–58.
-26. Burke E. Rochford Jr. “Family Formation, Culture, and Change in the Hare Krishna Movement.” Sociology of Religion 58, no. 1 (1997): pp. 23–40.
-27. Larry D. Shinn. “The Transformation of Charisma in the Hare Krishna Movement.” Sociological Analysis 38, no. 2 (1977): pp. 141–154.
-28. Edwin F. Bryant. “Krishna Consciousness in the United States: A Study of Religious Transplantation.” Religion 29, no. 1 (1999): pp. 65–90.
-29. E. Burke Rochford Jr. “Renunciation and Reformulation: A Study of Conversion in an American Hare Krishna Community.” Journal for the Scientific Study of Religion 24, no. 4 (1985): pp. 402–413.
-30. Thomas J. Hopkins. “The Social and Religious Background of the Hare Krishna Movement.” In Bromley & Shinn, Krishna Consciousness in the West (1989), pp. 31–50.
-31. Klaus K. Klostermaier. “Bhakti: The Personalism of Hinduism.” Numen 23, no. 1 (1976): pp. 60–71.
-32. Guy L. Beck. “Kirtan in ISKCON: Sound, Emotion, and Community.” In Dwyer & Cole, The Hare Krishna Movement (2007), pp. 105–124.
-33. Charles R. Brooks. “Vrindaban, ISKCON, and the Pilgrimage of Devotees.” In Bryant & Ekstrand (2004), pp. 255–279
-34. Graham Dwyer. “ISKCON and the Uses of Tradition.” In Dwyer & Cole (2007), pp. 1–22.
+1.	A. C. Bhaktivedanta Swami Prabhupada. Bhagavad-gītā As It Is. Mumbai: Bhaktivedanta Book Trust, 1983 (rev. ed.). pp. 946.
+2.	A. C. Bhaktivedanta Swami Prabhupada. Śrīmad-Bhāgavatam (Bhāgavata Purāṇa). 30 vols. Mumbai: Bhaktivedanta Book Trust, 1972–1977. pp. ~12,000+ (set total).
+3.	A. C. Bhaktivedanta Swami Prabhupada. Śrī Caitanya-caritāmṛta. Mumbai: Bhaktivedanta Book Trust, 1974–1975. pp. ~9,000+ (set total).
+4.	A. C. Bhaktivedanta Swami Prabhupada. The Nectar of Devotion. Mumbai: Bhaktivedanta Book Trust, 1970. pp. 396.
+5.	A. C. Bhaktivedanta Swami Prabhupada. The Science of Self-Realization. Mumbai: Bhaktivedanta Book Trust, 1977. pp. 384.
+6.	A. C. Bhaktivedanta Swami Prabhupada. Teachings of Lord Caitanya. Mumbai: Bhaktivedanta Book Trust, 1968. pp. 358.
+7.	Bhaktivinoda Ṭhākura. Jaiva-Dharma. Various eds., Kolkata: Gaudiya Math. pp. ~500.
+8.	Bhaktisiddhānta Sarasvatī Ṭhākura. Collected Works. Kolkata: Gaudiya Math. (multi-vol. set; thousands of pp.)
+9.	Burke E. Rochford Jr. Hare Krishna in America. New Brunswick: Rutgers University Press, 1985. pp. 304.
+10.	Burke E. Rochford Jr. Hare Krishna Transformed. New York: NYU Press, 2007. pp. 352.
+11.	Larry D. Shinn. The Hare Krishna in the West. Philadelphia: Westminster Press, 1985. pp. 240.
+12.	J. Stillson Judah. Hare Krishna and the Counterculture. New York: John Wiley & Sons, 1974. pp. 286.
+13.	Kim Knott. My Sweet Lord: The Hare Krishna Movement. London: Routledge, 1986. pp. 224.
+14.	Charles R. Brooks. The Hare Krishnas in India. Princeton: Princeton University Press, 1989. pp. 320.
+15.	Edwin F. Bryant and Maria L. Ekstrand, eds. The Hare Krishna Movement: The Postcharismatic Fate of a Religious Transplant. New York: Columbia University Press, 2004. pp. 496.
 
-35. Richard J. Cole. “Food for Life: Prasadam and Public Service.” In Dwyer & Cole (2007), pp. 223–241.
-36. Nori J. Muster. Betrayal of the Spirit: My Life behind the Headlines of the Hare Krishna Movement. Urbana: University of Illinois Press, 1997. 288 pp.
-37. E. Burke Rochford Jr. “Charisma and Community: The Sociology of the Hare Krishna Movement.” Sociological Analysis 43, no. 3 (1982): pp. 255–267.
-38. Charles Prebish. “Ethical Challenges in New Religious Movements: The Case of ISKCON.” Journal of Dharma 12, no. 3–4 (1987): pp. 275–292.
-39. T. W. Allen. “Airport Evangelism and the Public Sphere: ISKCON’s Book Distribution.” Journal of Contemporary Religion 9, no. 2 (1994): pp. 131–146.
-40. Kim Knott. “Insiders and Outsiders: Researching ISKCON.” Religion 19, no. 1 (1989): pp. 3–17.
-41. Anuthama Dasi & Kripamoya Das. ISKCON Communications Handbook. London: ISKCON Communications, 2002. 180 pp.
-42. Graham M. Schweig. Dance of Divine Love: India’s Classic Sacred Love Story: The Rāsa Līlā of Krishna. Princeton: Princeton University Press, 2005. 384 pp.
-43. Edwin Bryant. Krishna: A Sourcebook. New York: Oxford University Press, 2007. 584 pp.
-44. Kenneth R. Valpey (Krishna Kshetra Swami). Attending Krishna’s Image: Chaitanya Vaisnava Murti-seva as Devotional Truth. London: Routledge, 2019. 232 pp.
-45. Ferdinando Sardella. Modern Hindu Personalism: The History, Life, and Thought of Bhaktisiddhānta Sarasvatī. New York: Oxford University Press, 2013. 336 pp
-46. Ferdinando Sardella and Lucian Wong, eds. The Legacy of Vaiṣṇava Saints: Modern Gauḍīya Vaiṣṇavism in Global Perspective. New Delhi: Oxford University Press, 2023. 384 pp.
-47. Maya Warrier. “The Seva Ethic and the Spirit of Service in Modern Hinduism.” Journal of the American Academy of Religion 85, no. 2 (2017): pp. 416–453.
-48. Anna S. King and John Brockington, eds. The Intimate Other: Love Divine in Indic Religions. New Delhi: Orient BlackSwan, 2005. 280 pp.
-49. Vasudha Narayanan. “Bhakti and Community: Negotiating Identity in the Diaspora.” International Journal of Hindu Studies 3, no. 2 (1999): pp. 157–179.
-50. Thomas J. Hopkins. The Hindu Religious Tradition. 3rd ed. Long Grove, IL: Waveland Press, 2004. 384 pp.
-51. Guy L. Beck. Sacred Sound: Experiencing Music in World Religions. Waterloo: Wilfrid Laurier University Press, 2006. 312 pp.
-52. E. Burke Rochford Jr. “Childhood Socialization in the Hare Krishna Movement.” Sociology of Religion 44, no. 2 (1983): pp. 147–162
-53. Larry D. Shinn. “Women in the Hare Krishna Movement: Feminist Reappraisals.” Journal of Dharma 14, no. 3–4 (1989): pp. 293–310.
-54. Kim Knott. “Boundaries and Emotions in ISKCON Communities.” Social Compass 36, no. 1 (1989): pp. 77–91.
-55. E. Burke Rochford Jr. and K. Bailey. “Recruitment, Commitment, and Retention in the Hare Krishna Movement.” Sociological Inquiry 48, no. 1 (1978): pp. 35–50.
-56. Thomas J. Hopkins. “ISKCON’s Place in the History of Religions.” In Bryant & Ekstrand, The Hare Krishna Movement (2004): pp. 23–45.
-57. Julius Lipner. “The Rise of Hindu New Religious Movements in the West.” Religion 18, no. 3 (1988): pp. 237–255.
-58. John Stratton Hawley. Krishna, The Butter Thief. Princeton: Princeton University Press, 1981. 254 pp.
-59. Shrivatsa Goswami. “Gaudiya Vaishnavism and ISKCON: Continuities and Tensions.” In Dwyer & Cole, The Hare Krishna Movement (2007): pp. 61–83.
-60. Graham M. Schweig. Bhakti and Embodiment: Configuring Divine Love in Kṛṣṇa Bhakti. New York: Oxford University Press, 2020. 280 pp.
+16.	Graham Dwyer and Richard J. Cole, eds. The Hare Krishna Movement: Forty Years of Chant and Change. London: I.B. Tauris, 2007. pp. 320.
+17.	Kimmo Ketola. The Hare Krishna Movement: The Post-Charismatic Fate of a Religious Transplant. Helsinki: Finnish Society for the Study of Religion, 2008. pp. 328.
+18.	David G. Bromley and Larry D. Shinn, eds. Krishna Consciousness in the West. Lewisburg: Bucknell University Press, 1989. pp. 272.
+19.	Guy L. Beck. Sonic Liturgy: Ritual and Music in Hindu Tradition and Beyond. Columbia: University of South Carolina Press, 2012. pp. 240.
+20.	John Stratton Hawley. A Storm of Songs: India and the Idea of the Bhakti Movement. Cambridge, MA: Harvard University Press, 2015. pp. 384.
+21.	John Carman and Vasudha Narayanan, eds. The Vernacular Veda: Revelation, Recitation, and Ritual. Columbia: University of South Carolina Press, 1994. pp. 272.
+22.	Julius Lipner. Hindus: Their Religious Beliefs and Practices. 2nd ed. London: Routledge, 2010. pp. 344.
+23.	Karen Pechilis. The Embodiment of Bhakti. New York: Oxford University Press, 1999. pp. 272.
+24.	Swami Tapasyānanda. Bhakti Schools of Vedanta. Chennai: Sri Ramakrishna Math, 1990. pp. 320.
+25.	Steven J. Gelberg (Subhananda Dasa). “The Future of the Hare Krishna Movement: Problems and Prospects.” ISKCON Studies Journal 1 (1990): pp. 35–58.
+26.	Burke E. Rochford Jr. “Family Formation, Culture, and Change in the Hare Krishna Movement.” Sociology of Religion 58, no. 1 (1997): pp. 23–40.
+27.	Larry D. Shinn. “The Transformation of Charisma in the Hare Krishna Movement.” Sociological Analysis 38, no. 2 (1977): pp. 141–154.
+28.	Edwin F. Bryant. “Krishna Consciousness in the United States: A Study of Religious Transplantation.” Religion 29, no. 1 (1999): pp. 65–90.
+29.	E. Burke Rochford Jr. “Renunciation and Reformulation: A Study of Conversion in an American Hare Krishna Community.” Journal for the Scientific Study of Religion 24, no. 4 (1985): pp. 402–413.
+30.	Thomas J. Hopkins. “The Social and Religious Background of the Hare Krishna Movement.” In Bromley & Shinn, Krishna Consciousness in the West (1989), pp. 31–50.
+
+31.	Klaus K. Klostermaier. “Bhakti: The Personalism of Hinduism.” Numen 23, no. 1 (1976): pp. 60–71.
+32.	Guy L. Beck. “Kirtan in ISKCON: Sound, Emotion, and Community.” In Dwyer & Cole, The Hare Krishna Movement (2007), pp. 105–124.
+33.	Charles R. Brooks. “Vrindaban, ISKCON, and the Pilgrimage of Devotees.” In Bryant & Ekstrand (2004), pp. 255–279.
+34.	Graham Dwyer. “ISKCON and the Uses of Tradition.” In Dwyer & Cole (2007), pp. 1–22.
+35.	Richard J. Cole. “Food for Life: Prasadam and Public Service.” In Dwyer & Cole (2007), pp. 223–241.
+36.	Nori J. Muster. Betrayal of the Spirit: My Life behind the Headlines of the Hare Krishna Movement. Urbana: University of Illinois Press, 1997. pp. 288.
+37.	E. Burke Rochford Jr. “Charisma and Community: The Sociology of the Hare Krishna Movement.” Sociological Analysis 43, no. 3 (1982): pp. 255–267.
+38.	Charles Prebish. “Ethical Challenges in New Religious Movements: The Case of ISKCON.” Journal of Dharma 12, no. 3–4 (1987): pp. 275–292.
+39.	T. W. Allen. “Airport Evangelism and the Public Sphere: ISKCON’s Book Distribution.” Journal of Contemporary Religion 9, no. 2 (1994): pp. 131–146.
+40.	Kim Knott. “Insiders and Outsiders: Researching ISKCON.” Religion 19, no. 1 (1989): pp. 3–17.
+41.	Anuthama Dasi & Kripamoya Das. ISKCON Communications Handbook. London: ISKCON Communications, 2002. pp. 180.
+42.	Graham M. Schweig. Dance of Divine Love: India’s Classic Sacred Love Story: The Rāsa Līlā of Krishna. Princeton: Princeton University Press, 2005. pp. 384.
+43.	Edwin Bryant. Krishna: A Sourcebook. New York: Oxford University Press, 2007. pp. 584.
+44.	Kenneth R. Valpey (Krishna Kshetra Swami). Attending Krishna’s Image: Chaitanya Vaisnava Murti-seva as Devotional Truth. London: Routledge, 2019. pp. 232.
+45.	Ferdinando Sardella. Modern Hindu Personalism: The History, Life, and Thought of Bhaktisiddhānta Sarasvatī. New York: Oxford University Press, 2013. pp. 336.
+46.	Ferdinando Sardella and Lucian Wong, eds. The Legacy of Vaiṣṇava Saints: Modern Gauḍīya Vaiṣṇavism in Global Perspective. New Delhi: Oxford University Press, 2023. pp. 384.
+47.	Maya Warrier. “The Seva Ethic and the Spirit of Service in Modern Hinduism.” Journal of the American Academy of Religion 85, no. 2 (2017): pp. 416–453.
+48.	Anna S. King and John Brockington, eds. The Intimate Other: Love Divine in Indic Religions. New Delhi: Orient BlackSwan, 2005. pp. 280.
+49.	Vasudha Narayanan. “Bhakti and Community: Negotiating Identity in the Diaspora.” International Journal of Hindu Studies 3, no. 2 (1999): pp. 157–179.
+50.	Thomas J. Hopkins. The Hindu Religious Tradition. 3rd ed. Long Grove, IL: Waveland Press, 2004. pp. 384.
+
+
+51.	Guy L. Beck. Sacred Sound: Experiencing Music in World Religions. Waterloo: Wilfrid Laurier University Press, 2006. pp. 312.
+52.	E. Burke Rochford Jr. “Childhood Socialization in the Hare Krishna Movement.” Sociology of Religion 44, no. 2 (1983): pp. 147–162.
+53.	Larry D. Shinn. “Women in the Hare Krishna Movement: Feminist Reappraisals.” Journal of Dharma 14, no. 3–4 (1989): pp. 293–310.
+54.	Kim Knott. “Boundaries and Emotions in ISKCON Communities.” Social Compass 36, no. 1 (1989): pp. 77–91.
+55.	E. Burke Rochford Jr. and K. Bailey. “Recruitment, Commitment, and Retention in the Hare Krishna Movement.” Sociological Inquiry 48, no. 1 (1978): pp. 35–50.
+56.	Thomas J. Hopkins. “ISKCON’s Place in the History of Religions.” In Bryant & Ekstrand, The Hare Krishna Movement (2004): pp. 23–45.
+57.	Julius Lipner. “The Rise of Hindu New Religious Movements in the West.” Religion 18, no. 3 (1988): pp. 237–255.
+58.	John Stratton Hawley. Krishna, The Butter Thief. Princeton: Princeton University Press, 1981. pp. 254.
+59.	Shrivatsa Goswami. “Gaudiya Vaishnavism and ISKCON: Continuities and Tensions.” In Dwyer & Cole, The Hare Krishna Movement (2007): pp. 61–83.
+60.	Graham M. Schweig. Bhakti and Embodiment: Configuring Divine Love in Kṛṣṇa Bhakti. New York: Oxford University Press, 2020. pp. 280.
+
 61. Hugh B. Urban. Zorba the Buddha: Sex, Spirituality, and Capitalism in the Global Osho Movement. Urbana: University of Illinois Press, 2005. 312 pp. (comparative with ISKCON).
 62. Diana L. Eck. India: A Sacred Geography. New York: Harmony Books, 2012. 576 pp.
 63. Anuttama Dasa. “ISKCON and Interfaith Dialogue: Building Bridges.” ISKCON Communications Journal 10 (2002): pp. 15–32
@@ -764,6 +768,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
