@@ -471,57 +471,58 @@ REFERENCES
 500. Jotirao Phule. Slavery (Gulamgiri). Translated by P. G. Patil. New Delhi: Critical Quest, 2002. pp. 138.
 
 
-[28/09, 2:31 pm] Malay Khan(sadgope ): 501–550 
-501. Jotirao Phule. Selected Writings of Jotirao Phule. Edited by G. P. Deshpande. New Delhi: LeftWord, 2002. 220 pp. 
-502. Gail Omvedt. Cultural Revolt in a Colonial Society: The Non-Brahman Movement in Western India, 1873–1930. Bombay: Scientific Socialist Education Trust, 1976. 370 pp. 
-503. Rosalind O’Hanlon. A Comparison of the Social and Political Thought of Jotirao Phule and B. R. Ambedkar. Delhi: M. N. Roy Memorial Committee, 1985. 198 pp. 
-504. B. R. Ambedkar. Annihilation of Caste. Bombay: 1936. Reprint, New Delhi: Critical Quest, 2005. 163 pp. 
-505. B. R. Ambedkar. The Essential Writings of B. R. Ambedkar. Edited by Valerian Rodrigues. New Delhi: Oxford University Press, 2002. 440 pp. 
+
+501. Jotirao Phule. Selected Writings of Jotirao Phule. Edited by G. P. Deshpande. New Delhi: LeftWord, 2002. pp. 220. 
+502. Gail Omvedt. Cultural Revolt in a Colonial Society: The Non-Brahman Movement in Western India, 1873–1930. Bombay: Scientific Socialist Education Trust, 1976. pp. 370. 
+503. Rosalind O’Hanlon. A Comparison of the Social and Political Thought of Jotirao Phule and B. R. Ambedkar. Delhi: M. N. Roy Memorial Committee, 1985. pp. 198. 
+504. B. R. Ambedkar. Annihilation of Caste. Bombay: 1936. Reprint, New Delhi: Critical Quest, 2005. pp. 163. 
+505. B. R. Ambedkar. The Essential Writings of B. R. Ambedkar. Edited by Valerian Rodrigues. New Delhi: Oxford University Press, 2002. pp. 440. 
 506. B. R. Ambedkar. Dr. Babasaheb Ambedkar: Writings and Speeches, Vols. 1–17. Bombay: Government of Maharashtra, 1979–2005. 
-507. Eleanor Zelliot. Ambedkar’s World: The Making of Babasaheb and the Dalit Movement. New Delhi: Navayana, 2013. 340 pp. 
-508. Sharmila Rege, ed. Against the Madness of Manu: B. R. Ambedkar’s Writings on Brahmanical Patriarchy. New Delhi: Navayana, 2013. 380 pp. 
-509. Ananya Vajpeyi. Righteous Republic: The Political Foundations of Modern India. Cambridge: Harvard University Press, 2012. 366 pp. 
-510. Christophe Jaffrelot. Religion, Caste, and Politics in India. New Delhi: Primus, 2010. 828 pp. 
-511. Christophe Jaffrelot. The Hindu Nationalist Movement and Indian Politics. New Delhi: Penguin, 1996. 624 pp. 
-512. Thomas Blom Hansen. The Saffron Wave: Democracy and Hindu Nationalism in Modern India. Princeton: Princeton University Press, 1999. 304 pp. 
-513. Thomas Blom Hansen. Wages of Violence: Naming and Identity in Postcolonial Bombay. Princeton: Princeton University Press, 2001. 320 pp. 
-514. Martha C. Nussbaum. The Clash Within: Democracy, Religious Violence, and India’s Future. Cambridge, MA: Harvard University Press, 2007. 432 pp. 
-515. Paul Brass. The Politics of India since Independence. Cambridge: Cambridge University Press, 1990. 420 pp. 
-516. Paul Brass. The Production of Hindu–Muslim Violence in Contemporary India. Seattle: University of Washington Press, 2003. 472 pp. 
-517. Ashutosh Varshney. Ethnic Conflict and Civic Life: Hindus and Muslims in India. New Haven: Yale University Press, 2002. 392 pp. 
-518. Sudipta Kaviraj. The Imaginary Institution of India: Politics and Ideas. New York: Columbia University Press, 2010. 320 pp. 
-519. Sudipta Kaviraj. The Trajectories of the Indian State: Politics and Ideas. New Delhi: Permanent Black, 2010. 414 pp. 
-520. Sudipta Kaviraj. Politics in India. Delhi: Oxford University Press, 1999. 340 pp. 
-521. Partha Chatterjee. Empire and Nation: Selected Essays, 1985–2005. New Delhi: Permanent Black, 2010. 448 pp. 
-522. Partha Chatterjee. The Politics of the Governed: Reflections on Popular Politics in Most of the World. New York: Columbia University Press, 2004. 168 pp. 
-523. Ranabir Samaddar. The Politics of Autonomy: Indian Experiences. New Delhi: Sage Publications, 2005. 340 pp. 
-524. Ranabir Samaddar. Reflections on Partition in the East. New Delhi: Vikas, 1997. 284 pp. 
-525. Ranabir Samaddar. The Materiality of Politics, 2 vols. New Delhi: Anthem Press, 2007. Vol. 1: 360 pp; Vol. 2: 342 pp. 
-526. Suhas Palshikar, Sanjay Kumar, and Yogendra Yadav, eds. Electoral Politics in India: Resurgence of the Bharatiya Janata Party. New Delhi: Routledge, 2017. 360 pp. 
-527. Yogendra Yadav and Suhas Palshikar. “Ten Theses on State Politics in India.” Seminar 591 (2011): 14–22. 
-528. Yogendra Yadav, Suhas Palshikar, and Sanjay Kumar, eds. The Indian Political System: Critical Essays. New Delhi: Oxford University Press, 2010. 420 pp. 
-529. Atul Kohli. Democracy and Discontent: India’s Growing Crisis of Governability. Cambridge: Cambridge University Press, 1990. 324 pp. 
-530. Atul Kohli. Poverty amid Plenty in the New India. Cambridge: Cambridge University Press, 2012. 452 pp. 
-531. Lloyd Rudolph and Susanne Rudolph. In Pursuit of Lakshmi: The Political Economy of the Indian State. Chicago: University of Chicago Press, 1987. 444 pp. 
+507. Eleanor Zelliot. Ambedkar’s World: The Making of Babasaheb and the Dalit Movement. New Delhi: Navayana, 2013. pp. 340. 
+508. Sharmila Rege, ed. Against the Madness of Manu: B. R. Ambedkar’s Writings on Brahmanical Patriarchy. New Delhi: Navayana, 2013. pp. 380. 
+509. Ananya Vajpeyi. Righteous Republic: The Political Foundations of Modern India. Cambridge: Harvard University Press, 2012. pp. 366. 
+510. Christophe Jaffrelot. Religion, Caste, and Politics in India. New Delhi: Primus, 2010. pp. 828. 
+511. Christophe Jaffrelot. The Hindu Nationalist Movement and Indian Politics. New Delhi: Penguin, 1996. pp. 624. 
+512. Thomas Blom Hansen. The Saffron Wave: Democracy and Hindu Nationalism in Modern India. Princeton: Princeton University Press, 1999. pp. 304. 
+513. Thomas Blom Hansen. Wages of Violence: Naming and Identity in Postcolonial Bombay. Princeton: Princeton University Press, 2001. pp. 320. 
+514. Martha C. Nussbaum. The Clash Within: Democracy, Religious Violence, and India’s Future. Cambridge, MA: Harvard University Press, 2007. pp. 432. 
+515. Paul Brass. The Politics of India since Independence. Cambridge: Cambridge University Press, 1990. pp. 420. 
+516. Paul Brass. The Production of Hindu–Muslim Violence in Contemporary India. Seattle: University of Washington Press, 2003. pp. 472. 
+517. Ashutosh Varshney. Ethnic Conflict and Civic Life: Hindus and Muslims in India. New Haven: Yale University Press, 2002. pp. 392. 
+518. Sudipta Kaviraj. The Imaginary Institution of India: Politics and Ideas. New York: Columbia University Press, 2010. pp. 320. 
+519. Sudipta Kaviraj. The Trajectories of the Indian State: Politics and Ideas. New Delhi: Permanent Black, 2010. pp. 414. 
+520. Sudipta Kaviraj. Politics in India. Delhi: Oxford University Press, 1999. pp. 340. 
+521. Partha Chatterjee. Empire and Nation: Selected Essays, 1985–2005. New Delhi: Permanent Black, 2010. pp. 448. 
+522. Partha Chatterjee. The Politics of the Governed: Reflections on Popular Politics in Most of the World. New York: Columbia University Press, 2004. pp. 168. 
+523. Ranabir Samaddar. The Politics of Autonomy: Indian Experiences. New Delhi: Sage Publications, 2005. pp. 340. 
+524. Ranabir Samaddar. Reflections on Partition in the East. New Delhi: Vikas, 1997. pp. 284. 
+525. Ranabir Samaddar. The Materiality of Politics, 2 vols. New Delhi: Anthem Press, 2007. Vol. 1: pp. 360; Vol. 2: pp. 342. 
+526. Suhas Palshikar, Sanjay Kumar, and Yogendra Yadav, eds. Electoral Politics in India: Resurgence of the Bharatiya Janata Party. New Delhi: Routledge, 2017. pp. 360. 
+527. Yogendra Yadav and Suhas Palshikar. “Ten Theses on State Politics in India.” Seminar 591 (2011): pp. 14–22. 
+528. Yogendra Yadav, Suhas Palshikar, and Sanjay Kumar, eds. The Indian Political System: Critical Essays. New Delhi: Oxford University Press, 2010. pp. 420. 
+529. Atul Kohli. Democracy and Discontent: India’s Growing Crisis of Governability. Cambridge: Cambridge University Press, 1990. pp. 324. 
+530. Atul Kohli. Poverty amid Plenty in the New India. Cambridge: Cambridge University Press, 2012. pp. 452. 
+531. Lloyd Rudolph and Susanne Rudolph. In Pursuit of Lakshmi: The Political Economy of the Indian State. Chicago: University of Chicago Press, 1987. pp. 444. 
 532. Lloyd Rudolph and Susanne Rudolph. Explaining Indian Democracy: A Fifty-Year Perspective, 3 vols. New Delhi: Oxford University Press, 2008. 
-533. Rajni Kothari. Politics in India. New Delhi: Orient Longman, 1970. 440 pp. 
-534. Rajni Kothari. Caste in Indian Politics. New Delhi: Orient Blackswan, 1995. 406 pp. 
-535. Rajni Kothari. Rethinking Democracy. New Delhi: Orient Longman, 2005. 210 pp. 
-536. Sunil Khilnani. The Idea of India. New Delhi: Penguin, 1997. 263 pp. 
-537. Pratap Bhanu Mehta. The Burden of Democracy. New Delhi: Penguin, 2003. 210 pp 
-538. Pratap Bhanu Mehta. India’s Founding Moment: The Constitution of a Most Surprising Democracy. Cambridge: Harvard University Press, 2019. 342 pp. 
-539. Granville Austin. The Indian Constitution: Cornerstone of a Nation. Oxford: Clarendon Press, 1966. 703 pp. 
-540. Granville Austin. Working a Democratic Constitution: The Indian Experience. New Delhi: Oxford University Press, 1999. 1147 pp. 
-541. Madhav Khosla. The Indian Constitution. New Delhi: Oxford University Press, 2012. 242 pp. 
-542. Madhav Khosla. India’s Founding Moment: The Constitution of a Most Surprising Democracy. Cambridge: Harvard University Press, 2020. 352 pp. 
+533. Rajni Kothari. Politics in India. New Delhi: Orient Longman, 1970. pp. 440. 
+534. Rajni Kothari. Caste in Indian Politics. New Delhi: Orient Blackswan, 1995. pp. 406. 
+535. Rajni Kothari. Rethinking Democracy. New Delhi: Orient Longman, 2005. pp. 210. 
+536. Sunil Khilnani. The Idea of India. New Delhi: Penguin, 1997. pp. 263. 
+537. Pratap Bhanu Mehta. The Burden of Democracy. New Delhi: Penguin, 2003. pp. 210 
+538. Pratap Bhanu Mehta. India’s Founding Moment: The Constitution of a Most Surprising Democracy. Cambridge: Harvard University Press, 2019. pp. 342. 
+539. Granville Austin. The Indian Constitution: Cornerstone of a Nation. Oxford: Clarendon Press, 1966. pp. 703. 
+540. Granville Austin. Working a Democratic Constitution: The Indian Experience. New Delhi: Oxford University Press, 1999. pp. 1147. 
+541. Madhav Khosla. The Indian Constitution. New Delhi: Oxford University Press, 2012. pp. 242. 
+542. Madhav Khosla. India’s Founding Moment: The Constitution of a Most Surprising Democracy. Cambridge: Harvard University Press, 2020. pp. 352. 
 543. H. M. Seervai. Constitutional Law of India, 4 vols. Bombay: N. M. Tripathi, 1991. 
-544. Upendra Baxi. The Indian Supreme Court and Politics. Lucknow: Eastern Book Company, 1980. 280 pp. 
-545. Upendra Baxi. The Crisis of the Indian Legal System. Delhi: Vikas, 1982. 342 pp. 
-546. Marc Galanter. Competing Equalities: Law and the Backward Classes in India. Berkeley: University of California Press, 1984. 560 pp. 
-547. Marc Galanter. Law and Society in Modern India. Delhi: Oxford University Press, 1989. 274 pp. 
-548. Rajeev Dhavan. The Supreme Court of India: A Socio-Legal Critique of Its Juristic Techniques. Delhi: Tripathi, 1977. 468 pp. 
-549. Rajeev Bhargava, ed. Politics and Ethics of the Indian Constitution. New Delhi: Oxford University Press, 2008. 420 pp. 
-550. Granville Austin. The Progressive Constitution of India. New Delhi: Oxford University Press, 2018. 280 pp. 
+544. Upendra Baxi. The Indian Supreme Court and Politics. Lucknow: Eastern Book Company, 1980. pp. 280. 
+545. Upendra Baxi. The Crisis of the Indian Legal System. Delhi: Vikas, 1982. pp. 342. 
+546. Marc Galanter. Competing Equalities: Law and the Backward Classes in India. Berkeley: University of California Press, 1984. pp. 560. 
+547. Marc Galanter. Law and Society in Modern India. Delhi: Oxford University Press, 1989. pp. 274. 
+548. Rajeev Dhavan. The Supreme Court of India: A Socio-Legal Critique of Its Juristic Techniques. Delhi: Tripathi, 1977. pp. 468. 
+549. Rajeev Bhargava, ed. Politics and Ethics of the Indian Constitution. New Delhi: Oxford University Press, 2008. pp. 420. 
+550. Granville Austin. The Progressive Constitution of India. New Delhi: Oxford University Press, 2018. pp. 280.
+ 
 --- 
 551–600 
 551. Arun Shourie. Courts and Their Judgments: Premises, Prerequisites, Consequences. New Delhi: Rupa, 2001. 318 pp. 
@@ -778,6 +779,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
