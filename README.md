@@ -574,41 +574,41 @@ REFERENCES
 599. C. Rangarajan. Perspectives on Indian Economy. New Delhi: UBS Publishers, 2001. pp. 300. 
 600. C. Rangarajan. India: Monetary Policy, Financial Stability and Other Essays. New Delhi: Academic Foundation, 2011. pp. 520.
 
-[28/09, 2:33 pm] Malay Khan(sadgope ): 601–650 
-601. Y. V. Reddy. India and the Global Financial Crisis: Managing Money and Finance. New Delhi: Orient BlackSwan, 2009. 360 pp. 
-602. Y. V. Reddy. Advice and Dissent: My Life in Public Service. New Delhi: HarperCollins, 2017. 320 pp. 
-603. Duvvuri Subbarao. Who Moved My Interest Rate? Leading the Reserve Bank of India through Five Turbulent Years. New Delhi: Penguin, 2016. 320 pp. 
-604. Bimal Jalan. The Indian Economy: Problems and Prospects. New Delhi: Penguin, 2002. 288 pp. 
-605. Bimal Jalan. India’s Economic Policy: Preparing for the Twenty-First Century. New Delhi: Viking, 1992. 240 pp. 
-606. Vijay Joshi and I. M. D. Little. India’s Economic Reforms 1991–2001. New Delhi: Oxford University Press, 1996. 386 pp. 
-607. Vijay Joshi. India’s Long Road: The Search for Prosperity. London: Penguin, 2016. 480 pp. 
-608. Shankar N. Acharya and Rakesh Mohan, eds. India’s Economy: Performance and Challenges.New Delhi: Oxford University Press, 2010. 540 pp. 
-609. Rakesh Mohan. Monetary Policy in a Globalized Economy: A Practitioner’s View. New Delhi: Oxford University Press, 2009. 600 pp. 
-610. Rakesh Mohan. India Transformed: 25 Years of Economic Reforms. New Delhi: Penguin, 2017. 500 pp. 
-611. T. N. Srinivasan, ed. Eight Lectures on India’s Economic Reforms. New Delhi: Oxford University Press, 2000. 280 pp. 
-612. T. N. Srinivasan and Suresh Tendulkar. Reintegrating India with the World Economy. Washington, DC: Institute for International Economics, 2003. 250 pp. 
-613. Suresh Tendulkar and T. A. Bhavani. Understanding Reforms: Post-1991 India. New Delhi: Oxford University Press, 2007. 320 pp. 
-614. Suresh Tendulkar. Reforming Indian Industrial Policy. New Delhi: Indian Council for Research on International Economic Relations (ICRIER), 1995. 220 pp. 
-615. Vijay Kelkar. In Service of the Republic: The Art and Science of Economic Policy. New Delhi: Penguin, 2019. 424 pp. 
-616. Montek Singh Ahluwalia. Reforming the Indian Economy. New Delhi: Oxford University Press, 2019. 280 pp. 
-617. Jagdish Bhagwati, ed. Capitalism and Agriculture in India. Delhi: Oxford University Press, 1975. 340 pp. 
+
+601. Y. V. Reddy. India and the Global Financial Crisis: Managing Money and Finance. New Delhi: Orient BlackSwan, 2009. pp. 360. 
+602. Y. V. Reddy. Advice and Dissent: My Life in Public Service. New Delhi: HarperCollins, 2017. pp. 320. 
+603. Duvvuri Subbarao. Who Moved My Interest Rate? Leading the Reserve Bank of India through Five Turbulent Years. New Delhi: Penguin, 2016. pp. 320. 
+604. Bimal Jalan. The Indian Economy: Problems and Prospects. New Delhi: Penguin, 2002. pp. 288. 
+605. Bimal Jalan. India’s Economic Policy: Preparing for the Twenty-First Century. New Delhi: Viking, 1992. pp. 240. 
+606. Vijay Joshi and I. M. D. Little. India’s Economic Reforms 1991–2001. New Delhi: Oxford University Press, 1996. pp. 386. 
+607. Vijay Joshi. India’s Long Road: The Search for Prosperity. London: Penguin, 2016. pp. 480. 
+608. Shankar N. Acharya and Rakesh Mohan, eds. India’s Economy: Performance and Challenges.New Delhi: Oxford University Press, 2010. pp. 540. 
+609. Rakesh Mohan. Monetary Policy in a Globalized Economy: A Practitioner’s View. New Delhi: Oxford University Press, 2009. pp. 600. 
+610. Rakesh Mohan. India Transformed: 25 Years of Economic Reforms. New Delhi: Penguin, 2017. pp. 500. 
+611. T. N. Srinivasan, ed. Eight Lectures on India’s Economic Reforms. New Delhi: Oxford University Press, 2000. pp. 280. 
+612. T. N. Srinivasan and Suresh Tendulkar. Reintegrating India with the World Economy. Washington, DC: Institute for International Economics, 2003. pp. 250. 
+613. Suresh Tendulkar and T. A. Bhavani. Understanding Reforms: Post-1991 India. New Delhi: Oxford University Press, 2007. pp. 320. 
+614. Suresh Tendulkar. Reforming Indian Industrial Policy. New Delhi: Indian Council for Research on International Economic Relations (ICRIER), 1995. pp. 220. 
+615. Vijay Kelkar. In Service of the Republic: The Art and Science of Economic Policy. New Delhi: Penguin, 2019. pp. 424. 
+616. Montek Singh Ahluwalia. Reforming the Indian Economy. New Delhi: Oxford University Press, 2019. pp. 280. 
+617. Jagdish Bhagwati, ed. Capitalism and Agriculture in India. Delhi: Oxford University Press, 1975. pp. 340. 
 618. Uma Kapila, ed. Indian Economy since Independence, multiple editions. New Delhi: Academic Foundation, 1988–. 
-619. C. H. Hanumantha Rao. Agricultural Growth, Rural Poverty and Environmental Degradation in India. New Delhi: Oxford University Press, 1994. 310 pp. 
-620. C. H. Hanumantha Rao. Technological Change and Distribution of Gains in Indian Agriculture. Delhi: Macmillan, 1975. 280 pp. 
-621. V. M. Dandekar and Nilkanth Rath. Poverty in India. Delhi: Indian School of Political Economy, 1971. 210 pp. 
-622. V. M. Dandekar. Indian Economy 1947–1992: Vols. 1–2. New Delhi: Sage, 1993. 
-623. A. Vaidyanathan. The Indian Economy: Crisis, Response and Prospects. New Delhi: Orient Longman, 1995. 350 pp. 
-624. A. Vaidyanathan. Water Resource Management: Institutions and Irrigation Development in India. New Delhi: Oxford University Press, 1999. 280 pp. 
-625. K. N. Raj. Economic Essays. Delhi: Oxford University Press, 1991. 400 pp. 
-626. K. N. Raj, ed. Essays on the Indian Economy. Delhi: Oxford University Press, 1993. 350 pp. 
-627. Sukhamoy Chakravarty. Development Planning: The Indian Experience. Delhi: Oxford University Press, 1987. 420 pp. 
-628. Sukhamoy Chakravarty. Capital and Development Planning. Cambridge: MIT Press, 1969. 280 pp. 
-629. P. R. Brahmananda. The Foundations of Indian Economic Planning. Bombay: Somaiya Publications, 1982. 310 pp. 
-630. I. G. Patel. Glimpses of Indian Economic Policy: An Insider’s View. New Delhi: Oxford University Press, 2002. 220 pp. 
-631. I. G. Patel. Economic Policy in India. London: Macmillan, 1966. 200 pp. 
-632. P. C. Mahalanobis. Essays in Economic Planning and Policy. Bombay: Asia Publishing House, 1960. 312 pp. 
+619. C. H. Hanumantha Rao. Agricultural Growth, Rural Poverty and Environmental Degradation in India. New Delhi: Oxford University Press, 1994. pp. 310. 
+620. C. H. Hanumantha Rao. Technological Change and Distribution of Gains in Indian Agriculture. Delhi: Macmillan, 1975. pp. 280. 
+621. V. M. Dandekar and Nilkanth Rath. Poverty in India. Delhi: Indian School of Political Economy, 1971. pp. 210. 
+622. V. M. Dandekar. Indian Economy 1947–1992: Vols. pp. 1–2. New Delhi: Sage, 1993. 
+623. A. Vaidyanathan. The Indian Economy: Crisis, Response and Prospects. New Delhi: Orient Longman, 1995. pp. 350. 
+624. A. Vaidyanathan. Water Resource Management: Institutions and Irrigation Development in India. New Delhi: Oxford University Press, 1999. pp. 280. 
+625. K. N. Raj. Economic Essays. Delhi: Oxford University Press, 1991. pp. 400. 
+626. K. N. Raj, ed. Essays on the Indian Economy. Delhi: Oxford University Press, 1993. pp. 350. 
+627. Sukhamoy Chakravarty. Development Planning: The Indian Experience. Delhi: Oxford University Press, 1987. pp. 420. 
+628. Sukhamoy Chakravarty. Capital and Development Planning. Cambridge: MIT Press, 1969. pp. 280. 
+629. P. R. Brahmananda. The Foundations of Indian Economic Planning. Bombay: Somaiya Publications, 1982. pp. 310. 
+630. I. G. Patel. Glimpses of Indian Economic Policy: An Insider’s View. New Delhi: Oxford University Press, 2002. pp. 220. 
+631. I. G. Patel. Economic Policy in India. London: Macmillan, 1966. pp. 200. 
+632. P. C. Mahalanobis. Essays in Economic Planning and Policy. Bombay: Asia Publishing House, 1960. pp. 312. 
 633. P. C. Mahalanobis. Collected Papers, 3 vols. Calcutta: Statistical Publishing Society, 1975. 
-634. Sukhamoy Chakravarty Committee. Report of the Committee to Review the Working of the Monetary System. New Delhi: Government of India, 1985. 220 pp. 
+634. Sukhamoy Chakravarty Committee. Report of the Committee to Review the Working of the Monetary System. New Delhi: Government of India, 1985. pp. 220. 
 635. Reserve Bank of India. History of the Reserve Bank of India, Vols. 1–4. Bombay: RBI, 1970–1999. 
 636. Reserve Bank of India. Annual Reports, multiple years. Mumbai: RBI. 
 637. Planning Commission. First Five-Year Plan (1951–56). New Delhi: Government of India, 1951. 
@@ -623,8 +623,9 @@ REFERENCES
 646. Planning Commission. Tenth Five-Year Plan (2002–07). New Delhi: Government of India, 2002. 
 647. Planning Commission. Eleventh Five-Year Plan (2007–12). New Delhi: Government of India, 2007. 
 648. Planning Commission. Twelfth Five-Year Plan (2012–17). New Delhi: Government of India, 2012. 
-649. NITI Aayog. Three-Year Action Agenda (2017–18 to 2019–20). New Delhi: NITI Aayog, 2017. 210 pp. 
-650. NITI Aayog. Strategy for New India @ 75. New Delhi: NITI Aayog, 2018. 250 pp. 
+649. NITI Aayog. Three-Year Action Agenda (2017–18 to 2019–20). New Delhi: NITI Aayog, 2017. pp. 210. 
+650. NITI Aayog. Strategy for New India @ 75. New Delhi: NITI Aayog, 2018. pp. 250.
+
 651–700 
 651. Meghnad Desai. The Rediscovery of India. London: Penguin, 2009. 448 pp. 
 652. Meghnad Desai. Indian Economic Reform: A Stocktaking 1991–2011. New Delhi: Academic Foundation, 2011. 320 pp. 
@@ -778,6 +779,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
