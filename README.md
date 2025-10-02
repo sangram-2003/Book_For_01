@@ -626,57 +626,58 @@ REFERENCES
 649. NITI Aayog. Three-Year Action Agenda (2017–18 to 2019–20). New Delhi: NITI Aayog, 2017. pp. 210. 
 650. NITI Aayog. Strategy for New India @ 75. New Delhi: NITI Aayog, 2018. pp. 250.
 
-651–700 
-651. Meghnad Desai. The Rediscovery of India. London: Penguin, 2009. 448 pp. 
-652. Meghnad Desai. Indian Economic Reform: A Stocktaking 1991–2011. New Delhi: Academic Foundation, 2011. 320 pp. 
-653. Pulapre Balakrishnan. Economic Growth in India: History and Prospect. New Delhi: Oxford University Press, 2010. 280 pp. 
-654. Pulapre Balakrishnan. Economic Reforms and Growth in India. New Delhi: Oxford University Press, 2014. 350 pp. 
-655. Shankar Acharya. Essays on Macroeconomic Policy. New Delhi: Academic Foundation, 2006. 280 pp. 
-656. Vijay Kelkar and Ajay Shah. In Service of the Republic: The Art and Science of Economic Policy. New Delhi: Penguin, 2019. 424 pp. 
-657. Rakesh Mohan and Michael Debabrata Patra. Monetary Policy Frameworks for Emerging Markets. New Delhi: RBI, 2010. 340 pp. 
-658. Rakesh Mohan and Partha Ray. Indian Economy in Transition: Essays in Honour of C. Rangarajan. New Delhi: Academic Foundation, 2010. 420 pp. 
-659. K. L. Krishna and V. Pandit, eds. Macro-Econometric Modelling for India. New Delhi: Oxford University Press, 2001. 300 pp. 
-660. K. L. Krishna. Econometrics and Economic Theory in the 20th Century: The Ragnar Frisch Centennial Symposium. Cambridge: Cambridge University Press, 2000. 280 pp. 
-661. Vijay Joshi and I. M. D. Little. India’s Economic Reforms and Development: Essays for Manmohan Singh. New Delhi: Oxford University Press, 1998. 500 pp. 
-662. Deepak Nayyar. Economic Growth and Development. New Delhi: Oxford University Press, 2013. 352 pp. 
-663. Deepak Nayyar. Liberalization and Development. New Delhi: Oxford University Press, 2008. 340 pp. 
-664. Deepak Nayyar, ed. Macroeconomics and Monetary Policy: Issues for a Reforming Economy. New Delhi: Oxford University Press, 2002. 420 pp. 
-665. Deepak Nayyar, ed. Globalization and Development: A Handbook of New Perspectives. New Delhi: Oxford University Press, 2007. 600 pp. 
-666. Jayati Ghosh. Never Done and Poorly Paid: Women’s Work in Globalizing India. New Delhi: Women Unlimited, 2009. 280 pp. 
-667. Jayati Ghosh. The Political Economy of Development in India: Expanded Edition. New Delhi: Oxford University Press, 1992. 310 pp. 
-668. Jayati Ghosh and C. P. Chandrasekhar. Crisis as Conquest: Learning from East Asia. New Delhi: Orient Longman, 2001. 240 pp. 
-669. Jayati Ghosh and C. P. Chandrasekhar. Recent Policies and Agricultural Development in India. New Delhi: Tulika, 2002. 350 pp. 
-670. C. P. Chandrasekhar and Jayati Ghosh. The Market That Failed: A Decade of Neoliberal Economic Reforms in India. New Delhi: LeftWord, 2002. 280 pp. 
-671. C. P. Chandrasekhar and Jayati Ghosh. Crisis and Contagion: South Asian Economies in the World Recession. New Delhi: Tulika, 2010. 250 pp. 
-672. Prabhat Patnaik. Whatever Happened to Imperialism and Other Essays. Delhi: Tulika, 1995. 320 pp. 
-673. Prabhat Patnaik. Accumulation and Stability under Capitalism. Oxford: Oxford University Press, 1997. 280 pp. 
-674. Prabhat Patnaik. The Retreat to Unfreedom: Essays on the Emerging World Order. New Delhi: Tulika, 2003. 370 pp. 
-675. Utsa Patnaik. The Long Transition: Essays on Political Economy. New Delhi: Tulika, 1999. 310 pp. 
-676. Utsa Patnaik. The Republic of Hunger and Other Essays. New Delhi: Three Essays Collective, 2007. 260 pp. 
-677. Utsa Patnaik and Prabhat Patnaik. A Theory of Imperialism. New York: Columbia University Press, 2016. 176 pp. 
-678. K. Nagaraj. Poverty, Agricultural Wages, and Migration in South India. Chennai: MIDS, 2000. 220 pp. 
-679. S. Subramanian. Poverty, Inequality, and Population: Essays in Development and Applied Measurement. New Delhi: Oxford University Press, 2010. 290 pp. 
-680. Angus Deaton. The Great Escape: Health, Wealth, and the Origins of Inequality. Princeton: Princeton University Press, 2013. 360 pp. 
-681. Angus Deaton. Health, Inequality, and Economic Development. Geneva: World Health Organization, 2001. 210 pp. 
-682. Jean Drèze. Sense and Solidarity: Jholawala Economics for Everyone. New Delhi: Permanent Black, 2017. 400 pp. 
-683. Jean Drèze. The Great Indian Poverty Debate. New Delhi: Macmillan, 2004. 312 pp. 
-684. Amartya Sen and Jean Drèze. Glory and Crisis of Indian Democracy. New Delhi: Oxford University Press, 2018. 320 pp. 
-685. Kaushik Basu, ed. India’s Emerging Economy: Performance and Prospects in the 1990s and Beyond. Cambridge, MA: MIT Press, 2004. 320 pp. 
-686. Kaushik Basu, ed. Oxford Companion to Economics in India. New Delhi: Oxford University Press, 2007. 560 pp. 
-687. Kaushik Basu and Annemie Maertens, eds. The New Oxford Companion to Economics in India. New Delhi: Oxford University Press, 2012. 948 pp. 
-688. Kaushik Basu and Tito Cordella, eds. Institutional Economics and Economic Policy. New York: Palgrave Macmillan, 2018. 290 pp. 
-689. Jagdish Bhagwati. Free Trade Today. Princeton: Princeton University Press, 2002. 120 pp. 
-690. Jagdish Bhagwati. Termites in the Trading System: How Preferential Agreements Undermine Free Trade. New York: Oxford University Press, 2008. 180 pp. 
-691. Jagdish Bhagwati and Panagariya, Arvind, eds. The Economics of Preferential Trade Agreements. Washington, DC: AEI Press, 1996. 280 pp. 
-692. Jagdish Bhagwati and Anne O. Krueger. Foreign Trade Regimes and Economic Development. Cambridge, MA: Ballinger, 1978. 320 pp. 
-693. Arvind Subramanian. India’s Turn: Understanding the Economic Transformation. New Delhi: Oxford University Press, 2008. 220 pp. 
-694. Arvind Subramanian. Eclipse: Living in the Shadow of China’s Economic Dominance. Washington, DC: Peterson Institute, 2011. 216 pp. 
-695. Arvind Subramanian and Devesh Kapur, eds. The Indian Economy in Transition: Essays in Honour of C. Rangarajan. New Delhi: Oxford University Press, 2016. 360 pp. 
-696. Arvind Subramanian and Arvind Panagariya, eds. India’s Reforms: How They Produced Inclusive Growth. New Delhi: Oxford University Press, 2015. 420 pp. 
-697. Bibek Debroy. Agenda for Change: India’s Economic Reforms. New Delhi: Konark Publishers, 1996. 220 pp. 
-698. Bibek Debroy. Why Growth Matters. New Delhi: Random House India, 2013. 260 pp. 
-699. Bibek Debroy, ed. Economic Freedom for the Poor. New Delhi: Academic Foundation, 2009. 240 pp. 
-700. Surjit S. Bhalla. India’s Political Economy, 1947–2004: The Gradual Revolution. New Delhi: Oxford University Press, 2005. 456 pp. 
+651. Meghnad Desai. The Rediscovery of India. London: Penguin, 2009. pp. 448. 
+652. Meghnad Desai. Indian Economic Reform: A Stocktaking 1991–2011. New Delhi: Academic Foundation, 2011. pp. 320. 
+653. Pulapre Balakrishnan. Economic Growth in India: History and Prospect. New Delhi: Oxford University Press, 2010. pp. 280. 
+654. Pulapre Balakrishnan. Economic Reforms and Growth in India. New Delhi: Oxford University Press, 2014. pp. 350. 
+655. Shankar Acharya. Essays on Macroeconomic Policy. New Delhi: Academic Foundation, 2006. pp. 280. 
+656. Vijay Kelkar and Ajay Shah. In Service of the Republic: The Art and Science of Economic Policy. New Delhi: Penguin, 2019. pp. 424. 
+657. Rakesh Mohan and Michael Debabrata Patra. Monetary Policy Frameworks for Emerging Markets. New Delhi: RBI, 2010. pp. 340. 
+658. Rakesh Mohan and Partha Ray. Indian Economy in Transition: Essays in Honour of C. Rangarajan. New Delhi: Academic Foundation, 2010. pp. 420. 
+659. K. L. Krishna and V. Pandit, eds. Macro-Econometric Modelling for India. New Delhi: Oxford University Press, 2001. pp. 300. 
+660. K. L. Krishna. Econometrics and Economic Theory in the 20th Century: The Ragnar Frisch Centennial Symposium. Cambridge: Cambridge University Press, 2000. pp. 280. 
+661. Vijay Joshi and I. M. D. Little. India’s Economic Reforms and Development: Essays for Manmohan Singh. New Delhi: Oxford University Press, 1998. pp. 500. 
+662. Deepak Nayyar. Economic Growth and Development. New Delhi: Oxford University Press, 2013. pp. 352. 
+663. Deepak Nayyar. Liberalization and Development. New Delhi: Oxford University Press, 2008. pp. 340. 
+664. Deepak Nayyar, ed. Macroeconomics and Monetary Policy: Issues for a Reforming Economy. New Delhi: Oxford University Press, 2002. pp. 420. 
+665. Deepak Nayyar, ed. Globalization and Development: A Handbook of New Perspectives. New Delhi: Oxford University Press, 2007. pp. 600. 
+666. Jayati Ghosh. Never Done and Poorly Paid: Women’s Work in Globalizing India. New Delhi: Women Unlimited, 2009. pp. 280. 
+667. Jayati Ghosh. The Political Economy of Development in India: Expanded Edition. New Delhi: Oxford University Press, 1992. pp. 310. 
+668. Jayati Ghosh and C. P. Chandrasekhar. Crisis as Conquest: Learning from East Asia. New Delhi: Orient Longman, 2001. pp. 240. 
+669. Jayati Ghosh and C. P. Chandrasekhar. Recent Policies and Agricultural Development in India. New Delhi: Tulika, 2002. pp. 350. 
+670. C. P. Chandrasekhar and Jayati Ghosh. The Market That Failed: A Decade of Neoliberal Economic Reforms in India. New Delhi: LeftWord, 2002. pp. 280. 
+671. C. P. Chandrasekhar and Jayati Ghosh. Crisis and Contagion: South Asian Economies in the World Recession. New Delhi: Tulika, 2010. pp. 250. 
+672. Prabhat Patnaik. Whatever Happened to Imperialism and Other Essays. Delhi: Tulika, 1995. pp. 320. 
+673. Prabhat Patnaik. Accumulation and Stability under Capitalism. Oxford: Oxford University Press, 1997. pp. 280. 
+674. Prabhat Patnaik. The Retreat to Unfreedom: Essays on the Emerging World Order. New Delhi: Tulika, 2003. pp. 370. 
+675. Utsa Patnaik. The Long Transition: Essays on Political Economy. New Delhi: Tulika, 1999. pp. 310. 
+676. Utsa Patnaik. The Republic of Hunger and Other Essays. New Delhi: Three Essays Collective, 2007. pp. 260. 
+677. Utsa Patnaik and Prabhat Patnaik. A Theory of Imperialism. New York: Columbia University Press, 2016. pp. 176. 
+678. K. Nagaraj. Poverty, Agricultural Wages, and Migration in South India. Chennai: MIDS, 2000. pp. 220. 
+679. S. Subramanian. Poverty, Inequality, and Population: Essays in Development and Applied Measurement. New Delhi: Oxford University Press, 2010. pp. 290. 
+680. Angus Deaton. The Great Escape: Health, Wealth, and the Origins of Inequality. Princeton: Princeton University Press, 2013. pp. 360. 
+681. Angus Deaton. Health, Inequality, and Economic Development. Geneva: World Health Organization, 2001. pp. 210. 
+682. Jean Drèze. Sense and Solidarity: Jholawala Economics for Everyone. New Delhi: Permanent Black, 2017. pp. 400. 
+683. Jean Drèze. The Great Indian Poverty Debate. New Delhi: Macmillan, 2004. pp. 312. 
+684. Amartya Sen and Jean Drèze. Glory and Crisis of Indian Democracy. New Delhi: Oxford University Press, 2018. pp. 320. 
+685. Kaushik Basu, ed. India’s Emerging Economy: Performance and Prospects in the 1990s and Beyond. Cambridge, MA: MIT Press, 2004. pp. 320. 
+686. Kaushik Basu, ed. Oxford Companion to Economics in India. New Delhi: Oxford University Press, 2007. pp. 560. 
+687. Kaushik Basu and Annemie Maertens, eds. The New Oxford Companion to Economics in India. New Delhi: Oxford University Press, 2012. pp. 948. 
+688. Kaushik Basu and Tito Cordella, eds. Institutional Economics and Economic Policy. New York: Palgrave Macmillan, 2018. pp. 290. 
+689. Jagdish Bhagwati. Free Trade Today. Princeton: Princeton University Press, 2002. pp. 120. 
+690. Jagdish Bhagwati. Termites in the Trading System: How Preferential Agreements Undermine Free Trade. New York: Oxford University Press, 2008. pp. 180. 
+691. Jagdish Bhagwati and Panagariya, Arvind, eds. The Economics of Preferential Trade Agreements. Washington, DC: AEI Press, 1996. pp. 280. 
+692. Jagdish Bhagwati and Anne O. Krueger. Foreign Trade Regimes and Economic Development. Cambridge, MA: Ballinger, 1978. pp. 320. 
+693. Arvind Subramanian. India’s Turn: Understanding the Economic Transformation. New Delhi: Oxford University Press, 2008. pp. 220. 
+694. Arvind Subramanian. Eclipse: Living in the Shadow of China’s Economic Dominance. Washington, DC: Peterson Institute, 2011. pp. 216. 
+695. Arvind Subramanian and Devesh Kapur, eds. The Indian Economy in Transition: Essays in Honour of C. Rangarajan. New Delhi: Oxford University Press, 2016. pp. 360. 
+696. Arvind Subramanian and Arvind Panagariya, eds. India’s Reforms: How They Produced Inclusive Growth. New Delhi: Oxford University Press, 2015. pp. 420. 
+697. Bibek Debroy. Agenda for Change: India’s Economic Reforms. New Delhi: Konark Publishers, 1996. pp. 220. 
+698. Bibek Debroy. Why Growth Matters. New Delhi: Random House India, 2013. pp. 260. 
+699. Bibek Debroy, ed. Economic Freedom for the Poor. New Delhi: Academic Foundation, 2009. pp. 240. 
+700. Surjit S. Bhalla. India’s Political Economy, 1947–2004: The Gradual Revolution. New Delhi: Oxford University Press, 2005. pp. 456.
+
+ 
 701–750 
 701. Surjit S. Bhalla. Imagine There’s No Country: Poverty, Inequality and Growth in the Era of Globalization. Washington, DC: Institute for International Economics, 2002. 250 pp. 
 702. Surjit S. Bhalla. The New Wealth of Nations. New Delhi: Simon & Schuster India, 2017. 376 pp. 
@@ -779,6 +780,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
