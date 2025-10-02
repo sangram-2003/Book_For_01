@@ -365,58 +365,61 @@ REFERENCES
 
 
 
-[28/09, 2:29 pm] Malay Khan(sadgope ): 401–450 
-401. Deepak Lal. The Hindu Equilibrium: Cultural Stability and Economic Stagnation, India c.1500 B.C.–A.D. 1980. Oxford: Clarendon Press, 1988. 582 pp. 
-402. Tirthankar Roy. The Economic History of India 1857–1947. New Delhi: Oxford University Press, 2000. 324 pp. 
-403. Tirthankar Roy. India in the World Economy from Antiquity to the Present. Cambridge: Cambridge University Press, 2012. 368 pp. 
-404. Dharma Kumar, ed. The Cambridge Economic History of India, Vol. 2: c.1757–1970. Cambridge: Cambridge University Press, 1983. 1112 pp. 
-405. Irfan Habib and Dharma Kumar, eds. The Cambridge Economic History of India, Vol. 1: c.1200–c.1750. Cambridge: Cambridge University Press, 1982. 568 pp. 
-406. R. C. Dutt. The Economic History of India under Early British Rule. London: Kegan Paul, 1902. 368 pp. 
-407. R. C. Dutt. The Economic History of India in the Victorian Age. London: Kegan Paul, 1904. 420 pp. 
-408. Amiya Kumar Bagchi. Private Investment in India, 1900–1939. Cambridge: Cambridge University Press, 1972. 390 pp. 
-409. Amiya Kumar Bagchi. Colonialism and Indian Economy. Delhi: Oxford University Press, 2010. 420 pp. 
-410. Angus Maddison. Class Structure and Economic Growth: India and Pakistan since the Moghuls. London: Allen & Unwin, 1971. 372 pp. 
-411. Maddison, Angus. Contours of the World Economy, 1–2030 AD. Oxford: Oxford University Press, 2007. 432 pp. 
-412. Sanjay Subrahmanyam. The Political Economy of Commerce: Southern India 1500–1650. Cambridge: Cambridge University Press, 1990. 540 pp. 
-413. Sanjay Subrahmanyam. Europe’s India: Words, People, Empires, 1500–1800. Cambridge: Harvard University Press, 2017. 416 pp. 
-414. Burton Stein. A History of India. Oxford: Blackwell, 1998. 432 pp. 
-415. Hermann Kulke and Dietmar Rothermund. A History of India. London: Routledge, 2004. 400 pp. 
-416. Burton Stein. Peasant State and Society in Medieval South India. Delhi: Oxford University Press, 1980. 422 pp. 
-417. Noboru Karashima. South Indian History and Society: Studies from Inscriptions, AD 850–1800. Delhi: Oxford University Press, 1984. 280 pp. 
-418. Noboru Karashima. Towards a New Formation: South Indian Society under Vijayanagar Rule. Delhi: Oxford University Press, 1992. 312 pp. 
-419. Kesavan Veluthat. The Early Medieval in South India. New Delhi: Oxford University Press, 2009. 264 pp. 
-420. Kesavan Veluthat. Brahman Settlements in Kerala: Historical Studies. Calicut: Sandhya Publications, 1978. 212 pp. 
-421. K. A. Nilakanta Sastri. The Cholas. Madras: University of Madras, 1935. 732 pp. 
-422. K. A. Nilakanta Sastri. A History of South India from Prehistoric Times to the Fall of Vijayanagar. Madras: Oxford University Press, 1955. 648 pp. 
-423. R. Champakalakshmi. Trade, Ideology and Urbanization: South India 300 BC to AD 1300. Delhi: Oxford University Press, 1996. 476 pp. 
-424. R. Champakalakshmi. Religion, Tradition and Ideology: Pre-Colonial South India. Delhi: Oxford University Press, 2011. 300 pp. 
-425. Burton Stein and Sanjay Subrahmanyam, eds. Institutions and Economic Change in South Asia. Delhi: Oxford University Press, 1996. 380 pp. 
-426. Hermann Kulke, ed. The State in India 1000–1700. Delhi: Oxford University Press, 1995. 374 pp. 
-427. Hermann Kulke, ed. Kings and Cults: State Formation and Legitimation in India and Southeast Asia. Delhi: Oxford University Press, 1993. 312 pp. 
-428. Ronald Inden. Imagining India. Bloomington: Indiana University Press, 1990. 250 pp. 
-429. Nicholas B. Dirks. Castes of Mind: Colonialism and the Making of Modern India. Princeton: Princeton University Press, 2001. 372 pp. 
-430. Bernard S. Cohn. Colonialism and Its Forms of Knowledge: The British in India. Princeton: Princeton University Press, 1996. 222 pp. 
-431. Bernard S. Cohn. An Anthropologist among the Historians and Other Essays. Delhi: Oxford University Press, 1987. 682 pp. 
-432. Thomas R. Metcalf. Ideologies of the Raj. Cambridge: Cambridge University Press, 1995. 256 pp. 
-433. Thomas R. Metcalf. The Aftermath of Revolt: India 1857–1870. Princeton: Princeton University Press, 1965. 440 pp. 
-434. Barbara D. Metcalf and Thomas R. Metcalf. A Concise History of Modern India. Cambridge: Cambridge University Press, 2001. 350 pp. 
-435. Francis Robinson. Separatism among Indian Muslims: The Politics of the United Provinces’ Muslims, 1860–1923. Cambridge: Cambridge University Press, 1974. 376 pp. 
-436. Francis Robinson. The Muslim World: A History. New Delhi: Oxford University Press, 2005. 450 pp. 
-437. Francis Robinson, ed. The Cambridge Encyclopedia of India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives. Cambridge: Cambridge University Press, 1989. 652 pp. 
-438. Mushirul Hasan. Nationalism and Communal Politics in India, 1885–1930. Delhi: Manohar, 1979. 410 pp. 
-439. Mushirul Hasan. India Partitioned: The Other Face of Freedom. New Delhi: Roli Books, 1995. 398 pp. 
-440. Mushirul Hasan, ed. India’s Partition: Process, Strategy and Mobilization. Delhi: Oxford University Press, 1993. 350 pp. 
-441. Mushirul Hasan. Legacy of a Divided Nation: India’s Muslims since Independence. Delhi: Oxford University Press, 1997. 352 pp. 
-442. Ayesha Jalal. The Sole Spokesman: Jinnah, the Muslim League and the Demand for Pakistan. Cambridge: Cambridge University Press, 1985. 364 pp. 
-443. Ayesha Jalal. Self and Sovereignty: Individual and Community in South Asian Islam since 1850. London: Routledge, 2000. 650 pp. 
-444. Ian Talbot. Punjab and the Raj, 1849–1947. Delhi: Manohar, 1988. 318 pp. 
-445. Ian Talbot. Pakistan: A Modern History. London: Hurst, 1998. 512 pp. 
-446. Ian Talbot and Gurharpal Singh. The Partition of India. Cambridge: Cambridge University Press, 2009. 280 pp. 
-447. Sugata Bose. Modern South Asia: History, Culture, Political Economy, with Ayesha Jalal. London: Routledge, 1998. 368 pp. 
-448. Sugata Bose. Peasant Labour and Colonial Capital: Rural Bengal since 1770. Cambridge: Cambridge University Press, 1993. 320 pp. 
-449. Sugata Bose. A Hundred Horizons: The Indian Ocean in the Age of Global Empire. Cambridge: Harvard University Press, 2006. 360 pp. 
-450. Sugata Bose and Kris Manjapra, eds. Cosmopolitan Thought Zones: South Asia and the Global Circulation of Ideas. London: Palgrave Macmillan, 2010. 284 pp. 
---- 
+
+401. Deepak Lal. The Hindu Equilibrium: Cultural Stability and Economic Stagnation, India c.1500 B.C.–A.D. 1980. Oxford: Clarendon Press, 1988. pp. 582. 
+402. Tirthankar Roy. The Economic History of India 1857–1947. New Delhi: Oxford University Press, 2000. pp. 324. 
+403. Tirthankar Roy. India in the World Economy from Antiquity to the Present. Cambridge: Cambridge University Press, 2012. pp. 368. 
+404. Dharma Kumar, ed. The Cambridge Economic History of India, Vol. 2: c.1757–1970. Cambridge: Cambridge University Press, 1983. pp. 1112. 
+405. Irfan Habib and Dharma Kumar, eds. The Cambridge Economic History of India, Vol. 1: c.1200–c.1750. Cambridge: Cambridge University Press, 1982. pp. 568. 
+406. R. C. Dutt. The Economic History of India under Early British Rule. London: Kegan Paul, 1902. pp. 368. 
+407. R. C. Dutt. The Economic History of India in the Victorian Age. London: Kegan Paul, 1904. pp. 420. 
+408. Amiya Kumar Bagchi. Private Investment in India, 1900–1939. Cambridge: Cambridge University Press, 1972. pp. 390. 
+409. Amiya Kumar Bagchi. Colonialism and Indian Economy. Delhi: Oxford University Press, 2010. pp. 420. 
+410. Angus Maddison. Class Structure and Economic Growth: India and Pakistan since the Moghuls. London: Allen & Unwin, 1971. pp. 372. 
+411. Maddison, Angus. Contours of the World Economy, 1–2030 AD. Oxford: Oxford University Press, 2007. pp. 432. 
+412. Sanjay Subrahmanyam. The Political Economy of Commerce: Southern India 1500–1650. Cambridge: Cambridge University Press, 1990. pp. 540. 
+413. Sanjay Subrahmanyam. Europe’s India: Words, People, Empires, 1500–1800. Cambridge: Harvard University Press, 2017. pp. 416. 
+414. Burton Stein. A History of India. Oxford: Blackwell, 1998. pp. 432. 
+415. Hermann Kulke and Dietmar Rothermund. A History of India. London: Routledge, 2004. pp. 400. 
+416. Burton Stein. Peasant State and Society in Medieval South India. Delhi: Oxford University Press, 1980. pp. 422. 
+417. Noboru Karashima. South Indian History and Society: Studies from Inscriptions, AD 850–1800. Delhi: Oxford University Press, 1984. pp. 280. 
+418. Noboru Karashima. Towards a New Formation: South Indian Society under Vijayanagar Rule. Delhi: Oxford University Press, 1992. pp. 312. 
+419. Kesavan Veluthat. The Early Medieval in South India. New Delhi: Oxford University Press, 2009. pp. 264. 
+420. Kesavan Veluthat. Brahman Settlements in Kerala: Historical Studies. Calicut: Sandhya Publications, 1978. pp. 212. 
+421. K. A. Nilakanta Sastri. The Cholas. Madras: University of Madras, 1935. pp. 732. 
+422. K. A. Nilakanta Sastri. A History of South India from Prehistoric Times to the Fall of Vijayanagar. Madras: Oxford University Press, 1955. pp. 648. 
+423. R. Champakalakshmi. Trade, Ideology and Urbanization: South India 300 BC to AD 1300. Delhi: Oxford University Press, 1996. pp. 476. 
+424. R. Champakalakshmi. Religion, Tradition and Ideology: Pre-Colonial South India. Delhi: Oxford University Press, 2011. pp. 300. 
+425. Burton Stein and Sanjay Subrahmanyam, eds. Institutions and Economic Change in South Asia. Delhi: Oxford University Press, 1996. pp. 380. 
+426. Hermann Kulke, ed. The State in India 1000–1700. Delhi: Oxford University Press, 1995. pp. 374. 
+427. Hermann Kulke, ed. Kings and Cults: State Formation and Legitimation in India and Southeast Asia. Delhi: Oxford University Press, 1993. pp. 312. 
+428. Ronald Inden. Imagining India. Bloomington: Indiana University Press, 1990. pp. 250. 
+429. Nicholas B. Dirks. Castes of Mind: Colonialism and the Making of Modern India. Princeton: Princeton University Press, 2001. pp. 372. 
+430. Bernard S. Cohn. Colonialism and Its Forms of Knowledge: The British in India. Princeton: Princeton University Press, 1996. pp. 222. 
+431. Bernard S. Cohn. An Anthropologist among the Historians and Other Essays. Delhi: Oxford University Press, 1987. pp. 682. 
+432. Thomas R. Metcalf. Ideologies of the Raj. Cambridge: Cambridge University Press, 1995. pp. 256. 
+433. Thomas R. Metcalf. The Aftermath of Revolt: India 1857–1870. Princeton: Princeton University Press, 1965. pp. 440. 
+434. Barbara D. Metcalf and Thomas R. Metcalf. A Concise History of Modern India. Cambridge: Cambridge University Press, 2001. pp. 350. 
+435. Francis Robinson. Separatism among Indian Muslims: The Politics of the United Provinces’ Muslims, 1860–1923. Cambridge: Cambridge University Press, 1974. pp. 376. 
+436. Francis Robinson. The Muslim World: A History. New Delhi: Oxford University Press, 2005. pp. 450. 
+437. Francis Robinson, ed. The Cambridge Encyclopedia of India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives. Cambridge: Cambridge University Press, 1989. pp. 652. 
+438. Mushirul Hasan. Nationalism and Communal Politics in India, 1885–1930. Delhi: Manohar, 1979. pp. 410. 
+439. Mushirul Hasan. India Partitioned: The Other Face of Freedom. New Delhi: Roli Books, 1995. pp. 398. 
+440. Mushirul Hasan, ed. India’s Partition: Process, Strategy and Mobilization. Delhi: Oxford University Press, 1993. pp. 350. 
+441. Mushirul Hasan. Legacy of a Divided Nation: India’s Muslims since Independence. Delhi: Oxford University Press, 1997. pp. 352. 
+442. Ayesha Jalal. The Sole Spokesman: Jinnah, the Muslim League and the Demand for Pakistan. Cambridge: Cambridge University Press, 1985. pp. 364. 
+443. Ayesha Jalal. Self and Sovereignty: Individual and Community in South Asian Islam since 1850. London: Routledge, 2000. pp. 650. 
+444. Ian Talbot. Punjab and the Raj, 1849–1947. Delhi: Manohar, 1988. pp. 318. 
+445. Ian Talbot. Pakistan: A Modern History. London: Hurst, 1998. pp. 512. 
+446. Ian Talbot and Gurharpal Singh. The Partition of India. Cambridge: Cambridge University Press, 2009. pp. 280. 
+447. Sugata Bose. Modern South Asia: History, Culture, Political Economy, with Ayesha Jalal. London: Routledge, 1998. pp. 368. 
+448. Sugata Bose. Peasant Labour and Colonial Capital: Rural Bengal since 1770. Cambridge: Cambridge University Press, 1993. pp. 320. 
+449. Sugata Bose. A Hundred Horizons: The Indian Ocean in the Age of Global Empire. Cambridge: Harvard University Press, 2006. pp. 360. 
+450. Sugata Bose and Kris Manjapra, eds. Cosmopolitan Thought Zones: South Asia and the Global Circulation of Ideas. London: Palgrave Macmillan, 2010. pp. 284. 
+
+
+
+
 451–500 
 451. C. A. Bayly. Rulers, Townsmen and Bazaars: North Indian Society in the Age of British Expansion 1770–1870. Cambridge: Cambridge University Press, 1983. 530 pp. 
 452. C. A. Bayly. Indian Society and the Making of the British Empire. Cambridge: Cambridge University Press, 1988. 246 pp. 
@@ -775,6 +778,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
