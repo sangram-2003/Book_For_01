@@ -523,58 +523,57 @@ REFERENCES
 549. Rajeev Bhargava, ed. Politics and Ethics of the Indian Constitution. New Delhi: Oxford University Press, 2008. pp. 420. 
 550. Granville Austin. The Progressive Constitution of India. New Delhi: Oxford University Press, 2018. pp. 280.
  
---- 
-551–600 
-551. Arun Shourie. Courts and Their Judgments: Premises, Prerequisites, Consequences. New Delhi: Rupa, 2001. 318 pp. 
-552. Arun Shourie. Falling over Backwards: An Essay on Reservations and Judicial Populism. New Delhi: Rupa, 2006. 350 pp. 
-553. Fali S. Nariman. India’s Legal System: Can It Be Saved? New Delhi: Penguin, 2006. 238 pp. 
-554. Fali S. Nariman. The State of the Nation. New Delhi: Hay House, 2013. 280 pp. 
-555. Soli J. Sorabjee. Constitutional Morality. New Delhi: Universal Law Publishing, 2011. 220 pp. 
-556. Soli J. Sorabjee. Law and Justice: An Anthology. New Delhi: Universal Law Publishing, 2004. 480 pp. 
-557. Zoya Hasan. Politics of Inclusion: Castes, Minorities and Affirmative Action. New Delhi: Oxford University Press, 2009. 300 pp. 
-558. Zoya Hasan. Congress after Indira: Policy, Power, Political Change (1984–2009). New Delhi: Oxford University Press, 2012. 420 pp. 
-559. Zoya Hasan, E. Sridharan, and R. Sudarshan, eds. India’s Living Constitution: Ideas, Practices, Controversies. New Delhi: Permanent Black, 2002. 420 pp. 
-560. Christophe Jaffrelot and Sanjay Kumar, eds. Rise of the Plebeians? The Changing Face of Indian Legislative Assemblies. New Delhi: Routledge, 2009. 368 pp. 
-561. Yogendra Yadav and Suhas Palshikar. “Party System and Electoral Politics in the Indian States, 1952–2002: From Hegemony to Convergence.” Journal of Indian School of Political Economy 15, nos. 1–2 (2003): 5–44. 
-562. Suhas Palshikar and Sanjay Kumar, eds. Electoral Politics in India in the Time of Change. New Delhi: Routledge, 2014. 348 pp. 
-563. Sanjay Kumar. Post-Mandal Politics in Bihar: Changing Electoral Patterns. New Delhi: Sage Publications, 2018. 312 pp. 
-564. Sanjay Kumar and Praveen Rai. Measuring Voting Behaviour in India. New Delhi: Sage Publications, 2013. 230 pp. 
-565. E. Sridharan. Coalition Politics and Democratic Consolidation in Asia. New Delhi: Oxford University Press, 2012. 420 pp. 
-566. E. Sridharan, ed. Coalition Politics in India: Selected Issues at the Centre and the States. New Delhi: Academic Foundation, 2014. 370 pp. 
-567. Yogendra Yadav. “Reconfiguration in Indian Politics: State Assembly Elections 1993–1995.” Economic and Political Weekly 31, nos. 2–3 (1996): 95–104. 
+551. Arun Shourie. Courts and Their Judgments: Premises, Prerequisites, Consequences. New Delhi: Rupa, 2001. pp. 318. 
+552. Arun Shourie. Falling over Backwards: An Essay on Reservations and Judicial Populism. New Delhi: Rupa, 2006. pp. 350. 
+553. Fali S. Nariman. India’s Legal System: Can It Be Saved? New Delhi: Penguin, 2006. pp. 238. 
+554. Fali S. Nariman. The State of the Nation. New Delhi: Hay House, 2013. pp. 280. 
+555. Soli J. Sorabjee. Constitutional Morality. New Delhi: Universal Law Publishing, 2011. pp. 220. 
+556. Soli J. Sorabjee. Law and Justice: An Anthology. New Delhi: Universal Law Publishing, 2004. pp. 480. 
+557. Zoya Hasan. Politics of Inclusion: Castes, Minorities and Affirmative Action. New Delhi: Oxford University Press, 2009. pp. 300. 
+558. Zoya Hasan. Congress after Indira: Policy, Power, Political Change (1984–2009). New Delhi: Oxford University Press, 2012. pp. 420. 
+559. Zoya Hasan, E. Sridharan, and R. Sudarshan, eds. India’s Living Constitution: Ideas, Practices, Controversies. New Delhi: Permanent Black, 2002. pp. 420. 
+560. Christophe Jaffrelot and Sanjay Kumar, eds. Rise of the Plebeians? The Changing Face of Indian Legislative Assemblies. New Delhi: Routledge, 2009. pp. 368. 
+561. Yogendra Yadav and Suhas Palshikar. “Party System and Electoral Politics in the Indian States, 1952–2002: From Hegemony to Convergence.” Journal of Indian School of Political Economy 15, nos. 1–2 (2003): pp. 5–44. 
+562. Suhas Palshikar and Sanjay Kumar, eds. Electoral Politics in India in the Time of Change. New Delhi: Routledge, 2014. pp. 348. 
+563. Sanjay Kumar. Post-Mandal Politics in Bihar: Changing Electoral Patterns. New Delhi: Sage Publications, 2018. pp. 312. 
+564. Sanjay Kumar and Praveen Rai. Measuring Voting Behaviour in India. New Delhi: Sage Publications, 2013. pp. 230. 
+565. E. Sridharan. Coalition Politics and Democratic Consolidation in Asia. New Delhi: Oxford University Press, 2012. pp. 420. 
+566. E. Sridharan, ed. Coalition Politics in India: Selected Issues at the Centre and the States. New Delhi: Academic Foundation, 2014. pp. 370. 
+567. Yogendra Yadav. “Reconfiguration in Indian Politics: State Assembly Elections 1993–1995.” Economic and Political Weekly 31, nos. 2–3 (1996): pp. 95–104. 
 568. Yogendra Yadav. “Understanding the Second Democratic Upsurge: Trends of Bahujan Participation in Electoral Politics in the 1990s.” Transforming India: Social and Political Dynamics of Democracy. Edited by Francine Frankel et al. Delhi: Oxford University Press, 2000. pp. 120–145. 
-569. Suhas Palshikar. Indian Democracy: Meanings and Practices. New Delhi: Sage Publications, 2009. 360 pp. 
-570. Niraja Gopal Jayal. Democracy and the State: Welfare, Secularism and Development in Contemporary India. Delhi: Oxford University Press, 1999. 340 pp. 
-571. Niraja Gopal Jayal. Citizenship and Its Discontents: An Indian History. Cambridge, MA: Harvard University Press, 2013. 336 pp. 
-572. Pratap Bhanu Mehta and Devesh Kapur, eds. Public Institutions in India: Performance and Design. New Delhi: Oxford University Press, 2005. 480 pp. 
-573. Devesh Kapur and Pratap Bhanu Mehta, eds. Rethinking Public Institutions in India. New Delhi: Oxford University Press, 2017. 510 pp. 
-574. Jean Drèze and Amartya Sen. Hunger and Public Action. Oxford: Clarendon Press, 1989. 384 pp. 
-575. Jean Drèze and Amartya Sen. India: Development and Participation. New Delhi: Oxford University Press, 2002. 420 pp. 
-576. Jean Drèze. Sense and Solidarity: Jholawala Economics for Everyone. New Delhi: Permanent Black, 2017. 400 pp. 
-577. Angus Deaton and Jean Drèze. “Poverty and Inequality in India: A Re-Examination.” Economic and Political Weekly 37, no. 36 (2002): 3729–3748. 
-578. Abhijit V. Banerjee and Esther Duflo. Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty. New York: PublicAffairs, 2011. 303 pp. 
-579. Abhijit V. Banerjee, Esther Duflo, and Michael Kremer. “Debunking the Stereotype of the Lazy Welfare Recipient.” World Bank Research Observer 26, no. 2 (2011): 123–150. 
-580. Amartya Sen. Poverty and Famines: An Essay on Entitlement and Deprivation. Oxford: Clarendon Press, 1981. 270 pp. 
-581. Amartya Sen. Resources, Values, and Development. Cambridge, MA: Harvard University Press, 1984. 560 pp. 
-582. Amartya Sen. Inequality Reexamined. Cambridge, MA: Harvard University Press, 1992. 207 pp. 
-583. Amartya Sen. Development as Freedom. New York: Alfred A. Knopf, 1999. 366 pp. 
-584. Amartya Sen. Identity and Violence: The Illusion of Destiny. London: Penguin, 2006. 240 pp. 
-585. Kaushik Basu. An Economist in the Real World: The Art of Policymaking in India. Cambridge, MA: MIT Press, 2015. 240 pp. 
-586. Kaushik Basu. Prelude to Political Economy: A Study of the Social and Political Foundations of Economics. Oxford: Oxford University Press, 2000. 234 pp. 
-587. Jagdish Bhagwati. India in Transition: Freeing the Economy. Oxford: Clarendon Press, 1993. 194 pp. 
-588. Jagdish Bhagwati and Arvind Panagariya. Why Growth Matters: How Economic Growth in India Reduced Poverty and the Lessons for Other Developing Countries. New York: PublicAffairs, 2013. 304 pp. 
-589. Arvind Panagariya. India: The Emerging Giant. New York: Oxford University Press, 2008. 648 pp. 
-590. Montek Singh Ahluwalia. Backstage: The Story Behind India’s High Growth Years. New Delhi: Rupa, 2020. 320 pp. 
-591. Shankar Acharya. Essays on Macroeconomic Policy and Growth in India. New Delhi: Oxford University Press, 2006. 280 pp. 
-592. Raghuram G. Rajan. India: Priorities for the Future. New Delhi: Academic Foundation, 2006. 324 pp. 
-593. Raghuram G. Rajan. Fault Lines: How Hidden Fractures Still Threaten the World Economy. Princeton: Princeton University Press, 2010. 280 pp. 
-594. Raghuram G. Rajan and Luigi Zingales. Saving Capitalism from the Capitalists. New York: Crown Business, 2003. 369 pp. 
-595. P. Chidambaram. Standing Guard: A Year in Opposition. New Delhi: Rupa, 2016. 340 pp. 
-596. P. Chidambaram. Fearless in Opposition: Power and Accountability. New Delhi: Rupa, 2017. 300 pp. 
-597. Manmohan Singh. Collected Writings and Speeches on Economic Reforms, 1991–2001. New Delhi: Oxford University Press, 2004. 460 pp. 
-598. Manmohan Singh. India’s Export Trends and Prospects for Self-Sustained Growth. Oxford: Clarendon Press, 1964. 320 pp. 
-599. C. Rangarajan. Perspectives on Indian Economy. New Delhi: UBS Publishers, 2001. 300 pp. 
-600. C. Rangarajan. India: Monetary Policy, Financial Stability and Other Essays. New Delhi: Academic Foundation, 2011. 520 pp. 
+569. Suhas Palshikar. Indian Democracy: Meanings and Practices. New Delhi: Sage Publications, 2009. pp. 360. 
+570. Niraja Gopal Jayal. Democracy and the State: Welfare, Secularism and Development in Contemporary India. Delhi: Oxford University Press, 1999. pp. 340. 
+571. Niraja Gopal Jayal. Citizenship and Its Discontents: An Indian History. Cambridge, MA: Harvard University Press, 2013. pp. 336. 
+572. Pratap Bhanu Mehta and Devesh Kapur, eds. Public Institutions in India: Performance and Design. New Delhi: Oxford University Press, 2005. pp. 480. 
+573. Devesh Kapur and Pratap Bhanu Mehta, eds. Rethinking Public Institutions in India. New Delhi: Oxford University Press, 2017. pp. 510. 
+574. Jean Drèze and Amartya Sen. Hunger and Public Action. Oxford: Clarendon Press, 1989. pp. 384. 
+575. Jean Drèze and Amartya Sen. India: Development and Participation. New Delhi: Oxford University Press, 2002. pp. 420. 
+576. Jean Drèze. Sense and Solidarity: Jholawala Economics for Everyone. New Delhi: Permanent Black, 2017. pp. 400. 
+577. Angus Deaton and Jean Drèze. “Poverty and Inequality in India: A Re-Examination.” Economic and Political Weekly 37, no. 36 (2002): pp. 3729–3748. 
+578. Abhijit V. Banerjee and Esther Duflo. Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty. New York: PublicAffairs, 2011. pp. 303. 
+579. Abhijit V. Banerjee, Esther Duflo, and Michael Kremer. “Debunking the Stereotype of the Lazy Welfare Recipient.” World Bank Research Observer 26, no. 2 (2011): pp. 123–150. 
+580. Amartya Sen. Poverty and Famines: An Essay on Entitlement and Deprivation. Oxford: Clarendon Press, 1981. pp. 270. 
+581. Amartya Sen. Resources, Values, and Development. Cambridge, MA: Harvard University Press, 1984. pp. 560. 
+582. Amartya Sen. Inequality Reexamined. Cambridge, MA: Harvard University Press, 1992. pp. 207. 
+583. Amartya Sen. Development as Freedom. New York: Alfred A. Knopf, 1999. pp. 366. 
+584. Amartya Sen. Identity and Violence: The Illusion of Destiny. London: Penguin, 2006. pp. 240. 
+585. Kaushik Basu. An Economist in the Real World: The Art of Policymaking in India. Cambridge, MA: MIT Press, 2015. pp. 240. 
+586. Kaushik Basu. Prelude to Political Economy: A Study of the Social and Political Foundations of Economics. Oxford: Oxford University Press, 2000. pp. 234. 
+587. Jagdish Bhagwati. India in Transition: Freeing the Economy. Oxford: Clarendon Press, 1993. pp. 194. 
+588. Jagdish Bhagwati and Arvind Panagariya. Why Growth Matters: How Economic Growth in India Reduced Poverty and the Lessons for Other Developing Countries. New York: PublicAffairs, 2013. pp. 304. 
+589. Arvind Panagariya. India: The Emerging Giant. New York: Oxford University Press, 2008. pp. 648. 
+590. Montek Singh Ahluwalia. Backstage: The Story Behind India’s High Growth Years. New Delhi: Rupa, 2020. pp. 320. 
+591. Shankar Acharya. Essays on Macroeconomic Policy and Growth in India. New Delhi: Oxford University Press, 2006. pp. 280. 
+592. Raghuram G. Rajan. India: Priorities for the Future. New Delhi: Academic Foundation, 2006. pp. 324. 
+593. Raghuram G. Rajan. Fault Lines: How Hidden Fractures Still Threaten the World Economy. Princeton: Princeton University Press, 2010. pp. 280. 
+594. Raghuram G. Rajan and Luigi Zingales. Saving Capitalism from the Capitalists. New York: Crown Business, 2003. pp. 369. 
+595. P. Chidambaram. Standing Guard: A Year in Opposition. New Delhi: Rupa, 2016. pp. 340. 
+596. P. Chidambaram. Fearless in Opposition: Power and Accountability. New Delhi: Rupa, 2017. pp. 300. 
+597. Manmohan Singh. Collected Writings and Speeches on Economic Reforms, 1991–2001. New Delhi: Oxford University Press, 2004. pp. 460. 
+598. Manmohan Singh. India’s Export Trends and Prospects for Self-Sustained Growth. Oxford: Clarendon Press, 1964. pp. 320. 
+599. C. Rangarajan. Perspectives on Indian Economy. New Delhi: UBS Publishers, 2001. pp. 300. 
+600. C. Rangarajan. India: Monetary Policy, Financial Stability and Other Essays. New Delhi: Academic Foundation, 2011. pp. 520.
+
 [28/09, 2:33 pm] Malay Khan(sadgope ): 601–650 
 601. Y. V. Reddy. India and the Global Financial Crisis: Managing Money and Finance. New Delhi: Orient BlackSwan, 2009. 360 pp. 
 602. Y. V. Reddy. Advice and Dissent: My Life in Public Service. New Delhi: HarperCollins, 2017. 320 pp. 
@@ -779,6 +778,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
