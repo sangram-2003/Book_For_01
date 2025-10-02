@@ -677,109 +677,108 @@ REFERENCES
 699. Bibek Debroy, ed. Economic Freedom for the Poor. New Delhi: Academic Foundation, 2009. pp. 240. 
 700. Surjit S. Bhalla. India’s Political Economy, 1947–2004: The Gradual Revolution. New Delhi: Oxford University Press, 2005. pp. 456.
 
- 
-701–750 
-701. Surjit S. Bhalla. Imagine There’s No Country: Poverty, Inequality and Growth in the Era of Globalization. Washington, DC: Institute for International Economics, 2002. 250 pp. 
-702. Surjit S. Bhalla. The New Wealth of Nations. New Delhi: Simon & Schuster India, 2017. 376 pp. 
-703. Surjit S. Bhalla. Citizen Raj: Indian Elections 1952–1991. New Delhi: Penguin, 1999. 308 pp. 
-704. T. N. Srinivasan and Jagdish Bhagwati, eds. Trade and Development. Amsterdam: Elsevier, 1985. 320 pp. 
-705. Jagdish Bhagwati and Padma Desai. India: Planning for Industrialization, 1951–1970. London: Oxford University Press, 1970. 480 pp. 
-706. Padma Desai. Conversations on Russia: Reform from Yeltsin to Putin. Oxford: Oxford University Press, 2006. 400 pp. 
-707. Padma Desai. Financial Crisis, Contagion, and Containment: From Asia to Argentina. Princeton: Princeton University Press, 2003. 280 pp. 
-708. Vijay Joshi and I. M. D. Little. India: Macroeconomics and Political Economy, 1964–1991. Washington, DC: World Bank, 1994. 550 pp. 
-709. Shankar Jha. The Indian Economy: A Macroeconomic Perspective. New Delhi: Pearson, 2008. 400 pp. 
-710. Ruddar Datt and K. P. M. Sundharam. Indian Economy. New Delhi: S. Chand, 2007. 1088 pp. 
+
+701. Surjit S. Bhalla. Imagine There’s No Country: Poverty, Inequality and Growth in the Era of Globalization. Washington, DC: Institute for International Economics, 2002. pp. 250. 
+702. Surjit S. Bhalla. The New Wealth of Nations. New Delhi: Simon & Schuster India, 2017. pp. 376. 
+703. Surjit S. Bhalla. Citizen Raj: Indian Elections 1952–1991. New Delhi: Penguin, 1999. pp. 308. 
+704. T. N. Srinivasan and Jagdish Bhagwati, eds. Trade and Development. Amsterdam: Elsevier, 1985. pp. 320. 
+705. Jagdish Bhagwati and Padma Desai. India: Planning for Industrialization, 1951–1970. London: Oxford University Press, 1970. pp. 480. 
+706. Padma Desai. Conversations on Russia: Reform from Yeltsin to Putin. Oxford: Oxford University Press, 2006. pp. 400. 
+707. Padma Desai. Financial Crisis, Contagion, and Containment: From Asia to Argentina. Princeton: Princeton University Press, 2003. pp. 280. 
+708. Vijay Joshi and I. M. D. Little. India: Macroeconomics and Political Economy, 1964–1991. Washington, DC: World Bank, 1994. pp. 550. 
+709. Shankar Jha. The Indian Economy: A Macroeconomic Perspective. New Delhi: Pearson, 2008. pp. 400. 
+710. Ruddar Datt and K. P. M. Sundharam. Indian Economy. New Delhi: S. Chand, 2007. pp. 1088. 
 711. Uma Kapila, ed. Indian Economy: Performance and Policies. New Delhi: Academic Foundation, multiple editions. 
-712. Uma Kapila. Understanding the Problems of Indian Economy. New Delhi: Academic Foundation, 2010. 420 pp. 
-713. C. Rangarajan and S. D. Tendulkar, eds. Indian Economy: Essays on Money and Finance. New Delhi: Oxford University Press, 2003. 480 pp. 
-714. Shankar Acharya and Rakesh Mohan. India’s Economy: Performance and Challenges. New Delhi: Oxford University Press, 2010. 540 pp. 
-715. Rakesh Mohan. Urbanization in India: Challenges, Opportunities and the Way Forward. New Delhi: RBI, 2011. 290 pp. 
-716. Isher Judge Ahluwalia. Transforming Our Cities: Postcards of Change. New Delhi: HarperCollins, 2014. 330 pp. 
-717. Isher Judge Ahluwalia. Industrial Growth in India: Stagnation since the Mid-Sixties. New Delhi: Oxford University Press, 1985. 310 pp. 
-718. Isher Judge Ahluwalia, Ravi Kanbur, and P. K. Mohanty, eds. Urbanisation in India: Challenges, Opportunities and the Way Forward. New Delhi: Sage, 2014. 520 pp. 
-719. Amitabh Kundu, ed. Urbanisation and Urban Governance in India. New Delhi: Orient BlackSwan, 2006. 340 pp. 
-720. Amitabh Kundu. Inequality, Mobility and Urbanisation in India. New Delhi: Indian Social Institute, 1987. 220 pp. 
-721. Ashok Gulati and Shenggen Fan, eds. The Dragon and the Elephant: Agricultural and Rural Reforms in China and India. Baltimore: Johns Hopkins University Press, 2007. 480 pp. 
-722. Ashok Gulati, Ruth Meinzen-Dick, and K. V. Raju, eds. Institutional Reforms in Indian Irrigation. New Delhi: Sage, 2005. 380 pp 
-723. Ashok Gulati and Sudha Narayanan. The Subsidy Syndrome in Indian Agriculture. New Delhi: Oxford University Press, 2003. 360 pp. 
-724. Ashok Gulati and Shweta Saini. Indian Agriculture: Farm Policy Reforms for Growth and Sustainability. New Delhi: Academic Foundation, 2019. 420 pp. 
-725. Montek Singh Ahluwalia, S. D. Tendulkar, and L. R. Jain, eds. Economic Reforms and Macroeconomic Management in India. New Delhi: Sage, 1996. 440 pp. 
-726. Pranab Bardhan. The Political Economy of Development in India. Oxford: Basil Blackwell, 1984. 232 pp. 
-727. Pranab Bardhan. Awakening Giants, Feet of Clay: Assessing the Economic Rise of China and India. Princeton: Princeton University Press, 2010. 272 pp. 
-728. Pranab Bardhan. Globalization and Development. Oxford: Oxford University Press, 2006. 260 pp. 
-729. Pranab Bardhan and Dilip Mookherjee, eds. Decentralization and Local Governance in Developing Countries. Cambridge: MIT Press, 2006. 380 pp. 
-730. Dilip Mookherjee. The Crisis in Government Accountability: Essays on Governance and Reform in India. New Delhi: Oxford University Press, 2014. 310 pp. 
-731. Maitreesh Ghatak. Development Economics. London: Routledge, 2017. 280 pp. 
-732. Abhijit V. Banerjee, Roland Benabou, and Dilip Mookherjee, eds. Understanding Poverty. Oxford: Oxford University Press, 2006. 480 pp. 
-733. Abhijit V. Banerjee and Esther Duflo. Good Economics for Hard Times. London: Penguin, 2019. 416 pp. 
-734. Abhijit V. Banerjee. Making Aid Work. Cambridge, MA: MIT Press, 2007. 120 pp. 
-735. Esther Duflo. Poor but Rational? Cambridge: MIT Department of Economics, 2006. 240 pp. 
-736. Michael Kremer. Randomized Evaluations of Educational Programs. Washington, DC: World Bank, 2003. 180 pp. 
-737. Michael Kremer, Rachel Glennerster, and Esther Duflo. Strong Medicine: Creating Incentives for Pharmaceutical Research on Neglected Diseases. Princeton: Princeton University Press, 2004. 192 pp. 
-738. Angus Deaton. Understanding Consumption. Oxford: Clarendon Press, 1992. 280 pp. 
-739. Angus Deaton. The Analysis of Household Surveys: A Microeconometric Approach to Development Policy. Baltimore: Johns Hopkins University Press, 1997. 480 pp. 
-740. Abhijit V. Banerjee and Esther Duflo. Field Experiments in Development Economics. New Delhi: Oxford University Press, 2010. 220 pp. 
-741. Dean Karlan and Jonathan Morduch. Access to Finance. Cambridge: MIT Press, 2009. 300 pp. 
-742. Dean Karlan and Jacob Appel. More Than Good Intentions: How a New Economics Is Helping to Solve Global Poverty. New York: Dutton, 2011. 320 pp. 
-743. Dean Karlan and Sendhil Mullainathan. Poverty and Psychology: Behavioral Economics and Development. Cambridge: MIT Press, 2007. 200 pp. 
-744. Sendhil Mullainathan and Eldar Shafir. Scarcity: Why Having Too Little Means So Much. New York: Times Books, 2013. 304 pp. 
-745. Richard H. Thaler. Misbehaving: The Making of Behavioral Economics. New York: W. W. Norton, 2015. 432 pp. 
-746. Richard H. Thaler and Cass R. Sunstein. Nudge: Improving Decisions about Health, Wealth, and Happiness. New Haven: Yale University Press, 2008. 312 pp. 
-747. Cass R. Sunstein. Simpler: The Future of Government. New York: Simon & Schuster, 2013. 260 pp. 
-748. Daniel Kahneman. Thinking, Fast and Slow. New York: Farrar, Straus and Giroux, 2011. 499 pp. 
-749. Amos Tversky and Daniel Kahneman. Judgment under Uncertainty: Heuristics and Biases. Cambridge: Cambridge University Press, 1982. 555 pp. 
-750. Kahneman, Daniel, Paul Slovic, and Amos Tversky, eds. Judgment under Uncertainty: Heuristics and Biases. Cambridge: Cambridge University Press, 1982. 550 pp. 
-751–800 
-751. Dan Ariely. Predictably Irrational: The Hidden Forces That Shape Our Decisions. New York: HarperCollins, 2008. 280 pp. 
-752. Dan Ariely. The Upside of Irrationality. New York: HarperCollins, 2010. 336 pp. 
-753. Dan Ariely. The Honest Truth about Dishonesty. New York: HarperCollins, 2012. 336 pp. 
-754. George A. Akerlof and Robert J. Shiller. Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism. Princeton: Princeton University Press, 2009. 230 pp. 
-755. George A. Akerlof and Rachel Kranton. Identity Economics: How Our Identities Shape Our Work, Wages, and Well-Being. Princeton: Princeton University Press, 2010. 185 pp. 
-756. Joseph E. Stiglitz. Globalization and Its Discontents. New York: W. W. Norton, 2002. 282 pp. 
-757. Joseph E. Stiglitz. Making Globalization Work. New York: W. W. Norton, 2006. 358 pp. 
-758. Joseph E. Stiglitz. The Price of Inequality. New York: W. W. Norton, 2012. 414 pp. 
-759. Joseph E. Stiglitz and Carl E. Walsh. Principles of Microeconomics. New York: W. W. Norton, 2006. 800 pp. 
-760. Joseph E. Stiglitz and Andrew Charlton. Fair Trade for All: How Trade Can Promote Development. New York: Oxford University Press, 2005. 320 pp. 
-761. Thomas Piketty. Capital in the Twenty-First Century. Cambridge, MA: Harvard University Press, 2014. 685 pp. 
-762. Thomas Piketty. Capital and Ideology. Cambridge, MA: Harvard University Press, 2020. 1093 pp. 
-763. Thomas Piketty and Emmanuel Saez. Income Inequality in the United States, 1913–1998. Quarterly Journal of Economics 118, no. 1 (2003): 1–39. 
-764. Emmanuel Saez and Gabriel Zucman. The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay. New York: W. W. Norton, 2019. 232 pp. 
-765. Gabriel Zucman. The Hidden Wealth of Nations: The Scourge of Tax Havens. Chicago: University of Chicago Press, 2015. 232 pp. 
-766. Branko Milanović. Global Inequality: A New Approach for the Age of Globalization. Cambridge, MA: Harvard University Press, 2016. 320 pp. 
-767. Branko Milanović. Capitalism, Alone: The Future of the System That Rules the World. Cambridge, MA: Harvard University Press, 2019. 287 pp. 
-768. Angus Maddison. The World Economy: A Millennial Perspective. Paris: OECD, 2001. 384 pp. 
-769. Maddison, Angus. Contours of the World Economy 1–2030 AD. Oxford: Oxford University Press, 2007. 432 pp. 
-770. Daron Acemoglu and James A. Robinson. Why Nations Fail: The Origins of Power, Prosperity, and Poverty. New York: Crown, 2012. 529 pp. 
-771. Daron Acemoglu, Simon Johnson, and James A. Robinson. Economic Origins of Dictatorship and Democracy. Cambridge: Cambridge University Press, 2006. 416 pp. 
-772. Paul Collier. The Bottom Billion: Why the Poorest Countries Are Failing and What Can Be Done About It. Oxford: Oxford University Press, 2007. 205 pp. 
-773. Paul Collier. Wars, Guns, and Votes: Democracy in Dangerous Places. New York: Harper, 2009. 304 pp. 
-774. Jeffrey Sachs. The End of Poverty: Economic Possibilities for Our Time. New York: Penguin, 2005. 416 pp. 
-775. Jeffrey Sachs. Common Wealth: Economics for a Crowded Planet. New York: Penguin, 2008. 400 pp. 
-776. Jeffrey Sachs. The Age of Sustainable Development. New York: Columbia University Press, 2015. 544 pp. 
-777. Amartya Sen. Collective Choice and Social Welfare. San Francisco: Holden-Day, 1970. 264 pp. 
-778. Amartya Sen. On Economic Inequality. Oxford: Clarendon Press, 1973. 210 pp. 
-779. Amartya Sen. Rationality and Freedom. Cambridge, MA: Harvard University Press, 2002. 736 pp. 
-780. Amartya Sen. The Idea of Justice. Cambridge, MA: Harvard University Press, 2009. 496 pp. 
-781. Kenneth Arrow. Social Choice and Individual Values. New Haven: Yale University Press, 1951. 124 pp. 
-782. Kenneth Arrow. Essays in the Theory of Risk-Bearing. Chicago: Markham Publishing, 1971. 278 pp. 
+712. Uma Kapila. Understanding the Problems of Indian Economy. New Delhi: Academic Foundation, 2010. pp. 420. 
+713. C. Rangarajan and S. D. Tendulkar, eds. Indian Economy: Essays on Money and Finance. New Delhi: Oxford University Press, 2003. pp. 480. 
+714. Shankar Acharya and Rakesh Mohan. India’s Economy: Performance and Challenges. New Delhi: Oxford University Press, 2010. pp. 540. 
+715. Rakesh Mohan. Urbanization in India: Challenges, Opportunities and the Way Forward. New Delhi: RBI, 2011. pp. 290. 
+716. Isher Judge Ahluwalia. Transforming Our Cities: Postcards of Change. New Delhi: HarperCollins, 2014. pp. 330. 
+717. Isher Judge Ahluwalia. Industrial Growth in India: Stagnation since the Mid-Sixties. New Delhi: Oxford University Press, 1985. pp. 310. 
+718. Isher Judge Ahluwalia, Ravi Kanbur, and P. K. Mohanty, eds. Urbanisation in India: Challenges, Opportunities and the Way Forward. New Delhi: Sage, 2014. pp. 520. 
+719. Amitabh Kundu, ed. Urbanisation and Urban Governance in India. New Delhi: Orient BlackSwan, 2006. pp. 340. 
+720. Amitabh Kundu. Inequality, Mobility and Urbanisation in India. New Delhi: Indian Social Institute, 1987. pp. 220. 
+721. Ashok Gulati and Shenggen Fan, eds. The Dragon and the Elephant: Agricultural and Rural Reforms in China and India. Baltimore: Johns Hopkins University Press, 2007. pp. 480. 
+722. Ashok Gulati, Ruth Meinzen-Dick, and K. V. Raju, eds. Institutional Reforms in Indian Irrigation. New Delhi: Sage, 2005. pp. 380 
+723. Ashok Gulati and Sudha Narayanan. The Subsidy Syndrome in Indian Agriculture. New Delhi: Oxford University Press, 2003. pp. 360. 
+724. Ashok Gulati and Shweta Saini. Indian Agriculture: Farm Policy Reforms for Growth and Sustainability. New Delhi: Academic Foundation, 2019. pp. 420. 
+725. Montek Singh Ahluwalia, S. D. Tendulkar, and L. R. Jain, eds. Economic Reforms and Macroeconomic Management in India. New Delhi: Sage, 1996. pp. 440. 
+726. Pranab Bardhan. The Political Economy of Development in India. Oxford: Basil Blackwell, 1984. pp. 232. 
+727. Pranab Bardhan. Awakening Giants, Feet of Clay: Assessing the Economic Rise of China and India. Princeton: Princeton University Press, 2010. pp. 272. 
+728. Pranab Bardhan. Globalization and Development. Oxford: Oxford University Press, 2006. pp. 260. 
+729. Pranab Bardhan and Dilip Mookherjee, eds. Decentralization and Local Governance in Developing Countries. Cambridge: MIT Press, 2006. pp. 380. 
+730. Dilip Mookherjee. The Crisis in Government Accountability: Essays on Governance and Reform in India. New Delhi: Oxford University Press, 2014. pp. 310. 
+731. Maitreesh Ghatak. Development Economics. London: Routledge, 2017. pp. 280. 
+732. Abhijit V. Banerjee, Roland Benabou, and Dilip Mookherjee, eds. Understanding Poverty. Oxford: Oxford University Press, 2006. pp. 480. 
+733. Abhijit V. Banerjee and Esther Duflo. Good Economics for Hard Times. London: Penguin, 2019. pp. 416. 
+734. Abhijit V. Banerjee. Making Aid Work. Cambridge, MA: MIT Press, 2007. pp. 120. 
+735. Esther Duflo. Poor but Rational? Cambridge: MIT Department of Economics, 2006. pp. 240. 
+736. Michael Kremer. Randomized Evaluations of Educational Programs. Washington, DC: World Bank, 2003. pp. 180. 
+737. Michael Kremer, Rachel Glennerster, and Esther Duflo. Strong Medicine: Creating Incentives for Pharmaceutical Research on Neglected Diseases. Princeton: Princeton University Press, 2004. pp. 192. 
+738. Angus Deaton. Understanding Consumption. Oxford: Clarendon Press, 1992. pp. 280. 
+739. Angus Deaton. The Analysis of Household Surveys: A Microeconometric Approach to Development Policy. Baltimore: Johns Hopkins University Press, 1997. pp. 480. 
+740. Abhijit V. Banerjee and Esther Duflo. Field Experiments in Development Economics. New Delhi: Oxford University Press, 2010. pp. 220. 
+741. Dean Karlan and Jonathan Morduch. Access to Finance. Cambridge: MIT Press, 2009. pp. 300. 
+742. Dean Karlan and Jacob Appel. More Than Good Intentions: How a New Economics Is Helping to Solve Global Poverty. New York: Dutton, 2011. pp. 320. 
+743. Dean Karlan and Sendhil Mullainathan. Poverty and Psychology: Behavioral Economics and Development. Cambridge: MIT Press, 2007. pp. 200. 
+744. Sendhil Mullainathan and Eldar Shafir. Scarcity: Why Having Too Little Means So Much. New York: Times Books, 2013. pp. 304. 
+745. Richard H. Thaler. Misbehaving: The Making of Behavioral Economics. New York: W. W. Norton, 2015. pp. 432. 
+746. Richard H. Thaler and Cass R. Sunstein. Nudge: Improving Decisions about Health, Wealth, and Happiness. New Haven: Yale University Press, 2008. pp. 312. 
+747. Cass R. Sunstein. Simpler: The Future of Government. New York: Simon & Schuster, 2013. pp. 260. 
+748. Daniel Kahneman. Thinking, Fast and Slow. New York: Farrar, Straus and Giroux, 2011. pp. 499. 
+749. Amos Tversky and Daniel Kahneman. Judgment under Uncertainty: Heuristics and Biases. Cambridge: Cambridge University Press, 1982. pp. 555. 
+750. Kahneman, Daniel, Paul Slovic, and Amos Tversky, eds. Judgment under Uncertainty: Heuristics and Biases. Cambridge: Cambridge University Press, 1982. pp. 550. 
+751. Dan Ariely. Predictably Irrational: The Hidden Forces That Shape Our Decisions. New York: HarperCollins, 2008. pp. 280. 
+752. Dan Ariely. The Upside of Irrationality. New York: HarperCollins, 2010. pp. 336. 
+753. Dan Ariely. The Honest Truth about Dishonesty. New York: HarperCollins, 2012. pp. 336. 
+754. George A. Akerlof and Robert J. Shiller. Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism. Princeton: Princeton University Press, 2009. pp. 230. 
+755. George A. Akerlof and Rachel Kranton. Identity Economics: How Our Identities Shape Our Work, Wages, and Well-Being. Princeton: Princeton University Press, 2010. pp. 185. 
+756. Joseph E. Stiglitz. Globalization and Its Discontents. New York: W. W. Norton, 2002. pp. 282. 
+757. Joseph E. Stiglitz. Making Globalization Work. New York: W. W. Norton, 2006. pp. 358. 
+758. Joseph E. Stiglitz. The Price of Inequality. New York: W. W. Norton, 2012. pp. 414. 
+759. Joseph E. Stiglitz and Carl E. Walsh. Principles of Microeconomics. New York: W. W. Norton, 2006. pp. 800. 
+760. Joseph E. Stiglitz and Andrew Charlton. Fair Trade for All: How Trade Can Promote Development. New York: Oxford University Press, 2005. pp. 320. 
+761. Thomas Piketty. Capital in the Twenty-First Century. Cambridge, MA: Harvard University Press, 2014. pp. 685. 
+762. Thomas Piketty. Capital and Ideology. Cambridge, MA: Harvard University Press, 2020. pp. 1093. 
+763. Thomas Piketty and Emmanuel Saez. Income Inequality in the United States, 1913–1998. Quarterly Journal of Economics 118, no. 1 (2003): pp. 1–39. 
+764. Emmanuel Saez and Gabriel Zucman. The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay. New York: W. W. Norton, 2019. pp. 232. 
+765. Gabriel Zucman. The Hidden Wealth of Nations: The Scourge of Tax Havens. Chicago: University of Chicago Press, 2015. pp. 232. 
+766. Branko Milanović. Global Inequality: A New Approach for the Age of Globalization. Cambridge, MA: Harvard University Press, 2016. pp. 320. 
+767. Branko Milanović. Capitalism, Alone: The Future of the System That Rules the World. Cambridge, MA: Harvard University Press, 2019. pp. 287. 
+768. Angus Maddison. The World Economy: A Millennial Perspective. Paris: OECD, 2001. pp. 384. 
+769. Maddison, Angus. Contours of the World Economy 1–2030 AD. Oxford: Oxford University Press, 2007. pp. 432. 
+770. Daron Acemoglu and James A. Robinson. Why Nations Fail: The Origins of Power, Prosperity, and Poverty. New York: Crown, 2012. pp. 529. 
+771. Daron Acemoglu, Simon Johnson, and James A. Robinson. Economic Origins of Dictatorship and Democracy. Cambridge: Cambridge University Press, 2006. pp. 416. 
+772. Paul Collier. The Bottom Billion: Why the Poorest Countries Are Failing and What Can Be Done About It. Oxford: Oxford University Press, 2007. pp. 205. 
+773. Paul Collier. Wars, Guns, and Votes: Democracy in Dangerous Places. New York: Harper, 2009. pp. 304. 
+774. Jeffrey Sachs. The End of Poverty: Economic Possibilities for Our Time. New York: Penguin, 2005. pp. 416. 
+775. Jeffrey Sachs. Common Wealth: Economics for a Crowded Planet. New York: Penguin, 2008. pp. 400. 
+776. Jeffrey Sachs. The Age of Sustainable Development. New York: Columbia University Press, 2015. pp. 544. 
+777. Amartya Sen. Collective Choice and Social Welfare. San Francisco: Holden-Day, 1970. pp. 264. 
+778. Amartya Sen. On Economic Inequality. Oxford: Clarendon Press, 1973. pp. 210. 
+779. Amartya Sen. Rationality and Freedom. Cambridge, MA: Harvard University Press, 2002. pp. 736. 
+780. Amartya Sen. The Idea of Justice. Cambridge, MA: Harvard University Press, 2009. pp. 496. 
+781. Kenneth Arrow. Social Choice and Individual Values. New Haven: Yale University Press, 1951. pp. 124. 
+782. Kenneth Arrow. Essays in the Theory of Risk-Bearing. Chicago: Markham Publishing, 1971. pp. 278. 
 783. Kenneth Arrow. Collected Papers of Kenneth J. Arrow, 6 vols. Cambridge, MA: Harvard University Press, 1983–2002. 
-784. John Maynard Keynes. The General Theory of Employment, Interest and Money. London: Macmillan, 1936. 403 pp. 
-785. John Maynard Keynes. Essays in Persuasion. London: Macmillan, 1931. 380 pp. 
-786. John Maynard Keynes. A Treatise on Probability. London: Macmillan, 1921. 466 pp. 
-787. Milton Friedman. Capitalism and Freedom. Chicago: University of Chicago Press, 1962. 202 pp. 
-788. Milton Friedman. Free to Choose. New York: Harcourt Brace Jovanovich, 1980. 338 pp. 
-789. Milton Friedman. Essays in Positive Economics. Chicago: University of Chicago Press, 1953. 328 pp 
-790. Friedrich A. Hayek. The Road to Serfdom. London: Routledge, 1944. 250 pp. 
+784. John Maynard Keynes. The General Theory of Employment, Interest and Money. London: Macmillan, 1936. pp. 403. 
+785. John Maynard Keynes. Essays in Persuasion. London: Macmillan, 1931. pp. 380. 
+786. John Maynard Keynes. A Treatise on Probability. London: Macmillan, 1921. pp. 466. 
+787. Milton Friedman. Capitalism and Freedom. Chicago: University of Chicago Press, 1962. pp. 202. 
+788. Milton Friedman. Free to Choose. New York: Harcourt Brace Jovanovich, 1980. pp. 338. 
+789. Milton Friedman. Essays in Positive Economics. Chicago: University of Chicago Press, 1953. pp. 328 
+790. Friedrich A. Hayek. The Road to Serfdom. London: Routledge, 1944. pp. 250. 
 791. Friedrich A. Hayek. Law, Legislation and Liberty, 3 vols. London: Routledge, 1973–1979. 
-792. Friedrich A. Hayek. The Constitution of Liberty. Chicago: University of Chicago Press, 1960. 568 pp. 
-793. Karl Marx. Capital: A Critique of Political Economy, Vol. 1. Hamburg: Otto Meissner, 1867. Reprint, London: Penguin, 1976. 1152 pp. 
-794. Karl Marx. Capital, Vols. 2–3. Edited by Friedrich Engels. London: Penguin, 1978–1981. 
-795. Karl Marx and Friedrich Engels. The Communist Manifesto. London: 1848. Reprint, London: Verso, 2012. 120 pp. 
-796. Karl Marx. Grundrisse: Foundations of the Critique of Political Economy. London: Penguin, 1973. 916 pp. 
-797. Antonio Gramsci. Selections from the Prison Notebooks. Edited by Quintin Hoare and Geoffrey Nowell Smith. New York: International Publishers, 1971. 482 pp. 
+792. Friedrich A. Hayek. The Constitution of Liberty. Chicago: University of Chicago Press, 1960. pp. 568. 
+793. Karl Marx. Capital: A Critique of Political Economy, Vol. 1. Hamburg: Otto Meissner, 1867. Reprint, London: Penguin, 1976. pp. 1152. 
+794. Karl Marx. Capital, Vols. pp.  2–3. Edited by Friedrich Engels. London: Penguin, 1978–1981. 
+795. Karl Marx and Friedrich Engels. The Communist Manifesto. London: 1848. Reprint, London: Verso, 2012. pp. 120. 
+796. Karl Marx. Grundrisse: Foundations of the Critique of Political Economy. London: Penguin, 1973. pp. 916. 
+797. Antonio Gramsci. Selections from the Prison Notebooks. Edited by Quintin Hoare and Geoffrey Nowell Smith. New York: International Publishers, 1971. pp. 482. 
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
-799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
-800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: pp. 511; Vol. 2: pp.  562. 
+800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. pp. 292.
+
 
 
 
