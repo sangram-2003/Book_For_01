@@ -419,58 +419,58 @@ REFERENCES
 
 
 
+451. C. A. Bayly. Rulers, Townsmen and Bazaars: North Indian Society in the Age of British Expansion 1770–1870. Cambridge: Cambridge University Press, 1983. pp. 530. 
+452. C. A. Bayly. Indian Society and the Making of the British Empire. Cambridge: Cambridge University Press, 1988. pp. 246. 
+453. Seema Alavi. The Sepoys and the Company: Tradition and Transition in Northern India 1770–1830. Delhi: Oxford University Press, 1995. pp. 350. 
+454. Seema Alavi. Islam and Healing: Loss and Recovery of an Indo-Muslim Medical Tradition 1600–1900. Delhi: Permanent Black, 2008. pp. 460. 
+455. Rajat Kanta Ray. Colonial Bengal: The Making of a Society. Delhi: Oxford University Press, 1994. pp. 400. 
+456. Rajat Kanta Ray. Social Conflict and Political Unrest in Bengal, 1875–1927. Delhi: Oxford University Press, 1984. pp. 380. 
+457. Rajat Kanta Ray, ed. Entrepreneurship and Industry in India, 1800–1947. Delhi: Oxford University Press, 1994. pp. 368. 
+458. Rajat Kanta Ray. The Felt Community: Commonalty and Mentality before the Emergence of Indian Nationalism. Delhi: Oxford University Press, 2003. pp. 364. 
+459. Rajnarayan Chandavarkar. The Origins of Industrial Capitalism in India: Business Strategies and the Working Classes in Bombay, 1900–1940. Cambridge: Cambridge University Press, 1994. pp. 480. 
+460. Rajnarayan Chandavarkar. Imperial Power and Popular Politics: Class, Resistance and the State in India, c.1850–1950. Cambridge: Cambridge University Press, 1998. pp. 496. 
+461. Douglas M. Peers. Between Mars and Mammon: Colonial Armies and the Garrison State in India, 1819–1835. London: Tauris, 1995. pp. 320. 
+462. Douglas M. Peers. India under Colonial Rule: 1700–1885. Harlow: Pearson, 2006. pp. 288. 
+463. Rajiv Bhargava, ed. Secularism and Its Critics. Delhi: Oxford University Press, 1998. pp. 400. 
+464. Ashis Nandy. The Intimate Enemy: Loss and Recovery of Self under Colonialism. Delhi: Oxford University Press, 1983. pp. 182. 
+465. Ashis Nandy. An Ambiguous Journey to the City: The Village and Other Odd Ruins of the Self in the Indian Imagination. Delhi: Oxford University Press, 2001. pp. 184. 
+466. Ashis Nandy. The Illegitimacy of Nationalism: Rabindranath Tagore and the Politics of Self. Delhi: Oxford University Press, 1994. pp. 170. 
+467. Dipesh Chakrabarty. Habitations of Modernity: Essays in the Wake of Subaltern Studies. Chicago: University of Chicago Press, 2002. pp. 300. 
+468. Gyan Prakash. Another Reason: Science and the Imagination of Modern India. Princeton: Princeton University Press, 1999. pp. 288. 
+469. Gyan Prakash. Bonded Histories: Genealogies of Labour Servitude in Colonial India. Cambridge: Cambridge University Press, 1990. pp. 320. 
+470. Mrinalini Sinha. Colonial Masculinity: The ‘Manly Englishman’ and the ‘Effeminate Bengali’ in the Late Nineteenth Century. Manchester: Manchester University Press, 1995. pp. 250. 
+471. Mrinalini Sinha. Specters of Mother India: The Global Restructuring of an Empire. Durham: Duke University Press, 2006. pp. 372. 
+472. Antoinette Burton. Burdens of History: British Feminists, Indian Women, and Imperial Culture, 1865–1915. Chapel Hill: University of North Carolina Press, 1994. pp. 304. 
+473. Antoinette Burton. Dwelling in the Archive: Women Writing House, Home, and History in Late Colonial India. New York: Oxford University Press, 2003. pp. 252. 
+474. Tanika Sarkar. Hindu Wife, Hindu Nation: Community, Religion and Cultural Nationalism. Delhi: Permanent Black, 2001. pp. 352. 
+475. Tanika Sarkar and Urvashi Butalia, eds. Women and the Hindu Right: A Collection of Essays. Delhi: Kali for Women, 1995. pp. 348. 
+476. Kumkum Sangari and Sudesh Vaid, eds. Recasting Women: Essays in Colonial History. Delhi: Kali for Women, 1989. pp. 372. 
+477. Geraldine Forbes. Women in Modern India. Cambridge: Cambridge University Press, 1996. pp. 316. 
+478. Uma Chakravarti. Rewriting History: The Life and Times of Pandita Ramabai. Delhi: Kali for Women, 1998. pp. 340. 
+479. Uma Chakravarti. Gendering Caste: Through a Feminist Lens. Calcutta: Stree, 2003. pp. 180. 
+480. Sharmila Rege. Writing Caste/Writing Gender: Narrating Dalit Women’s Testimonios. Delhi: Zubaan, 2006. pp. 330. 
+481. Kancha Ilaiah. Why I Am Not a Hindu: A Sudra Critique of Hindutva Philosophy, Culture and Political Economy. Calcutta: Samya, 1996. pp. 208. 
+482. Kancha Ilaiah Shepherd. Post-Hindu India: A Discourse in Dalit-Bahujan, Socio-Spiritual and Scientific Revolution. Delhi: Sage Publications, 2009. pp. 352. 
+483. Gail Omvedt. Dalits and the Democratic Revolution: Dr Ambedkar and the Dalit Movement in Colonial India. Delhi: Sage, 1994. pp. 376. 
+484. Gail Omvedt. Buddhism in India: Challenging Brahmanism and Caste. Delhi: Sage, 2003. pp. 380. 
+485. Eleanor Zelliot. From Untouchable to Dalit: Essays on the Ambedkar Movement. Delhi: Manohar, 1992. pp. 340. 
+486. Christophe Jaffrelot. Dr. Ambedkar and Untouchability: Fighting the Indian Caste System. New York: Columbia University Press, 2005. pp. 192. 
+487. Christophe Jaffrelot. India’s Silent Revolution: The Rise of the Lower Castes in North India. London: Hurst, 2003. pp. 528. 
+488. Anupama Rao. The Caste Question: Dalits and the Politics of Modern India. Berkeley: University of California Press, 2009. pp. 400. 
+489. M. N. Srinivas. Caste in Modern India and Other Essays. Bombay: Asia Publishing House, 1962. pp. 270. 
+490. M. N. Srinivas. Social Change in Modern India. Berkeley: University of California Press, 1966. pp. 200. 
+491. Andre Béteille. Caste, Class and Power: Changing Patterns of Stratification in a Tanjore Village. Berkeley: University of California Press, 1965. pp. 270. 
+492. Andre Béteille. Society and Politics in India: Essays in a Comparative Perspective. Delhi: Oxford University Press, 1991. pp. 300. 
+493. Louis Dumont. Homo Hierarchicus: The Caste System and Its Implications. Chicago: University of Chicago Press, 1970. pp. 388. 
+494. Nicholas B. Dirks, ed. Colonialism and Culture. Ann Arbor: University of Michigan Press, 1992. pp. 420. 
+495. Nicholas B. Dirks. The Scandal of Empire: India and the Creation of Imperial Britain. Cambridge: Harvard University Press, 2006. pp. 389. 
+496. Susan Bayly. Caste, Society and Politics in India from the Eighteenth Century to the Modern Age. Cambridge: Cambridge University Press, 1999. pp. 426. 
+497. Sumit Guha. Beyond Caste: Identity and Power in South Asia, Past and Present. Leiden: Brill, 2013. pp. 340. 
+498. Rosalind O’Hanlon. Caste, Conflict and Ideology: Mahatma Jotirao Phule and Low Caste Protest in Nineteenth-Century Western India. Cambridge: Cambridge University Press, 1985. pp. 310. 
+499. Rosalind O’Hanlon. Colonialism and Social Identities in South Asia. Delhi: Oxford University Press, 2010. pp. 284. 
+500. Jotirao Phule. Slavery (Gulamgiri). Translated by P. G. Patil. New Delhi: Critical Quest, 2002. pp. 138.
 
-451–500 
-451. C. A. Bayly. Rulers, Townsmen and Bazaars: North Indian Society in the Age of British Expansion 1770–1870. Cambridge: Cambridge University Press, 1983. 530 pp. 
-452. C. A. Bayly. Indian Society and the Making of the British Empire. Cambridge: Cambridge University Press, 1988. 246 pp. 
-453. Seema Alavi. The Sepoys and the Company: Tradition and Transition in Northern India 1770–1830. Delhi: Oxford University Press, 1995. 350 pp. 
-454. Seema Alavi. Islam and Healing: Loss and Recovery of an Indo-Muslim Medical Tradition 1600–1900. Delhi: Permanent Black, 2008. 460 pp. 
-455. Rajat Kanta Ray. Colonial Bengal: The Making of a Society. Delhi: Oxford University Press, 1994. 400 pp. 
-456. Rajat Kanta Ray. Social Conflict and Political Unrest in Bengal, 1875–1927. Delhi: Oxford University Press, 1984. 380 pp. 
-457. Rajat Kanta Ray, ed. Entrepreneurship and Industry in India, 1800–1947. Delhi: Oxford University Press, 1994. 368 pp. 
-458. Rajat Kanta Ray. The Felt Community: Commonalty and Mentality before the Emergence of Indian Nationalism. Delhi: Oxford University Press, 2003. 364 pp. 
-459. Rajnarayan Chandavarkar. The Origins of Industrial Capitalism in India: Business Strategies and the Working Classes in Bombay, 1900–1940. Cambridge: Cambridge University Press, 1994. 480 pp. 
-460. Rajnarayan Chandavarkar. Imperial Power and Popular Politics: Class, Resistance and the State in India, c.1850–1950. Cambridge: Cambridge University Press, 1998. 496 pp. 
-461. Douglas M. Peers. Between Mars and Mammon: Colonial Armies and the Garrison State in India, 1819–1835. London: Tauris, 1995. 320 pp. 
-462. Douglas M. Peers. India under Colonial Rule: 1700–1885. Harlow: Pearson, 2006. 288 pp. 
-463. Rajiv Bhargava, ed. Secularism and Its Critics. Delhi: Oxford University Press, 1998. 400 pp. 
-464. Ashis Nandy. The Intimate Enemy: Loss and Recovery of Self under Colonialism. Delhi: Oxford University Press, 1983. 182 pp. 
-465. Ashis Nandy. An Ambiguous Journey to the City: The Village and Other Odd Ruins of the Self in the Indian Imagination. Delhi: Oxford University Press, 2001. 184 pp. 
-466. Ashis Nandy. The Illegitimacy of Nationalism: Rabindranath Tagore and the Politics of Self. Delhi: Oxford University Press, 1994. 170 pp. 
-467. Dipesh Chakrabarty. Habitations of Modernity: Essays in the Wake of Subaltern Studies. Chicago: University of Chicago Press, 2002. 300 pp. 
-468. Gyan Prakash. Another Reason: Science and the Imagination of Modern India. Princeton: Princeton University Press, 1999. 288 pp. 
-469. Gyan Prakash. Bonded Histories: Genealogies of Labour Servitude in Colonial India. Cambridge: Cambridge University Press, 1990. 320 pp. 
-470. Mrinalini Sinha. Colonial Masculinity: The ‘Manly Englishman’ and the ‘Effeminate Bengali’ in the Late Nineteenth Century. Manchester: Manchester University Press, 1995. 250 pp. 
-471. Mrinalini Sinha. Specters of Mother India: The Global Restructuring of an Empire. Durham: Duke University Press, 2006. 372 pp. 
-472. Antoinette Burton. Burdens of History: British Feminists, Indian Women, and Imperial Culture, 1865–1915. Chapel Hill: University of North Carolina Press, 1994. 304 pp. 
-473. Antoinette Burton. Dwelling in the Archive: Women Writing House, Home, and History in Late Colonial India. New York: Oxford University Press, 2003. 252 pp. 
-474. Tanika Sarkar. Hindu Wife, Hindu Nation: Community, Religion and Cultural Nationalism. Delhi: Permanent Black, 2001. 352 pp. 
-475. Tanika Sarkar and Urvashi Butalia, eds. Women and the Hindu Right: A Collection of Essays. Delhi: Kali for Women, 1995. 348 pp. 
-476. Kumkum Sangari and Sudesh Vaid, eds. Recasting Women: Essays in Colonial History. Delhi: Kali for Women, 1989. 372 pp. 
-477. Geraldine Forbes. Women in Modern India. Cambridge: Cambridge University Press, 1996. 316 pp. 
-478. Uma Chakravarti. Rewriting History: The Life and Times of Pandita Ramabai. Delhi: Kali for Women, 1998. 340 pp. 
-479. Uma Chakravarti. Gendering Caste: Through a Feminist Lens. Calcutta: Stree, 2003. 180 pp. 
-480. Sharmila Rege. Writing Caste/Writing Gender: Narrating Dalit Women’s Testimonios. Delhi: Zubaan, 2006. 330 pp. 
-481. Kancha Ilaiah. Why I Am Not a Hindu: A Sudra Critique of Hindutva Philosophy, Culture and Political Economy. Calcutta: Samya, 1996. 208 pp. 
-482. Kancha Ilaiah Shepherd. Post-Hindu India: A Discourse in Dalit-Bahujan, Socio-Spiritual and Scientific Revolution. Delhi: Sage Publications, 2009. 352 pp. 
-483. Gail Omvedt. Dalits and the Democratic Revolution: Dr Ambedkar and the Dalit Movement in Colonial India. Delhi: Sage, 1994. 376 pp. 
-484. Gail Omvedt. Buddhism in India: Challenging Brahmanism and Caste. Delhi: Sage, 2003. 380 pp. 
-485. Eleanor Zelliot. From Untouchable to Dalit: Essays on the Ambedkar Movement. Delhi: Manohar, 1992. 340 pp. 
-486. Christophe Jaffrelot. Dr. Ambedkar and Untouchability: Fighting the Indian Caste System. New York: Columbia University Press, 2005. 192 pp. 
-487. Christophe Jaffrelot. India’s Silent Revolution: The Rise of the Lower Castes in North India. London: Hurst, 2003. 528 pp. 
-488. Anupama Rao. The Caste Question: Dalits and the Politics of Modern India. Berkeley: University of California Press, 2009. 400 pp. 
-489. M. N. Srinivas. Caste in Modern India and Other Essays. Bombay: Asia Publishing House, 1962. 270 pp. 
-490. M. N. Srinivas. Social Change in Modern India. Berkeley: University of California Press, 1966. 200 pp. 
-491. Andre Béteille. Caste, Class and Power: Changing Patterns of Stratification in a Tanjore Village. Berkeley: University of California Press, 1965. 270 pp. 
-492. Andre Béteille. Society and Politics in India: Essays in a Comparative Perspective. Delhi: Oxford University Press, 1991. 300 pp. 
-493. Louis Dumont. Homo Hierarchicus: The Caste System and Its Implications. Chicago: University of Chicago Press, 1970. 388 pp. 
-494. Nicholas B. Dirks, ed. Colonialism and Culture. Ann Arbor: University of Michigan Press, 1992. 420 pp. 
-495. Nicholas B. Dirks. The Scandal of Empire: India and the Creation of Imperial Britain. Cambridge: Harvard University Press, 2006. 389 pp. 
-496. Susan Bayly. Caste, Society and Politics in India from the Eighteenth Century to the Modern Age. Cambridge: Cambridge University Press, 1999. 426 pp. 
-497. Sumit Guha. Beyond Caste: Identity and Power in South Asia, Past and Present. Leiden: Brill, 2013. 340 pp. 
-498. Rosalind O’Hanlon. Caste, Conflict and Ideology: Mahatma Jotirao Phule and Low Caste Protest in Nineteenth-Century Western India. Cambridge: Cambridge University Press, 1985. 310 pp. 
-499. Rosalind O’Hanlon. Colonialism and Social Identities in South Asia. Delhi: Oxford University Press, 2010. 284 pp. 
-500. Jotirao Phule. Slavery (Gulamgiri). Translated by P. G. Patil. New Delhi: Critical Quest, 2002. 138 pp. 
+
 [28/09, 2:31 pm] Malay Khan(sadgope ): 501–550 
 501. Jotirao Phule. Selected Writings of Jotirao Phule. Edited by G. P. Deshpande. New Delhi: LeftWord, 2002. 220 pp. 
 502. Gail Omvedt. Cultural Revolt in a Colonial Society: The Non-Brahman Movement in Western India, 1873–1930. Bombay: Scientific Socialist Education Trust, 1976. 370 pp. 
@@ -778,6 +778,7 @@ REFERENCES
 798. Antonio Gramsci. Prison Notebooks, 3 vols. New York: Columbia University Press, 1992–2007. 
 799. Max Weber. Economy and Society, 2 vols. Berkeley: University of California Press, 1978. Vol. 1: 511 pp; Vol. 2: 562 pp. 
 800. Max Weber. The Protestant Ethic and the Spirit of Capitalism. London: Allen & Unwin, 1930. 292 pp. 
+
 
 
 
